@@ -1,0 +1,48 @@
+WATCH Ver=2.00 PLCName=PLC1 CPUName=CPU TaskName=Recipes 
+Position X=0 Y=0 Width=0 Height=0 TabWidth Name=200 Type=100 Scope=60 Force=60 Index=3 ASCIIString=0
+                                    name                                     type force                                                            value level type len format place expand specs
+                        gRecipeInterface                  RecipeCtrlInterface_typ    0 "                                                               *"    0   24    1    0    0    1         
+                                Commands         RecipeCtrlInterface_Commands_typ    0 "                                                               *"    1   24    1    0    0    1         
+                            ChangeRecipe                                     BOOL    0 "                                                           FALSE"    2    1    1    2    0    0         
+                              LoadRecipe                                     BOOL    0 "                                                            TRUE"    2    1    1    2    0    0         
+                              SaveRecipe                                     BOOL    0 "                                                           FALSE"    2    1    1    2    0    0         
+                              Parameters             RecipeCtrlInterface_Pars_typ    0 "                                                               *"    1   24    1    0    0    1         
+                             RecipeIndex                                    USINT    0 "                                                               0"    2    5    1   10    0    0         
+                              RecipeName                              STRING[100]    0 "                                                 'settings1.xml'"    2    9  101    1    0    0         
+                                  Status           RecipeCtrlInterface_Status_typ    0 "                                                               *"    1   24    1    0    0    1         
+                                    Busy                                     BOOL    0 "                                                           FALSE"    2    1    1    2    0    0         
+                       LoadedRecipeIndex                                    USINT    0 "                                                               1"    2    5    1   10    0    0         
+                        LoadedRecipeName                              STRING[255]    0 "                                                              ''"    2    9  256    1    0    0         
+                     RecipeHasBeenLoaded                                     BOOL    0 "                                                           FALSE"    2    1    1    2    0    0         
+                           MpRecipeXml_0                              MpRecipeXml    0 "                                                               *"    0   24    1    0    1    1         
+                                  MpLink                                    UDINT    0 "                                                       112253984"    1    7    1   10    0    0         
+                                  Enable                                     BOOL    0 "                                                            TRUE"    1    1    1    2    0    0         
+                              ErrorReset                                     BOOL    0 "                                                           FALSE"    1    1    1    2    0    0         
+                              DeviceName                                    UDINT    0 "                                                       117478872"    1    7    1   10    0    0         
+                                FileName                                    UDINT    0 "                                                       112170064"    1    7    1   10    0    0         
+                                  Header                                    UDINT    0 "                                                               0"    1    7    1   10    0    0         
+                                Category                                    UDINT    0 "                                                               0"    1    7    1   10    0    0         
+                                LoadType                                     DINT    0 "                                                               0"    1    4    1   10    0    0 e,0,mpRE
+
+                                    Load                                     BOOL    0 "                                                            TRUE"    1    1    1    2    0    0         
+                                    Save                                     BOOL    0 "                                                           FALSE"    1    1    1    2    0    0         
+                      UpdateNotification                                     BOOL    0 "                                                           FALSE"    1    1    1    2    0    0         
+                                  Active                                     BOOL    0 "                                                            TRUE"    1    1    1    2    0    0         
+                                   Error                                     BOOL    0 "                                                            TRUE"    1    1    1    2    0    0         
+                                StatusID                                     DINT    0 "                                                     -1064140798"    1    4    1   10    0    0         
+                             CommandBusy                                     BOOL    0 "                                                           FALSE"    1    1    1    2    0    0         
+                             CommandDone                                     BOOL    0 "                                                           FALSE"    1    1    1    2    0    0         
+                                    Info                      MpRecipeXmlInfoType    0 "                                                               *"    1   24    1    0    0    1         
+                                FileSize                                    UDINT    0 "                                                               0"    2    7    1   10    0    0         
+                             PendingSync                                    UDINT    0 "                                                               0"    2    7    1   10    0    0         
+                                    Diag                         MpRecipeDiagType    0 "                                                               *"    2   24    1    0    0    1         
+                                StatusID                     MpRecipeStatusIDType    0 "                                                               *"    3   24    1    0    0    1         
+                                      ID                                     DINT    0 "                                                               0"    4    4    1   10    0    0 e,0,mpRE
+
+                                Severity                                     DINT    0 "                                                               0"    4    4    1   10    0    0 e,0,mpCO
+
+                                    Code                                     UINT    0 "                                                               0"    4    6    1   10    0    0         
+                        LastLoadedRecipe                              STRING[255]    0 "                                                 'settings1.xml'"    2    9  256    1    0    0         
+                                Internal                    MpComInternalDataType    0 "                                                               *"    1   24    1    0    0    1         
+                                 pObject                                    UDINT    0 "                                                       100215584"    2    7    1   10    0    0         
+                                   State                                    UDINT    0 "                                                               3"    2    7    1   10    0    0         

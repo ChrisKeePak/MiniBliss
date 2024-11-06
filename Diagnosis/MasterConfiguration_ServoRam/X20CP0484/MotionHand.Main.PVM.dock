@@ -1,0 +1,26 @@
+WATCH Ver=2.00 PLCName=PLC1 CPUName=CPU TaskName=MotionHand 
+Position X=0 Y=0 Width=0 Height=0 TabWidth Name=191 Type=7 Scope=6 Force=9 Index=22 ASCIIString=0
+                                    name                                     type force                                                            value level type len format place expand specs
+                         PowerSaverTimer                                      TON    0 "                                                               *"    0   24    1    0    1    1         
+                                      IN                                     BOOL    0 "                                                           FALSE"    1    1    1    2    0    0         
+                                      PT                                     TIME    0 "                                                           T#05s"    1   12    1    1    0    0         
+                                       Q                                     BOOL    0 "                                                           FALSE"    1    1    1    2    0    0         
+                                      ET                                     TIME    0 "                                                           T#0ms"    1   12    1    1    0    0         
+                               StartTime                                     TIME    0 "                                             T#01h_08m_46s_400ms"    1   12    1    1    0    0         
+                                       M                                     BOOL    0 "                                                           FALSE"    1    1    1    2    0    0         
+                                 Restart                                    UDINT    0 "                                                              84"    1    7    1   10    0    0         
+                      gServoRamInterface                       Axis_Interface_typ    0 "                                                               *"    0   24    1    0    0    1         
+                                Commands              Axis_Interface_Commands_typ    0 "                                                               *"    1   24    1    0    0    1         
+                         StartPowerSaver                                     BOOL    0 "                                                           FALSE"    2    1    1    2    0    0         
+                          StopPowerSaver                                     BOOL    0 "                                                           FALSE"    2    1    1    2    0    0         
+                                  Status                Axis_Interface_Status_typ    0 "                                                               *"    1   24    1    0    0    1         
+                               PoweredOn                                     BOOL    0 "                                                           FALSE"    2    1    1    2    0    0         
+                        PowerSaverModeOn                                     BOOL    0 "                                                           FALSE"    2    1    1    2    0    0         
+                                    gHMI                           HMIControl_typ    0 "                                                               *"    0   24    1    0    0    1         
+                                Commands                  HMIControl_Commands_typ    0 "                                                               *"    1   24    1    0    0    1         
+                           CycleServoRam                                     BOOL    0 "                                                           FALSE"    2    1    1    2    0    0         
+                            HomeServoRam                                     BOOL    0 "                                                           FALSE"    2    1    1    2    0    0         
+                          JogServoRamNeg                                     BOOL    0 "                                                           FALSE"    2    1    1    2    0    0         
+                          JogServoRamPos                                     BOOL    0 "                                                           FALSE"    2    1    1    2    0    0         
+                        ServoRamAutoHome                                     BOOL    0 "                                                           FALSE"    0    1    1    2    0    0         
+                         gCyclesToFinish                                     SINT    0 "                                                               0"    0    2    1   10    0    0         

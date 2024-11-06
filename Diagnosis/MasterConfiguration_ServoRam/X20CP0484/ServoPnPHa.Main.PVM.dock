@@ -1,0 +1,9 @@
+WATCH Ver=2.00 PLCName=PLC1 CPUName=CPU TaskName=ServoPnPHa 
+Position X=0 Y=0 Width=0 Height=0 TabWidth Name=150 Type=0 Scope=0 Force=0 Index=3 ASCIIString=0
+                                    name                                     type force                                                            value level type len format place expand specs
+                                     gIO                                   IO_typ    0 "                                                               *"    0   24    1    0    0    1         
+                                     DOs                       DigitalOutputs_typ    0 "                                                               *"    1   24    1    0    0    1         
+                              BodyKicker                                     BOOL    3 "                                                           FALSE"    2    1    1    2    0    0         
+                      gServoPnPInterface                       Axis_Interface_typ    0 "                                                               *"    0   24    1    0    0    1         
+                                  Status                Axis_Interface_Status_typ    0 "                                                               *"    1   24    1    0    0    1         
+                          ActualPosition                                    LREAL    0 "                                                98.0999984741211"    2   14    1   10    0    0         

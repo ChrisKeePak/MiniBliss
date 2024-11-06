@@ -1,0 +1,372 @@
+WATCH Ver=2.00 PLCName=PLC1 CPUName=CPU TaskName=MappCalls 
+Position X=0 Y=0 Width=0 Height=0 TabWidth Name=200 Type=100 Scope=60 Force=60 Index=217 ASCIIString=0
+                                    name                                     type force                                                            value level type len format place expand specs
+                          gSoftwareReset                                     BOOL    0 "                                                           FALSE"    0    1    1    2    0    0         
+                                ServoRam                                AxisBasic    0 "                                                               *"    0   24    1    0    1    0         
+                                 pMpLink                                    UDINT    0 "                                                       112457444"    1    7    1   10    0    0         
+                                   pAxis                                    UDINT    0 "                                                       112456216"    1    7    1   10    0    0         
+                        pEndlessPosition                                    UDINT    0 "                                                       112379308"    1    7    1   10    0    0         
+                           AxisInterface                                    UDINT    0 "                                                       112449176"    1    7    1   10    0    0         
+                           OdometerValue                                    LREAL    0 "                                                         12830.0"    1   14    1   10    0    0         
+                                Override                                     REAL    0 "                                                             1.0"    1    8    1   10    0    0         
+                              ErrorReset                                     BOOL    0 "                                                           FALSE"    1    1    1    2    0    0         
+                               AxisBasic                              MpAxisBasic    0 "                                                               *"    1   24    1    0    0    0         
+                                  MpLink                                    UDINT    0 "                                                       112457444"    2    7    1   10    0    0         
+                                  Enable                                     BOOL    0 "                                                            TRUE"    2    1    1    2    0    0         
+                              ErrorReset                                     BOOL    0 "                                                           FALSE"    2    1    1    2    0    0         
+                              Parameters                                    UDINT    0 "                                                       112450052"    2    7    1   10    0    0         
+                                  Update                                     BOOL    0 "                                                           FALSE"    2    1    1    2    0    0         
+                                    Axis                                    UDINT    0 "                                                       112456216"    2    7    1   10    0    0         
+                                   Power                                     BOOL    0 "                                                            TRUE"    2    1    1    2    0    0         
+                                    Home                                     BOOL    0 "                                                           FALSE"    2    1    1    2    0    0         
+                            MoveVelocity                                     BOOL    0 "                                                           FALSE"    2    1    1    2    0    0         
+                            MoveAbsolute                                     BOOL    0 "                                                           FALSE"    2    1    1    2    0    0         
+                            MoveAdditive                                     BOOL    0 "                                                           FALSE"    2    1    1    2    0    0         
+                                    Stop                                     BOOL    0 "                                                           FALSE"    2    1    1    2    0    0         
+                             JogPositive                                     BOOL    0 "                                                           FALSE"    2    1    1    2    0    0         
+                             JogNegative                                     BOOL    0 "                                                           FALSE"    2    1    1    2    0    0         
+                                Autotune                                     BOOL    0 "                                                           FALSE"    2    1    1    2    0    0         
+                                Simulate                                     BOOL    0 "                                                           FALSE"    2    1    1    2    0    0         
+                             TorqueLimit                                     BOOL    0 "                                                           FALSE"    2    1    1    2    0    0         
+                            ReleaseBrake                                     BOOL    0 "                                                           FALSE"    2    1    1    2    0    0         
+                                  Active                                     BOOL    0 "                                                            TRUE"    2    1    1    2    0    0         
+                                   Error                                     BOOL    0 "                                                           FALSE"    2    1    1    2    0    0         
+                                StatusID                                     DINT    0 "                                                               0"    2    4    1   10    0    0         
+                              UpdateDone                                     BOOL    0 "                                                           FALSE"    2    1    1    2    0    0         
+                                Position                                    LREAL    0 "                                                           850.0"    2   14    1   10    0    0         
+                                Velocity                                     REAL    0 "                                                               *"    2    8    1   10    0    0         
+                             CommandBusy                                     BOOL    0 "                                                               *"    2    1    1    2    0    0         
+                          CommandAborted                                     BOOL    0 "                                                               *"    2    1    1    2    0    0         
+                                 PowerOn                                     BOOL    0 "                                                               *"    2    1    1    2    0    0         
+                                 IsHomed                                     BOOL    0 "                                                               *"    2    1    1    2    0    0         
+                              InVelocity                                     BOOL    0 "                                                               *"    2    1    1    2    0    0         
+                              InPosition                                     BOOL    0 "                                                               *"    2    1    1    2    0    0         
+                              MoveActive                                     BOOL    0 "                                                               *"    2    1    1    2    0    0         
+                                 Stopped                                     BOOL    0 "                                                               *"    2    1    1    2    0    0         
+                              TuningDone                                     BOOL    0 "                                                               *"    2    1    1    2    0    0         
+                              Simulation                                     BOOL    0 "                                                               *"    2    1    1    2    0    0         
+                           TorqueLimited                                     BOOL    0 "                                                               *"    2    1    1    2    0    0         
+                           BrakeReleased                                     BOOL    0 "                                                               *"    2    1    1    2    0    0         
+                                    Info                      MpAxisBasicInfoType    0 "                                                               *"    2   24    1    0    0    0         
+                         AxisInitialized                                     BOOL    0 "                                                               *"    3    1    1    2    0    0         
+                          ReadyToPowerOn                                     BOOL    0 "                                                               *"    3    1    1    2    0    0         
+                              JogLimited                                     BOOL    0 "                                                               *"    3    1    1    2    0    0         
+                       TorqueLimitActive                                     BOOL    0 "                                                               *"    3    1    1    2    0    0         
+                          DriveRestarted                                     BOOL    0 "                                                               *"    3    1    1    2    0    0         
+                              CyclicRead                     MpAxisCyclicReadType    0 "                                                               *"    3   24    1    0    0    0         
+                                  Torque                MpAxisCyclicReadValueType    0 "                                                               *"    4   24    1    0    0    0         
+                                   Valid                                     BOOL    0 "                                                               *"    5    1    1    2    0    0         
+                                   Value                                    LREAL    0 "                                                               *"    5   14    1   10    0    0         
+                                LagError                MpAxisCyclicReadValueType    0 "                                                               *"    4   24    1    0    0    0         
+                                   Valid                                     BOOL    0 "                                                               *"    5    1    1    2    0    0         
+                                   Value                                    LREAL    0 "                                                               *"    5   14    1   10    0    0         
+                        MotorTemperature                MpAxisCyclicReadValueType    0 "                                                               *"    4   24    1    0    0    0         
+                                   Valid                                     BOOL    0 "                                                               *"    5    1    1    2    0    0         
+                                   Value                                    LREAL    0 "                                                               *"    5   14    1   10    0    0         
+                  UserChannelParameterID                MpAxisCyclicReadValueType    0 "                                                               *"    4   24    1    0    0    0         
+                                   Valid                                     BOOL    0 "                                                               *"    5    1    1    2    0    0         
+                                   Value                                    LREAL    0 "                                                               *"    5   14    1   10    0    0         
+                               BootState                                     DINT    0 "                                                               *"    3    4    1   10    0    0 e,0,mpAX
+
+                            PLCopenState                                     DINT    0 "                                                               *"    3    4    1   10    0    0 e,0,mpAX
+
+                     DigitalInputsStatus                MpAxisDigitalIOStatusType    0 "                                                               *"    3   24    1    0    0    0         
+                             DriveEnable                                     BOOL    0 "                                                               *"    4    1    1    2    0    0         
+                              HomeSwitch                                     BOOL    0 "                                                               *"    4    1    1    2    0    0         
+                     PositiveLimitSwitch                                     BOOL    0 "                                                               *"    4    1    1    2    0    0         
+                     NegativeLimitSwitch                                     BOOL    0 "                                                               *"    4    1    1    2    0    0         
+                                Trigger1                                     BOOL    0 "                                                               *"    4    1    1    2    0    0         
+                                Trigger2                                     BOOL    0 "                                                               *"    4    1    1    2    0    0         
+                            HardwareInfo                MpAxisAddInfoHardwareType    0 "                                                               *"    3   24    1    0    0    0         
+                                  NodeID                                     UINT    0 "                                                               *"    4    6    1   10    0    0         
+                                 Channel                                    USINT    0 "                                                               *"    4    5    1   10    0    0         
+                             NetworkType                                     DINT    0 "                                                               *"    4    4    1   10    0    0 e,0,mpAX
+
+                              DeviceType                                     DINT    0 "                                                               *"    4    4    1   10    0    0 e,0,mpAX
+
+                                    Diag                        MpAxisDiagExtType    0 "                                                               *"    3   24    1    0    0    0         
+                                StatusID                       MpAxisStatusIDType    0 "                                                               *"    4   24    1    0    0    0         
+                                      ID                                     DINT    0 "                                                               *"    5    4    1   10    0    0 e,0,mpAX
+
+                                Severity                                     DINT    0 "                                                               *"    5    4    1   10    0    0 e,0,mpCO
+
+                                    Code                                     UINT    0 "                                                               *"    5    6    1   10    0    0         
+                                Internal                       MpAxisInternalType    0 "                                                               *"    4   24    1    0    0    0         
+                                      ID                                     DINT    0 "                                                               *"    5    4    1   10    0    0         
+                                Severity                                     DINT    0 "                                                               *"    5    4    1   10    0    0 e,0,mpCO
+
+                                Facility                                     DINT    0 "                                                               *"    5    4    1   10    0    0 e,-1,mpC
+
+                                    Code                                     UINT    0 "                                                               *"    5    6    1   10    0    0         
+                        ExecutingCommand                                     DINT    0 "                                                               *"    4    4    1   10    0    0 e,0,mpAX
+
+                                MoveDone                                     BOOL    0 "                                                               *"    3    1    1    2    0    0         
+                                Internal                    MpComInternalDataType    0 "                                                               *"    2   24    1    0    0    0         
+                                 pObject                                    UDINT    0 "                                                               *"    3    7    1   10    0    0         
+                                   State                                    UDINT    0 "                                                               *"    3    7    1   10    0    0         
+                              AxisConfig                        MpAxisBasicConfig    0 "                                                               *"    1   24    1    0    0    0         
+                                  MpLink                                    UDINT    0 "                                                               *"    2    7    1   10    0    0         
+                                  Enable                                     BOOL    0 "                                                               *"    2    1    1    2    0    0         
+                              ErrorReset                                     BOOL    0 "                                                               *"    2    1    1    2    0    0         
+                           Configuration                                    UDINT    0 "                                                               *"    2    7    1   10    0    0         
+                                    Load                                     BOOL    0 "                                                               *"    2    1    1    2    0    0         
+                                    Save                                     BOOL    0 "                                                               *"    2    1    1    2    0    0         
+                                  Active                                     BOOL    0 "                                                               *"    2    1    1    2    0    0         
+                                   Error                                     BOOL    0 "                                                               *"    2    1    1    2    0    0         
+                                StatusID                                     DINT    0 "                                                               *"    2    4    1   10    0    0         
+                             CommandBusy                                     BOOL    0 "                                                               *"    2    1    1    2    0    0         
+                             CommandDone                                     BOOL    0 "                                                               *"    2    1    1    2    0    0         
+                                    Info                           MpAxisInfoType    0 "                                                               *"    2   24    1    0    0    0         
+                                    Diag                           MpAxisDiagType    0 "                                                               *"    3   24    1    0    0    0         
+                                StatusID                       MpAxisStatusIDType    0 "                                                               *"    4   24    1    0    0    0         
+                                      ID                                     DINT    0 "                                                               *"    5    4    1   10    0    0 e,0,mpAX
+
+                                Severity                                     DINT    0 "                                                               *"    5    4    1   10    0    0 e,0,mpCO
+
+                                    Code                                     UINT    0 "                                                               *"    5    6    1   10    0    0         
+                                Internal                    MpComInternalDataType    0 "                                                               *"    2   24    1    0    0    0         
+                                 pObject                                    UDINT    0 "                                                               *"    3    7    1   10    0    0         
+                                   State                                    UDINT    0 "                                                               *"    3    7    1   10    0    0         
+                             AbsDistance                                    LREAL    0 "                                                               *"    1   14    1   10    0    0         
+                        zzInternalMemory                              SINT[0..40]    0 "                                                               *"    1    2   41    0    0    0         
+                     zzInternalMemory[0]                                     SINT    0 "                                                               *"    2    2    1   10    0    0         
+                     zzInternalMemory[1]                                     SINT    0 "                                                               *"    2    2    1   10    0    0         
+                     zzInternalMemory[2]                                     SINT    0 "                                                               *"    2    2    1   10    0    0         
+                     zzInternalMemory[3]                                     SINT    0 "                                                               *"    2    2    1   10    0    0         
+                     zzInternalMemory[4]                                     SINT    0 "                                                               *"    2    2    1   10    0    0         
+                     zzInternalMemory[5]                                     SINT    0 "                                                               *"    2    2    1   10    0    0         
+                     zzInternalMemory[6]                                     SINT    0 "                                                               *"    2    2    1   10    0    0         
+                     zzInternalMemory[7]                                     SINT    0 "                                                               *"    2    2    1   10    0    0         
+                     zzInternalMemory[8]                                     SINT    0 "                                                               *"    2    2    1   10    0    0         
+                     zzInternalMemory[9]                                     SINT    0 "                                                               *"    2    2    1   10    0    0         
+                    zzInternalMemory[10]                                     SINT    0 "                                                               *"    2    2    1   10    0    0         
+                    zzInternalMemory[11]                                     SINT    0 "                                                               *"    2    2    1   10    0    0         
+                    zzInternalMemory[12]                                     SINT    0 "                                                               *"    2    2    1   10    0    0         
+                    zzInternalMemory[13]                                     SINT    0 "                                                               *"    2    2    1   10    0    0         
+                    zzInternalMemory[14]                                     SINT    0 "                                                               *"    2    2    1   10    0    0         
+                    zzInternalMemory[15]                                     SINT    0 "                                                               *"    2    2    1   10    0    0         
+                    zzInternalMemory[16]                                     SINT    0 "                                                               *"    2    2    1   10    0    0         
+                    zzInternalMemory[17]                                     SINT    0 "                                                               *"    2    2    1   10    0    0         
+                    zzInternalMemory[18]                                     SINT    0 "                                                               *"    2    2    1   10    0    0         
+                    zzInternalMemory[19]                                     SINT    0 "                                                               *"    2    2    1   10    0    0         
+                    zzInternalMemory[20]                                     SINT    0 "                                                               *"    2    2    1   10    0    0         
+                    zzInternalMemory[21]                                     SINT    0 "                                                               *"    2    2    1   10    0    0         
+                    zzInternalMemory[22]                                     SINT    0 "                                                               *"    2    2    1   10    0    0         
+                    zzInternalMemory[23]                                     SINT    0 "                                                               *"    2    2    1   10    0    0         
+                    zzInternalMemory[24]                                     SINT    0 "                                                               *"    2    2    1   10    0    0         
+                    zzInternalMemory[25]                                     SINT    0 "                                                               *"    2    2    1   10    0    0         
+                    zzInternalMemory[26]                                     SINT    0 "                                                               *"    2    2    1   10    0    0         
+                    zzInternalMemory[27]                                     SINT    0 "                                                               *"    2    2    1   10    0    0         
+                    zzInternalMemory[28]                                     SINT    0 "                                                               *"    2    2    1   10    0    0         
+                    zzInternalMemory[29]                                     SINT    0 "                                                               *"    2    2    1   10    0    0         
+                    zzInternalMemory[30]                                     SINT    0 "                                                               *"    2    2    1   10    0    0         
+                    zzInternalMemory[31]                                     SINT    0 "                                                               *"    2    2    1   10    0    0         
+                    zzInternalMemory[32]                                     SINT    0 "                                                               *"    2    2    1   10    0    0         
+                    zzInternalMemory[33]                                     SINT    0 "                                                               *"    2    2    1   10    0    0         
+                    zzInternalMemory[34]                                     SINT    0 "                                                               *"    2    2    1   10    0    0         
+                    zzInternalMemory[35]                                     SINT    0 "                                                               *"    2    2    1   10    0    0         
+                    zzInternalMemory[36]                                     SINT    0 "                                                               *"    2    2    1   10    0    0         
+                    zzInternalMemory[37]                                     SINT    0 "                                                               *"    2    2    1   10    0    0         
+                    zzInternalMemory[38]                                     SINT    0 "                                                               *"    2    2    1   10    0    0         
+                    zzInternalMemory[39]                                     SINT    0 "                                                               *"    2    2    1   10    0    0         
+                    zzInternalMemory[40]                                     SINT    0 "                                                               *"    2    2    1   10    0    0         
+                             SetOverride                           MC_SetOverride    0 "                                                               *"    1   24    1    0    0    0         
+                                    Axis                                    UDINT    0 "                                                               *"    2    7    1   10    0    0         
+                                  Enable                                     BOOL    0 "                                                               *"    2    1    1    2    0    0         
+                               VelFactor                                     REAL    0 "                                                               *"    2    8    1   10    0    0         
+                               AccFactor                                     REAL    0 "                                                               *"    2    8    1   10    0    0         
+                                 Enabled                                     BOOL    0 "                                                               *"    2    1    1    2    0    0         
+                                    Busy                                     BOOL    0 "                                                               *"    2    1    1    2    0    0         
+                                   Error                                     BOOL    0 "                                                               *"    2    1    1    2    0    0         
+                                 ErrorID                                     UINT    0 "                                                               *"    2    6    1   10    0    0         
+                                  C_Axis                                    UDINT    0 "                                                               *"    2    7    1   10    0    0         
+                             C_VelFactor                                     REAL    0 "                                                               *"    2    8    1   10    0    0         
+                             C_AccFactor                                     REAL    0 "                                                               *"    2    8    1   10    0    0         
+                            OldVelFactor                                     REAL    0 "                                                               *"    2    8    1   10    0    0         
+                               C_ErrorID                                     UINT    0 "                                                               *"    2    6    1   10    0    0         
+                                 C_Error                                     BOOL    0 "                                                               *"    2    1    1    2    0    0         
+                                   state                                    USINT    0 "                                                               *"    2    5    1   10    0    0         
+                              BodyHopper                                AxisBasic    0 "                                                               *"    0   24    1    0    1    1         
+                                 pMpLink                                    UDINT    0 "                                                       112456208"    1    7    1   10    0    0         
+                                   pAxis                                    UDINT    0 "                                                       112462388"    1    7    1   10    0    0         
+                        pEndlessPosition                                    UDINT    0 "                                                       112379188"    1    7    1   10    0    0         
+                           AxisInterface                                    UDINT    0 "                                                       112454488"    1    7    1   10    0    0         
+                           OdometerValue                                    LREAL    0 "                                                             0.0"    1   14    1   10    0    0         
+                                Override                                     REAL    0 "                                                             1.0"    1    8    1   10    0    0         
+                              ErrorReset                                     BOOL    0 "                                                           FALSE"    1    1    1    2    0    0         
+                               AxisBasic                              MpAxisBasic    0 "                                                               *"    1   24    1    0    0    1         
+                                  MpLink                                    UDINT    0 "                                                       112456208"    2    7    1   10    0    0         
+                                  Enable                                     BOOL    0 "                                                           FALSE"    2    1    1    2    0    0         
+                              ErrorReset                                     BOOL    0 "                                                           FALSE"    2    1    1    2    0    0         
+                              Parameters                                    UDINT    0 "                                                               0"    2    7    1   10    0    0         
+                                  Update                                     BOOL    0 "                                                           FALSE"    2    1    1    2    0    0         
+                                    Axis                                    UDINT    0 "                                                               0"    2    7    1   10    0    0         
+                                   Power                                     BOOL    0 "                                                           FALSE"    2    1    1    2    0    0         
+                                    Home                                     BOOL    0 "                                                           FALSE"    2    1    1    2    0    0         
+                            MoveVelocity                                     BOOL    0 "                                                           FALSE"    2    1    1    2    0    0         
+                            MoveAbsolute                                     BOOL    0 "                                                           FALSE"    2    1    1    2    0    0         
+                            MoveAdditive                                     BOOL    0 "                                                           FALSE"    2    1    1    2    0    0         
+                                    Stop                                     BOOL    0 "                                                           FALSE"    2    1    1    2    0    0         
+                             JogPositive                                     BOOL    0 "                                                           FALSE"    2    1    1    2    0    0         
+                             JogNegative                                     BOOL    0 "                                                           FALSE"    2    1    1    2    0    0         
+                                Autotune                                     BOOL    0 "                                                           FALSE"    2    1    1    2    0    0         
+                                Simulate                                     BOOL    0 "                                                           FALSE"    2    1    1    2    0    0         
+                             TorqueLimit                                     BOOL    0 "                                                           FALSE"    2    1    1    2    0    0         
+                            ReleaseBrake                                     BOOL    0 "                                                           FALSE"    2    1    1    2    0    0         
+                                  Active                                     BOOL    0 "                                                           FALSE"    2    1    1    2    0    0         
+                                   Error                                     BOOL    0 "                                                           FALSE"    2    1    1    2    0    0         
+                                StatusID                                     DINT    0 "                                                               0"    2    4    1   10    0    0         
+                              UpdateDone                                     BOOL    0 "                                                           FALSE"    2    1    1    2    0    0         
+                                Position                                    LREAL    0 "                                                             0.0"    2   14    1   10    0    0         
+                                Velocity                                     REAL    0 "                                                             0.0"    2    8    1   10    0    0         
+                             CommandBusy                                     BOOL    0 "                                                           FALSE"    2    1    1    2    0    0         
+                          CommandAborted                                     BOOL    0 "                                                           FALSE"    2    1    1    2    0    0         
+                                 PowerOn                                     BOOL    0 "                                                           FALSE"    2    1    1    2    0    0         
+                                 IsHomed                                     BOOL    0 "                                                           FALSE"    2    1    1    2    0    0         
+                              InVelocity                                     BOOL    0 "                                                           FALSE"    2    1    1    2    0    0         
+                              InPosition                                     BOOL    0 "                                                           FALSE"    2    1    1    2    0    0         
+                              MoveActive                                     BOOL    0 "                                                           FALSE"    2    1    1    2    0    0         
+                                 Stopped                                     BOOL    0 "                                                           FALSE"    2    1    1    2    0    0         
+                              TuningDone                                     BOOL    0 "                                                           FALSE"    2    1    1    2    0    0         
+                              Simulation                                     BOOL    0 "                                                           FALSE"    2    1    1    2    0    0         
+                           TorqueLimited                                     BOOL    0 "                                                           FALSE"    2    1    1    2    0    0         
+                           BrakeReleased                                     BOOL    0 "                                                           FALSE"    2    1    1    2    0    0         
+                                    Info                      MpAxisBasicInfoType    0 "                                                               *"    2   24    1    0    0    1         
+                         AxisInitialized                                     BOOL    0 "                                                            TRUE"    3    1    1    2    0    0         
+                          ReadyToPowerOn                                     BOOL    0 "                                                           FALSE"    3    1    1    2    0    0         
+                              JogLimited                                     BOOL    0 "                                                           FALSE"    3    1    1    2    0    0         
+                       TorqueLimitActive                                     BOOL    0 "                                                           FALSE"    3    1    1    2    0    0         
+                          DriveRestarted                                     BOOL    0 "                                                           FALSE"    3    1    1    2    0    0         
+                              CyclicRead                     MpAxisCyclicReadType    0 "                                                               *"    3   24    1    0    0    0         
+                                  Torque                MpAxisCyclicReadValueType    0 "                                                               *"    4   24    1    0    0    0         
+                                   Valid                                     BOOL    0 "                                                            TRUE"    5    1    1    2    0    0         
+                                   Value                                    LREAL    0 "                                                             0.0"    5   14    1   10    0    0         
+                                LagError                MpAxisCyclicReadValueType    0 "                                                               *"    4   24    1    0    0    0         
+                                   Valid                                     BOOL    0 "                                                           FALSE"    5    1    1    2    0    0         
+                                   Value                                    LREAL    0 "                                                             0.0"    5   14    1   10    0    0         
+                        MotorTemperature                MpAxisCyclicReadValueType    0 "                                                               *"    4   24    1    0    0    0         
+                                   Valid                                     BOOL    0 "                                                           FALSE"    5    1    1    2    0    0         
+                                   Value                                    LREAL    0 "                                                             0.0"    5   14    1   10    0    0         
+                  UserChannelParameterID                MpAxisCyclicReadValueType    0 "                                                               *"    4   24    1    0    0    0         
+                                   Valid                                     BOOL    0 "                                                           FALSE"    5    1    1    2    0    0         
+                                   Value                                    LREAL    0 "                                                             0.0"    5   14    1   10    0    0         
+                               BootState                                     DINT    0 "                                                              90"    3    4    1   10    0    0 e,0,mpAX
+
+                            PLCopenState                                     DINT    0 "                                                              10"    3    4    1   10    0    0 e,0,mpAX
+
+                     DigitalInputsStatus                MpAxisDigitalIOStatusType    0 "                                                               *"    3   24    1    0    0    0         
+                             DriveEnable                                     BOOL    0 "                                                           FALSE"    4    1    1    2    0    0         
+                              HomeSwitch                                     BOOL    0 "                                                           FALSE"    4    1    1    2    0    0         
+                     PositiveLimitSwitch                                     BOOL    0 "                                                           FALSE"    4    1    1    2    0    0         
+                     NegativeLimitSwitch                                     BOOL    0 "                                                           FALSE"    4    1    1    2    0    0         
+                                Trigger1                                     BOOL    0 "                                                           FALSE"    4    1    1    2    0    0         
+                                Trigger2                                     BOOL    0 "                                                           FALSE"    4    1    1    2    0    0         
+                            HardwareInfo                MpAxisAddInfoHardwareType    0 "                                                               *"    3   24    1    0    0    0         
+                                  NodeID                                     UINT    0 "                                                               *"    4    6    1   10    0    0         
+                                 Channel                                    USINT    0 "                                                               *"    4    5    1   10    0    0         
+                             NetworkType                                     DINT    0 "                                                               *"    4    4    1   10    0    0 e,0,mpAX
+
+                              DeviceType                                     DINT    0 "                                                               *"    4    4    1   10    0    0 e,0,mpAX
+
+                                    Diag                        MpAxisDiagExtType    0 "                                                               *"    3   24    1    0    0    1         
+                                StatusID                       MpAxisStatusIDType    0 "                                                               *"    4   24    1    0    0    0         
+                                      ID                                     DINT    0 "                                                               *"    5    4    1   10    0    0 e,0,mpAX
+
+                                Severity                                     DINT    0 "                                                               *"    5    4    1   10    0    0 e,0,mpCO
+
+                                    Code                                     UINT    0 "                                                               *"    5    6    1   10    0    0         
+                                Internal                       MpAxisInternalType    0 "                                                               *"    4   24    1    0    0    1         
+                                      ID                                     DINT    0 "                                                     -1073735765"    5    4    1   10    0    0         
+                                Severity                                     DINT    0 "                                                               3"    5    4    1   10    0    0 e,0,mpCO
+
+                                Facility                                     DINT    0 "                                                               0"    5    4    1   10    0    0 e,-1,mpC
+
+                                    Code                                     UINT    0 "                                                            6059"    5    6    1   10    0    0         
+                        ExecutingCommand                                     DINT    0 "                                                               0"    4    4    1   10    0    0 e,0,mpAX
+
+                                MoveDone                                     BOOL    0 "                                                           FALSE"    3    1    1    2    0    0         
+                                Internal                    MpComInternalDataType    0 "                                                               *"    2   24    1    0    0    1         
+                                 pObject                                    UDINT    0 "                                                       100261936"    3    7    1   10    0    0         
+                                   State                                    UDINT    0 "                                                               3"    3    7    1   10    0    0         
+                              AxisConfig                        MpAxisBasicConfig    0 "                                                               *"    1   24    1    0    0    1         
+                                  MpLink                                    UDINT    0 "                                                       112456208"    2    7    1   10    0    0         
+                                  Enable                                     BOOL    0 "                                                            TRUE"    2    1    1    2    0    0         
+                              ErrorReset                                     BOOL    0 "                                                               *"    2    1    1    2    0    0         
+                           Configuration                                    UDINT    0 "                                                               *"    2    7    1   10    0    0         
+                                    Load                                     BOOL    0 "                                                               *"    2    1    1    2    0    0         
+                                    Save                                     BOOL    0 "                                                               *"    2    1    1    2    0    0         
+                                  Active                                     BOOL    0 "                                                               *"    2    1    1    2    0    0         
+                                   Error                                     BOOL    0 "                                                               *"    2    1    1    2    0    0         
+                                StatusID                                     DINT    0 "                                                               *"    2    4    1   10    0    0         
+                             CommandBusy                                     BOOL    0 "                                                               *"    2    1    1    2    0    0         
+                             CommandDone                                     BOOL    0 "                                                               *"    2    1    1    2    0    0         
+                                    Info                           MpAxisInfoType    0 "                                                               *"    2   24    1    0    0    1         
+                                    Diag                           MpAxisDiagType    0 "                                                               *"    3   24    1    0    0    1         
+                                StatusID                       MpAxisStatusIDType    0 "                                                               *"    4   24    1    0    0    1         
+                                      ID                                     DINT    0 "                                                               *"    5    4    1   10    0    0 e,0,mpAX
+
+                                Severity                                     DINT    0 "                                                               *"    5    4    1   10    0    0 e,0,mpCO
+
+                                    Code                                     UINT    0 "                                                               *"    5    6    1   10    0    0         
+                                Internal                    MpComInternalDataType    0 "                                                               *"    2   24    1    0    0    1         
+                                 pObject                                    UDINT    0 "                                                               *"    3    7    1   10    0    0         
+                                   State                                    UDINT    0 "                                                               *"    3    7    1   10    0    0         
+                             AbsDistance                                    LREAL    0 "                                                               *"    1   14    1   10    0    0         
+                        zzInternalMemory                              SINT[0..40]    0 "                                                               *"    1    2   41    0    0    1         
+                     zzInternalMemory[0]                                     SINT    0 "                                                               *"    2    2    1   10    0    0         
+                     zzInternalMemory[1]                                     SINT    0 "                                                               *"    2    2    1   10    0    0         
+                     zzInternalMemory[2]                                     SINT    0 "                                                               *"    2    2    1   10    0    0         
+                     zzInternalMemory[3]                                     SINT    0 "                                                               *"    2    2    1   10    0    0         
+                     zzInternalMemory[4]                                     SINT    0 "                                                               *"    2    2    1   10    0    0         
+                     zzInternalMemory[5]                                     SINT    0 "                                                               *"    2    2    1   10    0    0         
+                     zzInternalMemory[6]                                     SINT    0 "                                                               *"    2    2    1   10    0    0         
+                     zzInternalMemory[7]                                     SINT    0 "                                                               *"    2    2    1   10    0    0         
+                     zzInternalMemory[8]                                     SINT    0 "                                                               *"    2    2    1   10    0    0         
+                     zzInternalMemory[9]                                     SINT    0 "                                                               *"    2    2    1   10    0    0         
+                    zzInternalMemory[10]                                     SINT    0 "                                                               *"    2    2    1   10    0    0         
+                    zzInternalMemory[11]                                     SINT    0 "                                                               *"    2    2    1   10    0    0         
+                    zzInternalMemory[12]                                     SINT    0 "                                                               *"    2    2    1   10    0    0         
+                    zzInternalMemory[13]                                     SINT    0 "                                                               *"    2    2    1   10    0    0         
+                    zzInternalMemory[14]                                     SINT    0 "                                                               *"    2    2    1   10    0    0         
+                    zzInternalMemory[15]                                     SINT    0 "                                                               *"    2    2    1   10    0    0         
+                    zzInternalMemory[16]                                     SINT    0 "                                                               *"    2    2    1   10    0    0         
+                    zzInternalMemory[17]                                     SINT    0 "                                                               *"    2    2    1   10    0    0         
+                    zzInternalMemory[18]                                     SINT    0 "                                                               *"    2    2    1   10    0    0         
+                    zzInternalMemory[19]                                     SINT    0 "                                                               *"    2    2    1   10    0    0         
+                    zzInternalMemory[20]                                     SINT    0 "                                                               *"    2    2    1   10    0    0         
+                    zzInternalMemory[21]                                     SINT    0 "                                                               *"    2    2    1   10    0    0         
+                    zzInternalMemory[22]                                     SINT    0 "                                                               *"    2    2    1   10    0    0         
+                    zzInternalMemory[23]                                     SINT    0 "                                                               *"    2    2    1   10    0    0         
+                    zzInternalMemory[24]                                     SINT    0 "                                                               *"    2    2    1   10    0    0         
+                    zzInternalMemory[25]                                     SINT    0 "                                                               *"    2    2    1   10    0    0         
+                    zzInternalMemory[26]                                     SINT    0 "                                                               *"    2    2    1   10    0    0         
+                    zzInternalMemory[27]                                     SINT    0 "                                                               *"    2    2    1   10    0    0         
+                    zzInternalMemory[28]                                     SINT    0 "                                                               *"    2    2    1   10    0    0         
+                    zzInternalMemory[29]                                     SINT    0 "                                                               *"    2    2    1   10    0    0         
+                    zzInternalMemory[30]                                     SINT    0 "                                                               *"    2    2    1   10    0    0         
+                    zzInternalMemory[31]                                     SINT    0 "                                                               *"    2    2    1   10    0    0         
+                    zzInternalMemory[32]                                     SINT    0 "                                                               *"    2    2    1   10    0    0         
+                    zzInternalMemory[33]                                     SINT    0 "                                                               *"    2    2    1   10    0    0         
+                    zzInternalMemory[34]                                     SINT    0 "                                                               *"    2    2    1   10    0    0         
+                    zzInternalMemory[35]                                     SINT    0 "                                                               *"    2    2    1   10    0    0         
+                    zzInternalMemory[36]                                     SINT    0 "                                                               *"    2    2    1   10    0    0         
+                    zzInternalMemory[37]                                     SINT    0 "                                                               *"    2    2    1   10    0    0         
+                    zzInternalMemory[38]                                     SINT    0 "                                                               *"    2    2    1   10    0    0         
+                    zzInternalMemory[39]                                     SINT    0 "                                                               *"    2    2    1   10    0    0         
+                    zzInternalMemory[40]                                     SINT    0 "                                                               *"    2    2    1   10    0    0         
+                             SetOverride                           MC_SetOverride    0 "                                                               *"    1   24    1    0    0    1         
+                                    Axis                                    UDINT    0 "                                                               *"    2    7    1   10    0    0         
+                                  Enable                                     BOOL    0 "                                                               *"    2    1    1    2    0    0         
+                               VelFactor                                     REAL    0 "                                                               *"    2    8    1   10    0    0         
+                               AccFactor                                     REAL    0 "                                                               *"    2    8    1   10    0    0         
+                                 Enabled                                     BOOL    0 "                                                               *"    2    1    1    2    0    0         
+                                    Busy                                     BOOL    0 "                                                               *"    2    1    1    2    0    0         
+                                   Error                                     BOOL    0 "                                                               *"    2    1    1    2    0    0         
+                                 ErrorID                                     UINT    0 "                                                               *"    2    6    1   10    0    0         
+                                  C_Axis                                    UDINT    0 "                                                               *"    2    7    1   10    0    0         
+                             C_VelFactor                                     REAL    0 "                                                               *"    2    8    1   10    0    0         
+                             C_AccFactor                                     REAL    0 "                                                               *"    2    8    1   10    0    0         
+                            OldVelFactor                                     REAL    0 "                                                               *"    2    8    1   10    0    0         
+                               C_ErrorID                                     UINT    0 "                                                               *"    2    6    1   10    0    0         
+                                 C_Error                                     BOOL    0 "                                                               *"    2    1    1    2    0    0         
+                                   state                                    USINT    0 "                                                               *"    2    5    1   10    0    0         

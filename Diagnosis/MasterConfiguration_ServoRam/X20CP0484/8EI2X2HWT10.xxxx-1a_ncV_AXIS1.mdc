@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?AutomationStudio Version=4.7.5.60 SP?>
+<Diagnosis ConnectionString='NCMGR="Acp10" NCVER="5082" IFTYP="Powerlink" NCOBJNAM="8EI2X2HWT10.xxxx-1a_ncV_AXIS1" OBJTYP="ncV_AXIS" CHL="1" ADDR="IF3.ST1" DIAG_FILE_PATH="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_NoWaitForFold\Diagnosis\MasterConfiguration_ServoRam\X20CP0484\8EI2X2HWT10.xxxx-1a_ncV_AXIS1.mdc" '>
+<Watch>
+  <Row Parameter="network.init" Value="ncTRUE" />
+  <Row Parameter="network.service.data_text" />
+  <Row Parameter="network.service.request.par_id" Value="0" />
+  <Row Parameter="network.service.response.par_id" Value="65534" />
+  <Row Parameter="monitor.s" Value="0" Unit="Units" />
+  <Row Parameter="monitor.v" Value="0" Unit="Units/s" />
+  <Row Parameter="message.count.error" Value="0" />
+  <Row Parameter="message.count.warning" Value="0" />
+  <Row Parameter="message.record.par_id" Value="0" />
+  <Row Parameter="message.record.number" Value="0" />
+  <Row Parameter="message.record.info" Value="0" />
+</Watch>
+</Diagnosis>
