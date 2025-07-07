@@ -1,0 +1,11 @@
+VAR
+	gAlarmXCore : {REDUND_UNREPLICABLE} MpComIdentType; (*#1"C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Physical\MasterConfiguration_ServoRam\X20CP0484\mapp\AlarmCfg.mpalarmxcore" #2"1" #3"1"*)
+	gAlarmXHistory : {REDUND_UNREPLICABLE} MpComIdentType; (*#1"C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Physical\MasterConfiguration_ServoRam\X20CP0484\mapp\AlrmHstCfg.mpalarmxhistory" #2"1" #3"1"*)
+	gRecipeXml : {REDUND_UNREPLICABLE} MpComIdentType; (*#1"C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Physical\MasterConfiguration_ServoRam\X20CP0484\mapp\RcpCfg.mprecipexml" #2"1" #3"1"*)
+	mpBodyHopper : {REDUND_UNREPLICABLE} MpComIdentType; (*#1"C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Physical\MasterConfiguration_ServoRam\X20CP0484\Motion\BodyHop.mpaxisbasic" #2"1" #3"1"*)
+	mpLeftHopper : {REDUND_UNREPLICABLE} MpComIdentType; (*#1"C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Physical\MasterConfiguration_ServoRam\X20CP0484\Motion\LeftHop.mpaxisbasic" #2"1" #3"1"*)
+	mpRightHopper : {REDUND_UNREPLICABLE} MpComIdentType; (*#1"C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Physical\MasterConfiguration_ServoRam\X20CP0484\Motion\RightHop.mpaxisbasic" #2"1" #3"1"*)
+	mpServoFeed : {REDUND_UNREPLICABLE} MpComIdentType; (*#1"C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Physical\MasterConfiguration_ServoRam\X20CP0484\Motion\ServoFeed.mpaxisbasic" #2"1" #3"1"*)
+	mpServoPick : {REDUND_UNREPLICABLE} MpComIdentType; (*#1"C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Physical\MasterConfiguration_ServoRam\X20CP0484\Motion\ServoPnP.mpaxisbasic" #2"1" #3"1"*)
+	mpServoRam : {REDUND_UNREPLICABLE} MpComIdentType; (*#1"C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Physical\MasterConfiguration_ServoRam\X20CP0484\Motion\ServoRam.mpaxisbasic" #2"1" #3"1"*)
+END_VAR

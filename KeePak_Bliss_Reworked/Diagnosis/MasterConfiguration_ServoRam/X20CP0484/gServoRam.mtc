@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<?AutomationStudio Version="4.7.5.60 SP"?>
+<Trace>
+  <Configuration Type="PARID" Active="true">
+    <Sampling SamplingTime="0.002" TracingTime="8.192" CalculateSamplingTime="False" CalculateTracingTime="True">
+      <Trigger Delay="0" Threshold="0" Window="0.001" Condition="ncOFF" NetTriggerDelay="0" />
+    </Sampling>
+    <Channels>
+      <Channel Traced="True" NcObject="gServoRam" ID="214" Description="CTRL Current controller: Actual stator current quadrature component" />
+      <Channel Traced="True" NcObject="gServoRam" ID="277" Description="Motor: Torque" />
+    </Channels>
+  </Configuration>
+</Trace>

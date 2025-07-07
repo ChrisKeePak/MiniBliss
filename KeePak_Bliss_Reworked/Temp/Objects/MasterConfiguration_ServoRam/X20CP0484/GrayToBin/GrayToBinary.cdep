@@ -1,0 +1,5 @@
+$(AS_CPU_PATH)/graytobin/graytobinary.c.o:
+$(AS_PROJECT_PATH)/logical/libraries/graytobin/graytobinary.c
+$(AS_GNU_INST_PATH)/arm-elf/include/bur/plctypes.h
+$(AS_GNU_INST_PATH)/arm-elf/include/bur/plc.h
+$(AS_TEMP_PATH)/includes/graytobin.h

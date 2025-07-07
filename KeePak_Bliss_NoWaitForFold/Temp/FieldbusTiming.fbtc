@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Configuration>
+  <Element ID="Minimum calculated cycle time." Type="fbtc">
+    <Group ID="PLK[0]">
+      <Property ID="Address" Value="IF3" />
+      <Property ID="CycleTime" Value="117" />
+      <Property ID="WorstCaseCycleTime" Value="118" />
+      <Property ID="AdjustedCycleTime" Value="4000" />
+      <Group ID="MN_details">
+        <Property ID="Name" Value="X20CP0484.IF3" />
+        <Property ID="SoC" Value="7" />
+        <Property ID="Broadcast" Value="0" />
+        <Property ID="SoA" Value="7" />
+        <Property ID="ASend" Value="38" />
+        <Property ID="AsynchronTimeout" Value="4" />
+        <Property ID="MTUsize" Value="300" />
+        <Property ID="BroadcastSize" Value="0" />
+        <Property ID="MultiplexingPrescale" Value="8" />
+      </Group>
+      <Group ID="CN[0]">
+        <Property ID="HubLevel" Value="1" />
+        <Property ID="CableLength" Value="10" />
+        <Property ID="ResponseTimeout" Value="2" />
+        <Group ID="CN_details">
+          <Property ID="ModuleName" Value="8EI2X2HWT10.xxxx-1a" />
+          <Property ID="NodeNumber" Value="1" />
+          <Property ID="ModeOfOperation" Value="Polling" />
+          <Property ID="InputDataSize" Value="228" />
+          <Property ID="OutputDataSize" Value="96" />
+          <Property ID="PollRequest" Value="13" />
+          <Property ID="PollResponse" Value="24" />
+          <Property ID="NodeTime" Value="37" />
+          <Property ID="Address" Value="IF3.ST1" />
+          <Property ID="MaxInputDataSize" Value="1490" />
+        </Group>
+      </Group>
+      <Group ID="CN[1]">
+        <Property ID="HubLevel" Value="2" />
+        <Property ID="CableLength" Value="20" />
+        <Property ID="ResponseTimeout" Value="4" />
+        <Group ID="CN_details">
+          <Property ID="ModuleName" Value="8EI2X2HWT10.xxxx-1" />
+          <Property ID="NodeNumber" Value="2" />
+          <Property ID="ModeOfOperation" Value="Polling" />
+          <Property ID="InputDataSize" Value="228" />
+          <Property ID="OutputDataSize" Value="96" />
+          <Property ID="PollRequest" Value="14" />
+          <Property ID="PollResponse" Value="24" />
+          <Property ID="NodeTime" Value="38" />
+          <Property ID="Address" Value="IF3.ST2" />
+          <Property ID="MaxInputDataSize" Value="1490" />
+        </Group>
+      </Group>
+    </Group>
+    <Group ID="X2X[0]">
+      <Property ID="NumberOfStations" Value="7" />
+      <Property ID="TotalCableLength" Value="0" />
+      <Property ID="InputDataSize" Value="46" />
+      <Property ID="OutputDataSize" Value="36" />
+      <Property ID="Address" Value="IF6" />
+      <Property ID="CycleTime" Value="252" />
+      <Property ID="AdjustedCycleTime" Value="2000" />
+    </Group>
+  </Element>
+</Configuration>

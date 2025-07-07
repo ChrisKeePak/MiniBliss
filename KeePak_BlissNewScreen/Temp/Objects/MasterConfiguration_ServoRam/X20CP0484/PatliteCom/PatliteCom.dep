@@ -1,0 +1,11 @@
+$(AS_PROJECT_PATH)/Logical/Libraries/MpAlarmX/MpAlarmX.fun
+$(AS_PROJECT_PATH)/Logical/Libraries/AsMbTcp/AsMbTCP.fun
+$(AS_PROJECT_PATH)/Logical/Global.var
+$(AS_PROJECT_PATH)/Logical/Libraries/Types/Types.typ
+$(AS_PROJECT_PATH)/Logical/Libraries/runtime/runtime.var
+$(AS_PROJECT_PATH)/Logical/Stacklight/PatliteComm/Patelite.var
+$(AS_PROJECT_PATH)/Logical/Libraries/Constants/Constants.var
+$(AS_PROJECT_PATH)/Logical/Libraries/Constants/AlarmNames.var
+$(AS_PROJECT_PATH)/Physical/MasterConfiguration_ServoRam/X20CP0484/mapp/AlarmCfg.mpalarmxcore
+$(AS_PROJECT_PATH)/Logical/Libraries/MpBase/MpBase.typ
+$(AS_PROJECT_PATH)/Logical/Stacklight/PatliteComm/Patelite.typ

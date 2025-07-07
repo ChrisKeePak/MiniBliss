@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BuildReasons>
+  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\masterconfiguration_servoram\x20cp0484\visu\visu.mak">
+    <BuildReason>Rule is forced.</BuildReason>
+  </Rule>
+  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\masterconfiguration_servoram\x20cp0484\hmicontrol\cyclic.ld.c">
+    <BuildReason>Prerequiste "$(AS_PROJECT_PATH)\logical\hmi\hmicontrol\cyclic.ld" differs.
+</BuildReason>
+  </Rule>
+  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\masterconfiguration_servoram\x20cp0484\hmicontrol\cyclic.ld.o">
+    <BuildReason>Prerequiste "$(AS_PROJECT_PATH)\temp\objects\masterconfiguration_servoram\x20cp0484\hmicontrol\cyclic.ld.c" differs.
+</BuildReason>
+  </Rule>
+  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\masterconfiguration_servoram\x20cp0484\hmicontrol\_bur_pvdef.st.c">
+    <BuildReason>Prerequiste "$(AS_PROJECT_PATH)\temp\objects\masterconfiguration_servoram\x20cp0484\hmicontrol\cyclic.ld.o" differs.
+</BuildReason>
+  </Rule>
+  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\masterconfiguration_servoram\x20cp0484\hmicontrol\_bur_pvdef.st.o">
+    <BuildReason>Prerequiste "$(AS_PROJECT_PATH)\temp\objects\masterconfiguration_servoram\x20cp0484\hmicontrol\_bur_pvdef.st.c" differs.
+</BuildReason>
+  </Rule>
+  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\masterconfiguration_servoram\x20cp0484\hmicontrol\a.out">
+    <BuildReason>Prerequiste "$(AS_PROJECT_PATH)\temp\objects\masterconfiguration_servoram\x20cp0484\hmicontrol\cyclic.ld.o" differs.
+</BuildReason>
+  </Rule>
+  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\masterconfiguration_servoram\x20cp0484\hmicontrol\hmicontrol.ox">
+    <BuildReason>Prerequiste "$(AS_PROJECT_PATH)\temp\objects\masterconfiguration_servoram\x20cp0484\hmicontrol\a.out" differs.
+</BuildReason>
+  </Rule>
+  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\masterconfiguration_servoram\x20cp0484\hmicontrol.br">
+    <BuildReason>Prerequiste "$(AS_PROJECT_PATH)\temp\objects\masterconfiguration_servoram\x20cp0484\hmicontrol\hmicontrol.ox" differs.
+</BuildReason>
+  </Rule>
+  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\masterconfiguration_servoram\x20cp0484\panel\panel.mak">
+    <BuildReason>Rule is forced.</BuildReason>
+  </Rule>
+  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\masterconfiguration_servoram\x20cp0484\visu.br">
+    <BuildReason>Rule is forced.</BuildReason>
+  </Rule>
+  <Rule ID="#cpu_tp.mak">
+    <BuildReason>Rule is forced.</BuildReason>
+  </Rule>
+  <Rule ID="$(AS_PROJECT_PATH)\binaries\masterconfiguration_servoram\x20cp0484\transfer.lst">
+    <BuildReason>Prerequiste "$(AS_PROJECT_PATH)\temp\objects\masterconfiguration_servoram\x20cp0484\hmicontrol.br" differs.
+</BuildReason>
+  </Rule>
+</BuildReasons>

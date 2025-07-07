@@ -1,0 +1,8 @@
+{
+  global:
+    SetRamPars;
+    ComputeMoveDistance;
+    ComputeDistanceMoved;
+  local:
+    *;
+ };

@@ -1,0 +1,9 @@
+VAR
+	StartDwellTimer : TON;
+	FailureCount : USINT;
+	state : ServoPnPState_enum;
+	FTrig_AdhesivePhotoeye : F_TRIG;
+	BodyKickerTimer : TON;
+	BodyKickerRetractTimer : TON;
+	SingleCyclePnP : BOOL; (*Will issue one pick and drop off operation of the PnP*)
+END_VAR

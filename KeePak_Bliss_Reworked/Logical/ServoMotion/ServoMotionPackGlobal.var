@@ -1,0 +1,5 @@
+VAR
+	BodyGrabFailAlarm : BOOL;
+	SideGrabFailAlarm : BOOL;
+	SideFoldFailAlarm : BOOL;
+END_VAR

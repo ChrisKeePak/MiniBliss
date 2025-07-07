@@ -1,0 +1,21 @@
+Thu Feb 27 12:17:02 2025
+COPYRIGHT (C) B&R Industrial Automation GmbH
+
+Thu Feb 27 12:17:02 2025
+No ARsim registration found!
+
+Thu Feb 27 12:17:02 2025
+InstanceName: 01db8943cc686750
+
+Thu Feb 27 12:17:02 2025
+WorkingDirectory: C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Temp\Simulation\MasterConfiguration_ServoRam\X20CP0484\
+
+Thu Feb 27 12:17:02 2025
+COMMAND_COLDSTART
+
+Thu Feb 27 12:17:04 2025
+Version: C4.72
+
+Thu Feb 27 12:24:27 2025
+COMMAND_TERMINATE
+

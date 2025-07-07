@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<?AutomationStudio Version="4.7.2.98"?>
+<Trace>
+  <Configuration Type="PARID" Active="true">
+    <Sampling SamplingTime="0.0012" TracingTime="3.276" CalculateSamplingTime="False" CalculateTracingTime="True">
+      <Trigger Delay="0" Threshold="0" Window="2" Condition="ncOUT_WINDOW+ncENTRY" NetTriggerDelay="0" NcObject="gServoRam" ID="298" Description="CTRL DC bus: Voltage" />
+    </Sampling>
+    <Channels>
+      <Channel Traced="False" NcObject="gServoRam" ID="876" Description="Bleeder: Power loss" />
+      <Channel Traced="False" NcObject="gServoRam" ID="383" Description="Bleeder: Temperature model: Temperature" />
+      <Channel Traced="True" NcObject="gServoRam" ID="298" Description="CTRL DC bus: Voltage" />
+    </Channels>
+  </Configuration>
+</Trace>

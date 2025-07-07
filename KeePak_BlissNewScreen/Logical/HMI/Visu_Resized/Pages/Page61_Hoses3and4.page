@@ -1,0 +1,849 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?AutomationStudio Version="4.7.2.98"?>
+<Page xmlns="http://br-automation.co.at/AS/VC/Project" Name="Page61_Hoses3and4">
+  <Property Name="BackColor" Value="0" />
+  <Property Name="Description" Value="" />
+  <Property Name="EditBackColor" Value="106" />
+  <Property Name="ForeColor" Value="252" />
+  <Property Name="Height" Value="800" />
+  <Property Name="Index" Value="22" />
+  <Property Name="MoveFocus" Value="Circular" />
+  <Property Name="StyleClass" Value="Source[relative:StyleGroup].StyleClass[Default]" />
+  <Property Name="Width" Value="1280" />
+  <Layers>
+    <Layer Name="Default">
+      <Property Name="BackColor" Value="9" />
+      <Property Name="Description" Value="" />
+      <Property Name="EditingMode" Value="Normal" />
+      <Property Name="Height" Value="800" />
+      <Property Name="Left" Value="0" />
+      <Property Name="OutlineColor" Value="0" />
+      <Property Name="OutlineDisplayControl" Value="False" />
+      <Property Name="OutlineDisplayName" Value="True" />
+      <Property Name="OutlineHatched" Value="False" />
+      <Property Name="StatusDatapoint" Value="None" />
+      <Property Name="Top" Value="0" />
+      <Property Name="VisibilityMode" Value="Normal" />
+      <Property Name="Width" Value="1280" />
+      <Property Name="Z-Order" Value="0" />
+      <TextGroup>
+        <TextLayer LanguageId="en">
+          <Text ID="224839" Value="Back" />
+          <Text ID="224841" Value="Tank" />
+          <Text ID="224842" Value="Channel" />
+          <Text ID="224843" Value="Actual Temp." />
+          <Text ID="224844" Value="Hose 3" />
+          <Text ID="224845" Value="Gun 3" />
+          <Text ID="224846" Value="Set Temp. (Actual)" />
+          <Text ID="224847" Value="Set Temp. (Request)" />
+          <Text ID="224848" Value="Hose 4" />
+          <Text ID="224849" Value="Gun 4" />
+          <Text ID="224850" Value="Save Set Temp." />
+          <Text ID="225640" Value="Maintenance Menu - Nordson Controls 3 &amp; 4" />
+        </TextLayer>
+        <TextLayer LanguageId="de">
+          <Text ID="224839" Value="" />
+          <Text ID="224841" Value="Text_1" />
+          <Text ID="224842" Value="Text_1" />
+          <Text ID="224843" Value="Text_1" />
+          <Text ID="224844" Value="Text_1" />
+          <Text ID="224845" Value="Text_1" />
+          <Text ID="224846" Value="Text_1" />
+          <Text ID="224847" Value="Text_1" />
+          <Text ID="224848" Value="Text_1" />
+          <Text ID="224849" Value="Text_1" />
+          <Text ID="224850" Value="" />
+          <Text ID="225640" Value="" />
+        </TextLayer>
+        <IndexMap>
+          <Index ID="224839" Value="14" />
+          <Index ID="224841" Value="16" />
+          <Index ID="224842" Value="17" />
+          <Index ID="224843" Value="18" />
+          <Index ID="224844" Value="19" />
+          <Index ID="224845" Value="20" />
+          <Index ID="224846" Value="21" />
+          <Index ID="224847" Value="22" />
+          <Index ID="224848" Value="23" />
+          <Index ID="224849" Value="24" />
+          <Index ID="224850" Value="25" />
+          <Index ID="225640" Value="2" />
+        </IndexMap>
+      </TextGroup>
+      <Controls>
+        <Control ClassId="0x00001002" Name="Button_10">
+          <Property Name="BackColor" Value="8" />
+          <Property Name="BitmapAlignmentHorizontal" Value="Center" />
+          <Property Name="BitmapAlignmentVertical" Value="Bottom" />
+          <Property Name="BitmapIndexDatapoint" Value="None" />
+          <Property Name="BitmapSource" Value="None" />
+          <Property Name="Border" Value="Source[local].Border[Raised]" />
+          <Property Name="ControlID" Value="0" />
+          <Property Name="Description" Value="" />
+          <Property Name="EmbVirtualKey" Value="Source[local].VirtualKey[%embVirtualKey_130]" />
+          <Property Name="Font" Value="Source[local].Font[Calibri24]" />
+          <Property Name="ForeColor" Value="252" />
+          <Property Name="Height" Value="100" />
+          <Property Name="KeyMatrixOffset" Value="None" />
+          <Property Name="Left" Value="775" />
+          <Property Name="PressedBackColor" Value="7" />
+          <Property Name="PressedBitmapSource" Value="Source[embedded].Property[BitmapSource]" />
+          <Property Name="PressedBorder" Value="Source[local].Border[Flat_black]" />
+          <Property Name="PressedForeColor" Value="0" />
+          <Property Name="PressedTextSource" Value="Source[embedded].Property[TextSource]" />
+          <Property Name="StyleClass" Value="Source[relative:StyleGroup].StyleClass[Default]" />
+          <Property Name="TextGroup" Value="Source[embedded].TextGroup" />
+          <Property Name="TextIndex" Value="14" />
+          <Property Name="TextIndexDatapoint" Value="None" />
+          <Property Name="TextSimulationValue" Value="0" />
+          <Property Name="TextSource" Value="SingleText" />
+          <Property Name="Top" Value="640" />
+          <Property Name="VirtualKey" Value="Source[local].VirtualKey[%embVirtualKey_130]" />
+          <Property Name="Width" Value="261" />
+        </Control>
+        <Control ClassId="0x00001007" Name="Numeric_6">
+          <Property Name="BackColor" Value="7" />
+          <Property Name="Border" Value="Source[local].Border[Flat_black]" />
+          <Property Name="ControlID" Value="0" />
+          <Property Name="Description" Value="" />
+          <Property Name="Font" Value="Source[local].Font[Calibri18]" />
+          <Property Name="ForeColor" Value="252" />
+          <Property Name="Height" Value="87" />
+          <Property Name="Left" Value="225" />
+          <Property Name="MaxDatapoint" Value="None" />
+          <Property Name="MaxValue" Value="360" />
+          <Property Name="MinDatapoint" Value="None" />
+          <Property Name="MinValue" Value="0" />
+          <Property Name="SimulationValue" Value="0" />
+          <Property Name="StyleClass" Value="Source[relative:StyleGroup].StyleClass[Default]" />
+          <Property Name="TeachDatapoint" Value="None" />
+          <Property Name="Top" Value="227" />
+          <Property Name="UnitText" Value="Abbreviation" />
+          <Property Name="UnitTextAlignment" Value="Left" />
+          <Property Name="UnitTextPosition" Value="Right" />
+          <Property Name="UnitTextWidth" Value="1" />
+          <Property Name="ValueDatapoint" Value="Source[global].Variable[DataSource.gAdhesiveCtrlInterface.Parameters.NordsonComms.ChannelActTemp[0]]" />
+          <Property Name="ValueMode" Value="Standard" />
+          <Property Name="Width" Value="175" />
+        </Control>
+        <Control ClassId="0x00001004" Name="Text_1">
+          <Property Name="AlignmentHorizontal" Value="Center" />
+          <Property Name="AlignmentVertical" Value="Center" />
+          <Property Name="BackColor" Value="254" />
+          <Property Name="Border" Value="Source[local].Border[Flat_black]" />
+          <Property Name="ControlID" Value="0" />
+          <Property Name="Description" Value="" />
+          <Property Name="FillStyle" Value="Opaque" />
+          <Property Name="Font" Value="Source[local].Font[Calibri18]" />
+          <Property Name="ForeColor" Value="233" />
+          <Property Name="Height" Value="87" />
+          <Property Name="Left" Value="38" />
+          <Property Name="SimulationIndex" Value="0" />
+          <Property Name="SimulationValue" Value="" />
+          <Property Name="StyleClass" Value="Source[relative:StyleGroup].StyleClass[Default]" />
+          <Property Name="TextGroup" Value="Source[embedded].TextGroup" />
+          <Property Name="TextIndexOffset" Value="16" />
+          <Property Name="TextSource" Value="SingleText" />
+          <Property Name="Top" Value="227" />
+          <Property Name="Width" Value="188" />
+        </Control>
+        <Control ClassId="0x00001004" Name="Text_2">
+          <Property Name="AlignmentHorizontal" Value="Center" />
+          <Property Name="AlignmentVertical" Value="Center" />
+          <Property Name="BackColor" Value="254" />
+          <Property Name="Border" Value="Source[local].Border[Flat_black]" />
+          <Property Name="ControlID" Value="0" />
+          <Property Name="Description" Value="" />
+          <Property Name="FillStyle" Value="Opaque" />
+          <Property Name="Font" Value="Source[local].Font[Calibri18]" />
+          <Property Name="ForeColor" Value="233" />
+          <Property Name="Height" Value="87" />
+          <Property Name="Left" Value="38" />
+          <Property Name="SimulationIndex" Value="0" />
+          <Property Name="SimulationValue" Value="" />
+          <Property Name="StyleClass" Value="Source[relative:StyleGroup].StyleClass[Default]" />
+          <Property Name="TextGroup" Value="Source[embedded].TextGroup" />
+          <Property Name="TextIndexOffset" Value="17" />
+          <Property Name="TextSource" Value="SingleText" />
+          <Property Name="Top" Value="147" />
+          <Property Name="Width" Value="188" />
+        </Control>
+        <Control ClassId="0x00001004" Name="Text_3">
+          <Property Name="AlignmentHorizontal" Value="Center" />
+          <Property Name="AlignmentVertical" Value="Center" />
+          <Property Name="BackColor" Value="254" />
+          <Property Name="Border" Value="Source[local].Border[Flat_black]" />
+          <Property Name="ControlID" Value="0" />
+          <Property Name="Description" Value="" />
+          <Property Name="FillStyle" Value="Opaque" />
+          <Property Name="Font" Value="Source[local].Font[Calibri18]" />
+          <Property Name="ForeColor" Value="233" />
+          <Property Name="Height" Value="87" />
+          <Property Name="Left" Value="225" />
+          <Property Name="SimulationIndex" Value="0" />
+          <Property Name="SimulationValue" Value="" />
+          <Property Name="StyleClass" Value="Source[relative:StyleGroup].StyleClass[Default]" />
+          <Property Name="TextGroup" Value="Source[embedded].TextGroup" />
+          <Property Name="TextIndexOffset" Value="18" />
+          <Property Name="TextSource" Value="SingleText" />
+          <Property Name="Top" Value="147" />
+          <Property Name="Width" Value="175" />
+        </Control>
+        <Control ClassId="0x00001007" Name="Numeric_12">
+          <Property Name="BackColor" Value="7" />
+          <Property Name="Border" Value="Source[local].Border[Flat_black]" />
+          <Property Name="ControlID" Value="0" />
+          <Property Name="Description" Value="" />
+          <Property Name="Font" Value="Source[local].Font[Calibri18]" />
+          <Property Name="ForeColor" Value="252" />
+          <Property Name="Height" Value="87" />
+          <Property Name="Left" Value="225" />
+          <Property Name="MaxDatapoint" Value="None" />
+          <Property Name="MaxValue" Value="360" />
+          <Property Name="MinDatapoint" Value="None" />
+          <Property Name="MinValue" Value="0" />
+          <Property Name="SimulationValue" Value="0" />
+          <Property Name="StyleClass" Value="Source[relative:StyleGroup].StyleClass[Default]" />
+          <Property Name="TeachDatapoint" Value="None" />
+          <Property Name="Top" Value="307" />
+          <Property Name="UnitText" Value="Abbreviation" />
+          <Property Name="UnitTextAlignment" Value="Left" />
+          <Property Name="UnitTextPosition" Value="Right" />
+          <Property Name="UnitTextWidth" Value="1" />
+          <Property Name="ValueDatapoint" Value="Source[global].Variable[DataSource.gAdhesiveCtrlInterface.Parameters.NordsonComms.ChannelActTemp[2]]" />
+          <Property Name="ValueMode" Value="Standard" />
+          <Property Name="Width" Value="175" />
+        </Control>
+        <Control ClassId="0x00001004" Name="Text_11">
+          <Property Name="AlignmentHorizontal" Value="Center" />
+          <Property Name="AlignmentVertical" Value="Center" />
+          <Property Name="BackColor" Value="254" />
+          <Property Name="Border" Value="Source[local].Border[Flat_black]" />
+          <Property Name="ControlID" Value="0" />
+          <Property Name="Description" Value="" />
+          <Property Name="FillStyle" Value="Opaque" />
+          <Property Name="Font" Value="Source[local].Font[Calibri18]" />
+          <Property Name="ForeColor" Value="233" />
+          <Property Name="Height" Value="87" />
+          <Property Name="Left" Value="38" />
+          <Property Name="SimulationIndex" Value="0" />
+          <Property Name="SimulationValue" Value="" />
+          <Property Name="StyleClass" Value="Source[relative:StyleGroup].StyleClass[Default]" />
+          <Property Name="TextGroup" Value="Source[embedded].TextGroup" />
+          <Property Name="TextIndexOffset" Value="19" />
+          <Property Name="TextSource" Value="SingleText" />
+          <Property Name="Top" Value="307" />
+          <Property Name="Width" Value="188" />
+        </Control>
+        <Control ClassId="0x00001007" Name="Numeric_13">
+          <Property Name="BackColor" Value="7" />
+          <Property Name="Border" Value="Source[local].Border[Flat_black]" />
+          <Property Name="ControlID" Value="0" />
+          <Property Name="Description" Value="" />
+          <Property Name="Font" Value="Source[local].Font[Calibri18]" />
+          <Property Name="ForeColor" Value="252" />
+          <Property Name="Height" Value="87" />
+          <Property Name="Left" Value="225" />
+          <Property Name="MaxDatapoint" Value="None" />
+          <Property Name="MaxValue" Value="360" />
+          <Property Name="MinDatapoint" Value="None" />
+          <Property Name="MinValue" Value="0" />
+          <Property Name="SimulationValue" Value="0" />
+          <Property Name="StyleClass" Value="Source[relative:StyleGroup].StyleClass[Default]" />
+          <Property Name="TeachDatapoint" Value="None" />
+          <Property Name="Top" Value="387" />
+          <Property Name="UnitText" Value="Abbreviation" />
+          <Property Name="UnitTextAlignment" Value="Left" />
+          <Property Name="UnitTextPosition" Value="Right" />
+          <Property Name="UnitTextWidth" Value="1" />
+          <Property Name="ValueDatapoint" Value="Source[global].Variable[DataSource.gAdhesiveCtrlInterface.Parameters.NordsonComms.ChannelActTemp[3]]" />
+          <Property Name="ValueMode" Value="Standard" />
+          <Property Name="Width" Value="175" />
+        </Control>
+        <Control ClassId="0x00001004" Name="Text_12">
+          <Property Name="AlignmentHorizontal" Value="Center" />
+          <Property Name="AlignmentVertical" Value="Center" />
+          <Property Name="BackColor" Value="254" />
+          <Property Name="Border" Value="Source[local].Border[Flat_black]" />
+          <Property Name="ControlID" Value="0" />
+          <Property Name="Description" Value="" />
+          <Property Name="FillStyle" Value="Opaque" />
+          <Property Name="Font" Value="Source[local].Font[Calibri18]" />
+          <Property Name="ForeColor" Value="233" />
+          <Property Name="Height" Value="87" />
+          <Property Name="Left" Value="38" />
+          <Property Name="SimulationIndex" Value="0" />
+          <Property Name="SimulationValue" Value="" />
+          <Property Name="StyleClass" Value="Source[relative:StyleGroup].StyleClass[Default]" />
+          <Property Name="TextGroup" Value="Source[embedded].TextGroup" />
+          <Property Name="TextIndexOffset" Value="20" />
+          <Property Name="TextSource" Value="SingleText" />
+          <Property Name="Top" Value="387" />
+          <Property Name="Width" Value="188" />
+        </Control>
+        <Control ClassId="0x00001007" Name="Numeric_7">
+          <Property Name="BackColor" Value="7" />
+          <Property Name="Border" Value="Source[local].Border[Flat_black]" />
+          <Property Name="ControlID" Value="0" />
+          <Property Name="Description" Value="" />
+          <Property Name="Font" Value="Source[local].Font[Calibri18]" />
+          <Property Name="ForeColor" Value="252" />
+          <Property Name="Height" Value="87" />
+          <Property Name="Left" Value="400" />
+          <Property Name="MaxDatapoint" Value="None" />
+          <Property Name="MaxValue" Value="360" />
+          <Property Name="MinDatapoint" Value="None" />
+          <Property Name="MinValue" Value="0" />
+          <Property Name="SimulationValue" Value="0" />
+          <Property Name="StyleClass" Value="Source[relative:StyleGroup].StyleClass[Default]" />
+          <Property Name="TeachDatapoint" Value="None" />
+          <Property Name="Top" Value="227" />
+          <Property Name="UnitText" Value="Abbreviation" />
+          <Property Name="UnitTextAlignment" Value="Left" />
+          <Property Name="UnitTextPosition" Value="Right" />
+          <Property Name="UnitTextWidth" Value="1" />
+          <Property Name="ValueDatapoint" Value="Source[global].Variable[DataSource.gAdhesiveCtrlInterface.Parameters.NordsonComms.ChannelSetTempActual[0]]" />
+          <Property Name="ValueMode" Value="Standard" />
+          <Property Name="Width" Value="175" />
+        </Control>
+        <Control ClassId="0x00001004" Name="Text_5">
+          <Property Name="AlignmentHorizontal" Value="Center" />
+          <Property Name="AlignmentVertical" Value="Center" />
+          <Property Name="BackColor" Value="254" />
+          <Property Name="Border" Value="Source[local].Border[Flat_black]" />
+          <Property Name="ControlID" Value="0" />
+          <Property Name="Description" Value="" />
+          <Property Name="FillStyle" Value="Opaque" />
+          <Property Name="Font" Value="Source[local].Font[Calibri18]" />
+          <Property Name="ForeColor" Value="233" />
+          <Property Name="Height" Value="87" />
+          <Property Name="Left" Value="400" />
+          <Property Name="Multiline" Value="Automatic" />
+          <Property Name="SimulationIndex" Value="0" />
+          <Property Name="SimulationValue" Value="" />
+          <Property Name="StyleClass" Value="Source[relative:StyleGroup].StyleClass[Default]" />
+          <Property Name="TextGroup" Value="Source[embedded].TextGroup" />
+          <Property Name="TextIndexOffset" Value="21" />
+          <Property Name="TextSource" Value="SingleText" />
+          <Property Name="Top" Value="147" />
+          <Property Name="Width" Value="175" />
+        </Control>
+        <Control ClassId="0x00001007" Name="Numeric_8">
+          <Property Name="BackColor" Value="233" />
+          <Property Name="Border" Value="Source[local].Border[Flat_black]" />
+          <Property Name="ControlID" Value="0" />
+          <Property Name="Description" Value="" />
+          <Property Name="Font" Value="Source[local].Font[Calibri18]" />
+          <Property Name="ForeColor" Value="0" />
+          <Property Name="Height" Value="87" />
+          <Property Name="Input" Value="True" />
+          <Property Name="InputCancel" Value="Lost Focus" />
+          <Property Name="InputComma" Value="Explicit" />
+          <Property Name="InputConfirm" Value="Enter" />
+          <Property Name="InputMinus" Value="Normal" />
+          <Property Name="InputNext" Value="Enter" />
+          <Property Name="InputStart" Value="Any Key" />
+          <Property Name="InputTouchpad" Value="Source[local].TouchPad[NumPad]" />
+          <Property Name="InputUpDown" Value="Disabled" />
+          <Property Name="Left" Value="575" />
+          <Property Name="MaxDatapoint" Value="None" />
+          <Property Name="MaxValue" Value="450" />
+          <Property Name="MinDatapoint" Value="None" />
+          <Property Name="MinValue" Value="100" />
+          <Property Name="SimulationValue" Value="0" />
+          <Property Name="StyleClass" Value="Source[relative:StyleGroup].StyleClass[Default]" />
+          <Property Name="TeachDatapoint" Value="None" />
+          <Property Name="Top" Value="227" />
+          <Property Name="UnitText" Value="Abbreviation" />
+          <Property Name="UnitTextAlignment" Value="Left" />
+          <Property Name="UnitTextPosition" Value="Right" />
+          <Property Name="UnitTextWidth" Value="1" />
+          <Property Name="ValueDatapoint" Value="Source[global].Variable[DataSource.gAdhesiveCtrlInterface.Parameters.NordsonComms.ChannelSetTempRequested[0]]" />
+          <Property Name="ValueMode" Value="Standard" />
+          <Property Name="Width" Value="175" />
+        </Control>
+        <Control ClassId="0x00001004" Name="Text_6">
+          <Property Name="AlignmentHorizontal" Value="Center" />
+          <Property Name="AlignmentVertical" Value="Center" />
+          <Property Name="BackColor" Value="254" />
+          <Property Name="Border" Value="Source[local].Border[Flat_black]" />
+          <Property Name="ControlID" Value="0" />
+          <Property Name="Description" Value="" />
+          <Property Name="FillStyle" Value="Opaque" />
+          <Property Name="Font" Value="Source[local].Font[Calibri18]" />
+          <Property Name="ForeColor" Value="233" />
+          <Property Name="Height" Value="87" />
+          <Property Name="Left" Value="575" />
+          <Property Name="Multiline" Value="Automatic" />
+          <Property Name="SimulationIndex" Value="0" />
+          <Property Name="SimulationValue" Value="" />
+          <Property Name="StyleClass" Value="Source[relative:StyleGroup].StyleClass[Default]" />
+          <Property Name="TextGroup" Value="Source[embedded].TextGroup" />
+          <Property Name="TextIndexOffset" Value="22" />
+          <Property Name="TextSource" Value="SingleText" />
+          <Property Name="Top" Value="147" />
+          <Property Name="Width" Value="175" />
+        </Control>
+        <Control ClassId="0x00001007" Name="Numeric_14">
+          <Property Name="BackColor" Value="7" />
+          <Property Name="Border" Value="Source[local].Border[Flat_black]" />
+          <Property Name="ControlID" Value="0" />
+          <Property Name="Description" Value="" />
+          <Property Name="Font" Value="Source[local].Font[Calibri18]" />
+          <Property Name="ForeColor" Value="252" />
+          <Property Name="Height" Value="87" />
+          <Property Name="Left" Value="400" />
+          <Property Name="MaxDatapoint" Value="None" />
+          <Property Name="MaxValue" Value="360" />
+          <Property Name="MinDatapoint" Value="None" />
+          <Property Name="MinValue" Value="0" />
+          <Property Name="SimulationValue" Value="0" />
+          <Property Name="StyleClass" Value="Source[relative:StyleGroup].StyleClass[Default]" />
+          <Property Name="TeachDatapoint" Value="None" />
+          <Property Name="Top" Value="307" />
+          <Property Name="UnitText" Value="Abbreviation" />
+          <Property Name="UnitTextAlignment" Value="Left" />
+          <Property Name="UnitTextPosition" Value="Right" />
+          <Property Name="UnitTextWidth" Value="1" />
+          <Property Name="ValueDatapoint" Value="Source[global].Variable[DataSource.gAdhesiveCtrlInterface.Parameters.NordsonComms.ChannelSetTempActual[2]]" />
+          <Property Name="ValueMode" Value="Standard" />
+          <Property Name="Width" Value="175" />
+        </Control>
+        <Control ClassId="0x00001007" Name="Numeric_15">
+          <Property Name="BackColor" Value="7" />
+          <Property Name="Border" Value="Source[local].Border[Flat_black]" />
+          <Property Name="ControlID" Value="0" />
+          <Property Name="Description" Value="" />
+          <Property Name="Font" Value="Source[local].Font[Calibri18]" />
+          <Property Name="ForeColor" Value="252" />
+          <Property Name="Height" Value="87" />
+          <Property Name="Left" Value="400" />
+          <Property Name="MaxDatapoint" Value="None" />
+          <Property Name="MaxValue" Value="360" />
+          <Property Name="MinDatapoint" Value="None" />
+          <Property Name="MinValue" Value="0" />
+          <Property Name="SimulationValue" Value="0" />
+          <Property Name="StyleClass" Value="Source[relative:StyleGroup].StyleClass[Default]" />
+          <Property Name="TeachDatapoint" Value="None" />
+          <Property Name="Top" Value="387" />
+          <Property Name="UnitText" Value="Abbreviation" />
+          <Property Name="UnitTextAlignment" Value="Left" />
+          <Property Name="UnitTextPosition" Value="Right" />
+          <Property Name="UnitTextWidth" Value="1" />
+          <Property Name="ValueDatapoint" Value="Source[global].Variable[DataSource.gAdhesiveCtrlInterface.Parameters.NordsonComms.ChannelSetTempActual[3]]" />
+          <Property Name="ValueMode" Value="Standard" />
+          <Property Name="Width" Value="175" />
+        </Control>
+        <Control ClassId="0x00001007" Name="Numeric_16">
+          <Property Name="BackColor" Value="233" />
+          <Property Name="Border" Value="Source[local].Border[Flat_black]" />
+          <Property Name="ControlID" Value="0" />
+          <Property Name="Description" Value="" />
+          <Property Name="Font" Value="Source[local].Font[Calibri18]" />
+          <Property Name="ForeColor" Value="0" />
+          <Property Name="Height" Value="87" />
+          <Property Name="Input" Value="True" />
+          <Property Name="InputCancel" Value="Lost Focus" />
+          <Property Name="InputComma" Value="Explicit" />
+          <Property Name="InputConfirm" Value="Enter" />
+          <Property Name="InputMinus" Value="Normal" />
+          <Property Name="InputNext" Value="Enter" />
+          <Property Name="InputStart" Value="Any Key" />
+          <Property Name="InputTouchpad" Value="Source[local].TouchPad[NumPad]" />
+          <Property Name="InputUpDown" Value="Disabled" />
+          <Property Name="Left" Value="575" />
+          <Property Name="MaxDatapoint" Value="None" />
+          <Property Name="MaxValue" Value="450" />
+          <Property Name="MinDatapoint" Value="None" />
+          <Property Name="MinValue" Value="100" />
+          <Property Name="SimulationValue" Value="0" />
+          <Property Name="StyleClass" Value="Source[relative:StyleGroup].StyleClass[Default]" />
+          <Property Name="TeachDatapoint" Value="None" />
+          <Property Name="Top" Value="307" />
+          <Property Name="UnitText" Value="Abbreviation" />
+          <Property Name="UnitTextAlignment" Value="Left" />
+          <Property Name="UnitTextPosition" Value="Right" />
+          <Property Name="UnitTextWidth" Value="1" />
+          <Property Name="ValueDatapoint" Value="Source[global].Variable[DataSource.gAdhesiveCtrlInterface.Parameters.NordsonComms.ChannelSetTempRequested[2]]" />
+          <Property Name="ValueMode" Value="Standard" />
+          <Property Name="Width" Value="175" />
+        </Control>
+        <Control ClassId="0x00001007" Name="Numeric_17">
+          <Property Name="BackColor" Value="233" />
+          <Property Name="Border" Value="Source[local].Border[Flat_black]" />
+          <Property Name="ControlID" Value="0" />
+          <Property Name="Description" Value="" />
+          <Property Name="Font" Value="Source[local].Font[Calibri18]" />
+          <Property Name="ForeColor" Value="0" />
+          <Property Name="Height" Value="87" />
+          <Property Name="Input" Value="True" />
+          <Property Name="InputCancel" Value="Lost Focus" />
+          <Property Name="InputComma" Value="Explicit" />
+          <Property Name="InputConfirm" Value="Enter" />
+          <Property Name="InputMinus" Value="Normal" />
+          <Property Name="InputNext" Value="Enter" />
+          <Property Name="InputStart" Value="Any Key" />
+          <Property Name="InputTouchpad" Value="Source[local].TouchPad[NumPad]" />
+          <Property Name="InputUpDown" Value="Disabled" />
+          <Property Name="Left" Value="575" />
+          <Property Name="MaxDatapoint" Value="None" />
+          <Property Name="MaxValue" Value="450" />
+          <Property Name="MinDatapoint" Value="None" />
+          <Property Name="MinValue" Value="100" />
+          <Property Name="SimulationValue" Value="0" />
+          <Property Name="StyleClass" Value="Source[relative:StyleGroup].StyleClass[Default]" />
+          <Property Name="TeachDatapoint" Value="None" />
+          <Property Name="Top" Value="387" />
+          <Property Name="UnitText" Value="Abbreviation" />
+          <Property Name="UnitTextAlignment" Value="Left" />
+          <Property Name="UnitTextPosition" Value="Right" />
+          <Property Name="UnitTextWidth" Value="1" />
+          <Property Name="ValueDatapoint" Value="Source[global].Variable[DataSource.gAdhesiveCtrlInterface.Parameters.NordsonComms.ChannelSetTempRequested[3]]" />
+          <Property Name="ValueMode" Value="Standard" />
+          <Property Name="Width" Value="175" />
+        </Control>
+        <Control ClassId="0x00001007" Name="Numeric_18">
+          <Property Name="BackColor" Value="7" />
+          <Property Name="Border" Value="Source[local].Border[Flat_black]" />
+          <Property Name="ControlID" Value="0" />
+          <Property Name="Description" Value="" />
+          <Property Name="Font" Value="Source[local].Font[Calibri18]" />
+          <Property Name="ForeColor" Value="252" />
+          <Property Name="Height" Value="87" />
+          <Property Name="Left" Value="225" />
+          <Property Name="MaxDatapoint" Value="None" />
+          <Property Name="MaxValue" Value="360" />
+          <Property Name="MinDatapoint" Value="None" />
+          <Property Name="MinValue" Value="0" />
+          <Property Name="SimulationValue" Value="0" />
+          <Property Name="StyleClass" Value="Source[relative:StyleGroup].StyleClass[Default]" />
+          <Property Name="TeachDatapoint" Value="None" />
+          <Property Name="Top" Value="467" />
+          <Property Name="UnitText" Value="Abbreviation" />
+          <Property Name="UnitTextAlignment" Value="Left" />
+          <Property Name="UnitTextPosition" Value="Right" />
+          <Property Name="UnitTextWidth" Value="1" />
+          <Property Name="ValueDatapoint" Value="Source[global].Variable[DataSource.gAdhesiveCtrlInterface.Parameters.NordsonComms.ChannelActTemp[4]]" />
+          <Property Name="ValueMode" Value="Standard" />
+          <Property Name="Width" Value="175" />
+        </Control>
+        <Control ClassId="0x00001004" Name="Text_13">
+          <Property Name="AlignmentHorizontal" Value="Center" />
+          <Property Name="AlignmentVertical" Value="Center" />
+          <Property Name="BackColor" Value="254" />
+          <Property Name="Border" Value="Source[local].Border[Flat_black]" />
+          <Property Name="ControlID" Value="0" />
+          <Property Name="Description" Value="" />
+          <Property Name="FillStyle" Value="Opaque" />
+          <Property Name="Font" Value="Source[local].Font[Calibri18]" />
+          <Property Name="ForeColor" Value="233" />
+          <Property Name="Height" Value="87" />
+          <Property Name="Left" Value="38" />
+          <Property Name="SimulationIndex" Value="0" />
+          <Property Name="SimulationValue" Value="" />
+          <Property Name="StyleClass" Value="Source[relative:StyleGroup].StyleClass[Default]" />
+          <Property Name="TextGroup" Value="Source[embedded].TextGroup" />
+          <Property Name="TextIndexOffset" Value="23" />
+          <Property Name="TextSource" Value="SingleText" />
+          <Property Name="Top" Value="467" />
+          <Property Name="Width" Value="188" />
+        </Control>
+        <Control ClassId="0x00001007" Name="Numeric_19">
+          <Property Name="BackColor" Value="7" />
+          <Property Name="Border" Value="Source[local].Border[Flat_black]" />
+          <Property Name="ControlID" Value="0" />
+          <Property Name="Description" Value="" />
+          <Property Name="Font" Value="Source[local].Font[Calibri18]" />
+          <Property Name="ForeColor" Value="252" />
+          <Property Name="Height" Value="87" />
+          <Property Name="Left" Value="400" />
+          <Property Name="MaxDatapoint" Value="None" />
+          <Property Name="MaxValue" Value="360" />
+          <Property Name="MinDatapoint" Value="None" />
+          <Property Name="MinValue" Value="0" />
+          <Property Name="SimulationValue" Value="0" />
+          <Property Name="StyleClass" Value="Source[relative:StyleGroup].StyleClass[Default]" />
+          <Property Name="TeachDatapoint" Value="None" />
+          <Property Name="Top" Value="467" />
+          <Property Name="UnitText" Value="Abbreviation" />
+          <Property Name="UnitTextAlignment" Value="Left" />
+          <Property Name="UnitTextPosition" Value="Right" />
+          <Property Name="UnitTextWidth" Value="1" />
+          <Property Name="ValueDatapoint" Value="Source[global].Variable[DataSource.gAdhesiveCtrlInterface.Parameters.NordsonComms.ChannelSetTempActual[4]]" />
+          <Property Name="ValueMode" Value="Standard" />
+          <Property Name="Width" Value="175" />
+        </Control>
+        <Control ClassId="0x00001007" Name="Numeric_20">
+          <Property Name="BackColor" Value="233" />
+          <Property Name="Border" Value="Source[local].Border[Flat_black]" />
+          <Property Name="ControlID" Value="0" />
+          <Property Name="Description" Value="" />
+          <Property Name="Font" Value="Source[local].Font[Calibri18]" />
+          <Property Name="ForeColor" Value="0" />
+          <Property Name="Height" Value="87" />
+          <Property Name="Input" Value="True" />
+          <Property Name="InputCancel" Value="Lost Focus" />
+          <Property Name="InputComma" Value="Explicit" />
+          <Property Name="InputConfirm" Value="Enter" />
+          <Property Name="InputMinus" Value="Normal" />
+          <Property Name="InputNext" Value="Enter" />
+          <Property Name="InputStart" Value="Any Key" />
+          <Property Name="InputTouchpad" Value="Source[local].TouchPad[NumPad]" />
+          <Property Name="InputUpDown" Value="Disabled" />
+          <Property Name="Left" Value="575" />
+          <Property Name="MaxDatapoint" Value="None" />
+          <Property Name="MaxValue" Value="450" />
+          <Property Name="MinDatapoint" Value="None" />
+          <Property Name="MinValue" Value="100" />
+          <Property Name="SimulationValue" Value="0" />
+          <Property Name="StyleClass" Value="Source[relative:StyleGroup].StyleClass[Default]" />
+          <Property Name="TeachDatapoint" Value="None" />
+          <Property Name="Top" Value="467" />
+          <Property Name="UnitText" Value="Abbreviation" />
+          <Property Name="UnitTextAlignment" Value="Left" />
+          <Property Name="UnitTextPosition" Value="Right" />
+          <Property Name="UnitTextWidth" Value="1" />
+          <Property Name="ValueDatapoint" Value="Source[global].Variable[DataSource.gAdhesiveCtrlInterface.Parameters.NordsonComms.ChannelSetTempRequested[4]]" />
+          <Property Name="ValueMode" Value="Standard" />
+          <Property Name="Width" Value="175" />
+        </Control>
+        <Control ClassId="0x00001007" Name="Numeric_21">
+          <Property Name="BackColor" Value="7" />
+          <Property Name="Border" Value="Source[local].Border[Flat_black]" />
+          <Property Name="ControlID" Value="0" />
+          <Property Name="Description" Value="" />
+          <Property Name="Font" Value="Source[local].Font[Calibri18]" />
+          <Property Name="ForeColor" Value="252" />
+          <Property Name="Height" Value="87" />
+          <Property Name="Left" Value="225" />
+          <Property Name="MaxDatapoint" Value="None" />
+          <Property Name="MaxValue" Value="360" />
+          <Property Name="MinDatapoint" Value="None" />
+          <Property Name="MinValue" Value="0" />
+          <Property Name="SimulationValue" Value="0" />
+          <Property Name="StyleClass" Value="Source[relative:StyleGroup].StyleClass[Default]" />
+          <Property Name="TeachDatapoint" Value="None" />
+          <Property Name="Top" Value="547" />
+          <Property Name="UnitText" Value="Abbreviation" />
+          <Property Name="UnitTextAlignment" Value="Left" />
+          <Property Name="UnitTextPosition" Value="Right" />
+          <Property Name="UnitTextWidth" Value="1" />
+          <Property Name="ValueDatapoint" Value="Source[global].Variable[DataSource.gAdhesiveCtrlInterface.Parameters.NordsonComms.ChannelActTemp[5]]" />
+          <Property Name="ValueMode" Value="Standard" />
+          <Property Name="Width" Value="175" />
+        </Control>
+        <Control ClassId="0x00001004" Name="Text_14">
+          <Property Name="AlignmentHorizontal" Value="Center" />
+          <Property Name="AlignmentVertical" Value="Center" />
+          <Property Name="BackColor" Value="254" />
+          <Property Name="Border" Value="Source[local].Border[Flat_black]" />
+          <Property Name="ControlID" Value="0" />
+          <Property Name="Description" Value="" />
+          <Property Name="FillStyle" Value="Opaque" />
+          <Property Name="Font" Value="Source[local].Font[Calibri18]" />
+          <Property Name="ForeColor" Value="233" />
+          <Property Name="Height" Value="87" />
+          <Property Name="Left" Value="38" />
+          <Property Name="SimulationIndex" Value="0" />
+          <Property Name="SimulationValue" Value="" />
+          <Property Name="StyleClass" Value="Source[relative:StyleGroup].StyleClass[Default]" />
+          <Property Name="TextGroup" Value="Source[embedded].TextGroup" />
+          <Property Name="TextIndexOffset" Value="24" />
+          <Property Name="TextSource" Value="SingleText" />
+          <Property Name="Top" Value="547" />
+          <Property Name="Width" Value="188" />
+        </Control>
+        <Control ClassId="0x00001007" Name="Numeric_22">
+          <Property Name="BackColor" Value="7" />
+          <Property Name="Border" Value="Source[local].Border[Flat_black]" />
+          <Property Name="ControlID" Value="0" />
+          <Property Name="Description" Value="" />
+          <Property Name="Font" Value="Source[local].Font[Calibri18]" />
+          <Property Name="ForeColor" Value="252" />
+          <Property Name="Height" Value="87" />
+          <Property Name="Left" Value="400" />
+          <Property Name="MaxDatapoint" Value="None" />
+          <Property Name="MaxValue" Value="360" />
+          <Property Name="MinDatapoint" Value="None" />
+          <Property Name="MinValue" Value="0" />
+          <Property Name="SimulationValue" Value="0" />
+          <Property Name="StyleClass" Value="Source[relative:StyleGroup].StyleClass[Default]" />
+          <Property Name="TeachDatapoint" Value="None" />
+          <Property Name="Top" Value="547" />
+          <Property Name="UnitText" Value="Abbreviation" />
+          <Property Name="UnitTextAlignment" Value="Left" />
+          <Property Name="UnitTextPosition" Value="Right" />
+          <Property Name="UnitTextWidth" Value="1" />
+          <Property Name="ValueDatapoint" Value="Source[global].Variable[DataSource.gAdhesiveCtrlInterface.Parameters.NordsonComms.ChannelSetTempActual[5]]" />
+          <Property Name="ValueMode" Value="Standard" />
+          <Property Name="Width" Value="175" />
+        </Control>
+        <Control ClassId="0x00001007" Name="Numeric_23">
+          <Property Name="BackColor" Value="233" />
+          <Property Name="Border" Value="Source[local].Border[Flat_black]" />
+          <Property Name="ControlID" Value="0" />
+          <Property Name="Description" Value="" />
+          <Property Name="Font" Value="Source[local].Font[Calibri18]" />
+          <Property Name="ForeColor" Value="0" />
+          <Property Name="Height" Value="87" />
+          <Property Name="Input" Value="True" />
+          <Property Name="InputCancel" Value="Lost Focus" />
+          <Property Name="InputComma" Value="Explicit" />
+          <Property Name="InputConfirm" Value="Enter" />
+          <Property Name="InputMinus" Value="Normal" />
+          <Property Name="InputNext" Value="Enter" />
+          <Property Name="InputStart" Value="Any Key" />
+          <Property Name="InputTouchpad" Value="Source[local].TouchPad[NumPad]" />
+          <Property Name="InputUpDown" Value="Disabled" />
+          <Property Name="Left" Value="575" />
+          <Property Name="MaxDatapoint" Value="None" />
+          <Property Name="MaxValue" Value="450" />
+          <Property Name="MinDatapoint" Value="None" />
+          <Property Name="MinValue" Value="100" />
+          <Property Name="SimulationValue" Value="0" />
+          <Property Name="StyleClass" Value="Source[relative:StyleGroup].StyleClass[Default]" />
+          <Property Name="TeachDatapoint" Value="None" />
+          <Property Name="Top" Value="547" />
+          <Property Name="UnitText" Value="Abbreviation" />
+          <Property Name="UnitTextAlignment" Value="Left" />
+          <Property Name="UnitTextPosition" Value="Right" />
+          <Property Name="UnitTextWidth" Value="1" />
+          <Property Name="ValueDatapoint" Value="Source[global].Variable[DataSource.gAdhesiveCtrlInterface.Parameters.NordsonComms.ChannelSetTempRequested[5]]" />
+          <Property Name="ValueMode" Value="Standard" />
+          <Property Name="Width" Value="175" />
+        </Control>
+        <Control ClassId="0x00001002" Name="Button_9">
+          <Property Name="BackColor" Value="8" />
+          <Property Name="BitmapAlignmentHorizontal" Value="Center" />
+          <Property Name="BitmapAlignmentVertical" Value="Bottom" />
+          <Property Name="BitmapIndexDatapoint" Value="None" />
+          <Property Name="BitmapSource" Value="None" />
+          <Property Name="Border" Value="Source[local].Border[Raised]" />
+          <Property Name="ColorDatapoint" Value="Source[global].Variable[DataSource.gHMI.ColorMapDatapoints.NordsonEditTemps]" />
+          <Property Name="ColorMap" Value="Source[local].ColorMap[BeingEdited]" />
+          <Property Name="ColorMapIndexOffset" Value="0" />
+          <Property Name="ControlID" Value="0" />
+          <Property Name="Description" Value="" />
+          <Property Name="EmbVirtualKey" Value="Source[local].VirtualKey[%embVirtualKey_131]" />
+          <Property Name="Font" Value="Source[local].Font[Calibri18]" />
+          <Property Name="ForeColor" Value="252" />
+          <Property Name="Height" Value="133" />
+          <Property Name="KeyMatrixOffset" Value="None" />
+          <Property Name="Left" Value="1088" />
+          <Property Name="Multiline" Value="Automatic" />
+          <Property Name="PressedBackColor" Value="106" />
+          <Property Name="PressedBitmapSource" Value="Source[embedded].Property[BitmapSource]" />
+          <Property Name="PressedBorder" Value="Source[local].Border[RaisedInner]" />
+          <Property Name="PressedForeColor" Value="0" />
+          <Property Name="PressedTextSource" Value="Source[embedded].Property[TextSource]" />
+          <Property Name="StyleClass" Value="Source[relative:StyleGroup].StyleClass[Default]" />
+          <Property Name="TextGroup" Value="Source[embedded].TextGroup" />
+          <Property Name="TextIndex" Value="25" />
+          <Property Name="TextIndexDatapoint" Value="None" />
+          <Property Name="TextSimulationValue" Value="0" />
+          <Property Name="TextSource" Value="SingleText" />
+          <Property Name="Top" Value="653" />
+          <Property Name="VirtualKey" Value="Source[local].VirtualKey[%embVirtualKey_131]" />
+          <Property Name="Width" Value="175" />
+        </Control>
+        <Control ClassId="0x00001004" Name="Text_4">
+          <Property Name="AlignmentHorizontal" Value="Center" />
+          <Property Name="ControlID" Value="0" />
+          <Property Name="Description" Value="" />
+          <Property Name="Font" Value="Source[local].Font[Calibri24]" />
+          <Property Name="ForeColor" Value="252" />
+          <Property Name="Height" Value="68" />
+          <Property Name="Left" Value="288" />
+          <Property Name="Multiline" Value="Automatic" />
+          <Property Name="SimulationIndex" Value="0" />
+          <Property Name="SimulationValue" Value="" />
+          <Property Name="StyleClass" Value="Source[relative:StyleGroup].StyleClass[Default]" />
+          <Property Name="TextGroup" Value="Source[embedded].TextGroup" />
+          <Property Name="TextIndexOffset" Value="2" />
+          <Property Name="TextSource" Value="SingleText" />
+          <Property Name="Top" Value="27" />
+          <Property Name="Width" Value="750" />
+        </Control>
+      </Controls>
+      <KeyMapping>
+        <VirtualKey Name="%embVirtualKey_130">
+          <Property Name="Description" Value="" />
+          <Property Name="VirtualKey_LED" Value="False" />
+          <KeyActions>
+            <KeyAction ClassId="0x00000160">
+              <Property Name="Description" Value="" />
+              <Property Name="Locking" Value="Never" />
+              <Property Name="Name" Value="Action_0" />
+              <Property Name="Page" Value="Source[local].Page[Page61_MaintenanceAdhesiveSet]" />
+              <Property Name="Target" Value="Page" />
+            </KeyAction>
+          </KeyActions>
+        </VirtualKey>
+        <VirtualKey Name="%embVirtualKey_131">
+          <Property Name="Description" Value="" />
+          <Property Name="VirtualKey_LED" Value="False" />
+          <KeyActions>
+            <KeyAction ClassId="0x00000161">
+              <Property Name="CompletionDatapoint" Value="None" />
+              <Property Name="CompletionValue" Value="0" />
+              <Property Name="Description" Value="" />
+              <Property Name="Locking" Value="Never" />
+              <Property Name="Name" Value="Action_0" />
+              <Property Name="SetValue" Value="1" />
+              <Property Name="ValueDatapoint" Value="Source[global].Variable[DataSource.gAdhesiveCtrlInterface.Commands.WriteChannelTemp]" />
+            </KeyAction>
+          </KeyActions>
+        </VirtualKey>
+      </KeyMapping>
+    </Layer>
+  </Layers>
+  <MovementOrder>
+    <MovementEntry Control="Source[embedded].Layer[Default].Control[Numeric_8]">
+      <Property Name="Down" Value="Source[embedded].Layer[Default].Control[Numeric_16]" />
+      <Property Name="Left" Value="Source[embedded].Layer[Default].Control[Numeric_16]" />
+      <Property Name="Right" Value="Source[embedded].Layer[Default].Control[Numeric_16]" />
+      <Property Name="Up" Value="Source[embedded].Layer[Default].Control[Numeric_23]" />
+    </MovementEntry>
+    <MovementEntry Control="Source[embedded].Layer[Default].Control[Numeric_16]">
+      <Property Name="Down" Value="Source[embedded].Layer[Default].Control[Numeric_17]" />
+      <Property Name="Left" Value="Source[embedded].Layer[Default].Control[Numeric_17]" />
+      <Property Name="Right" Value="Source[embedded].Layer[Default].Control[Numeric_17]" />
+      <Property Name="Up" Value="Source[embedded].Layer[Default].Control[Numeric_8]" />
+    </MovementEntry>
+    <MovementEntry Control="Source[embedded].Layer[Default].Control[Numeric_17]">
+      <Property Name="Down" Value="Source[embedded].Layer[Default].Control[Numeric_20]" />
+      <Property Name="Left" Value="Source[embedded].Layer[Default].Control[Numeric_20]" />
+      <Property Name="Right" Value="Source[embedded].Layer[Default].Control[Numeric_20]" />
+      <Property Name="Up" Value="Source[embedded].Layer[Default].Control[Numeric_16]" />
+    </MovementEntry>
+    <MovementEntry Control="Source[embedded].Layer[Default].Control[Numeric_20]">
+      <Property Name="Down" Value="Source[embedded].Layer[Default].Control[Numeric_23]" />
+      <Property Name="Left" Value="Source[embedded].Layer[Default].Control[Numeric_23]" />
+      <Property Name="Right" Value="Source[embedded].Layer[Default].Control[Numeric_23]" />
+      <Property Name="Up" Value="Source[embedded].Layer[Default].Control[Numeric_17]" />
+    </MovementEntry>
+    <MovementEntry Control="Source[embedded].Layer[Default].Control[Numeric_23]">
+      <Property Name="Down" Value="Source[embedded].Layer[Default].Control[Numeric_8]" />
+      <Property Name="Left" Value="Source[embedded].Layer[Default].Control[Numeric_20]" />
+      <Property Name="Right" Value="Source[embedded].Layer[Default].Control[Numeric_20]" />
+      <Property Name="Up" Value="Source[embedded].Layer[Default].Control[Numeric_20]" />
+    </MovementEntry>
+  </MovementOrder>
+  <TabSequence>
+    <TabSeqItem Index="0" Value="Source[embedded].Layer[Default].Control[Numeric_6]" />
+    <TabSeqItem Index="1" Value="Source[embedded].Layer[Default].Control[Numeric_12]" />
+    <TabSeqItem Index="2" Value="Source[embedded].Layer[Default].Control[Numeric_13]" />
+    <TabSeqItem Index="3" Value="Source[embedded].Layer[Default].Control[Numeric_7]" />
+    <TabSeqItem Index="4" Value="Source[embedded].Layer[Default].Control[Numeric_14]" />
+    <TabSeqItem Index="5" Value="Source[embedded].Layer[Default].Control[Numeric_15]" />
+    <TabSeqItem Index="6" Value="Source[embedded].Layer[Default].Control[Numeric_8]" />
+    <TabSeqItem Index="7" Value="Source[embedded].Layer[Default].Control[Numeric_16]" />
+    <TabSeqItem Index="8" Value="Source[embedded].Layer[Default].Control[Numeric_17]" />
+    <TabSeqItem Index="9" Value="Source[embedded].Layer[Default].Control[Numeric_18]" />
+    <TabSeqItem Index="10" Value="Source[embedded].Layer[Default].Control[Numeric_19]" />
+    <TabSeqItem Index="11" Value="Source[embedded].Layer[Default].Control[Numeric_20]" />
+    <TabSeqItem Index="12" Value="Source[embedded].Layer[Default].Control[Numeric_21]" />
+    <TabSeqItem Index="13" Value="Source[embedded].Layer[Default].Control[Numeric_22]" />
+    <TabSeqItem Index="14" Value="Source[embedded].Layer[Default].Control[Numeric_23]" />
+  </TabSequence>
+</Page>

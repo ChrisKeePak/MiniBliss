@@ -1,0 +1,9 @@
+VAR
+	BodyHopper : AxisBasic;
+	LeftHopper : AxisBasic;
+	RightHopper : AxisBasic;
+	ServoFeed : AxisBasic;
+	ServoRam : AxisBasic;
+	ServoPnP : AxisBasic;
+	ServoOverride : REAL := 1.0;
+END_VAR

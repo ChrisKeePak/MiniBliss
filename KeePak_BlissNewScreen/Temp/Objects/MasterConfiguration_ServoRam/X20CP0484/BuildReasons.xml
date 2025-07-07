@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BuildReasons>
+  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\masterconfiguration_servoram\x20cp0484\visu\visu.mak">
+    <BuildReason>Rule is forced.</BuildReason>
+  </Rule>
+  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\masterconfiguration_servoram\x20cp0484\motionhand\main.c.o">
+    <BuildReason>Prerequiste "$(AS_PROJECT_PATH)\logical\servomotion\motionhandler\main.c" differs.
+</BuildReason>
+  </Rule>
+  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\masterconfiguration_servoram\x20cp0484\motionhand\_bur_pvdef.c.o">
+    <BuildReason>Prerequiste "$(AS_PROJECT_PATH)\temp\objects\masterconfiguration_servoram\x20cp0484\motionhand\main.c.o" differs.
+</BuildReason>
+  </Rule>
+  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\masterconfiguration_servoram\x20cp0484\motionhand\a.out">
+    <BuildReason>Prerequiste "$(AS_PROJECT_PATH)\temp\objects\masterconfiguration_servoram\x20cp0484\motionhand\main.c.o" differs.
+</BuildReason>
+  </Rule>
+  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\masterconfiguration_servoram\x20cp0484\motionhand\motionhand.ox">
+    <BuildReason>Prerequiste "$(AS_PROJECT_PATH)\temp\objects\masterconfiguration_servoram\x20cp0484\motionhand\a.out" differs.
+</BuildReason>
+  </Rule>
+  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\masterconfiguration_servoram\x20cp0484\motionhand.br">
+    <BuildReason>Prerequiste "$(AS_PROJECT_PATH)\temp\objects\masterconfiguration_servoram\x20cp0484\motionhand\motionhand.ox" differs.
+</BuildReason>
+  </Rule>
+  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\masterconfiguration_servoram\x20cp0484\panel\panel.mak">
+    <BuildReason>Rule is forced.</BuildReason>
+  </Rule>
+  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\masterconfiguration_servoram\x20cp0484\visu.br">
+    <BuildReason>Rule is forced.</BuildReason>
+  </Rule>
+  <Rule ID="#cpu_tp.mak">
+    <BuildReason>Rule is forced.</BuildReason>
+  </Rule>
+  <Rule ID="$(AS_PROJECT_PATH)\binaries\masterconfiguration_servoram\x20cp0484\transfer.lst">
+    <BuildReason>Prerequiste "$(AS_PROJECT_PATH)\temp\objects\masterconfiguration_servoram\x20cp0484\motionhand.br" differs.
+</BuildReason>
+  </Rule>
+</BuildReasons>

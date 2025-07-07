@@ -1,0 +1,3 @@
+<?xml version="1.0"?>
+<?AutomationStudio Version=3.0?>
+<Project xmlns="http://br-automation.co.at/AS/Project"><Active ID="0"/><Configuration Name="MasterConfiguration_ServoRam"/><ConfigurationFiles ConfigurationName="MasterConfiguration_ServoRam" ActiveConfigurationFile="\Logical\ServoMotion\MotionHandler\Main.c"><ConfigurationFile Placement="\Physical\MasterConfiguration_ServoRam\X20CP0484\Motion\Acp10map.ncm,,1,44,0,1,-1,-1,-1,-1,2,30,619,661"/><ConfigurationFile Placement="\Logical\ServoMotion\MotionHandler\Main.c,ServoMotion.MotionHandler,2,44,0,1,-1,-1,-1,-1,2,30,619,661"/><ConfigurationFile Placement="\Virtual\6PPT50.101E-16B.hw,,1,44,0,1,-1,-1,-1,-1,2,30,619,661"/></ConfigurationFiles></Project>

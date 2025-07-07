@@ -1,0 +1,2240 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?AutomationStudio Version="4.7.7.74 SP"?>
+<Objects>
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\Package.pkg"
+    LogicalPath=""
+    Type="Package.ParentUnknown"
+    LastWriteTime="133403424520000000" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Temp\Includes\AS_TempDecl\MasterConfiguration_ServoRam\GlobalComponents\MpComponents.var"
+    LogicalPath="MpComponents.var"
+    Type="File"
+    LastWriteTime="133848838116896174"
+    Private="false" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\Global.typ"
+    LogicalPath="Global.typ"
+    Type="File"
+    LastWriteTime="133401610300000000"
+    Private="false" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\Global.var"
+    LogicalPath="Global.var"
+    Type="File"
+    LastWriteTime="133852241685009539"
+    Private="false" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\Libraries\Package.pkg"
+    LogicalPath="Libraries"
+    Type="Package"
+    LastWriteTime="133401610300000000" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\Libraries\operator\binary.lby"
+    LogicalPath="Libraries.operator"
+    Type="Library"
+    LastWriteTime="132189491900000000" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\Libraries\operator\operator.fun"
+    LogicalPath="Libraries.operator.operator.fun"
+    Type="File"
+    LastWriteTime="132189491440000000"
+    Private="false" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\Libraries\operator\operator.typ"
+    LogicalPath="Libraries.operator.operator.typ"
+    Type="File"
+    LastWriteTime="132189491600000000"
+    Private="false" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\Libraries\operator\operator.var"
+    LogicalPath="Libraries.operator.operator.var"
+    Type="File"
+    LastWriteTime="132189491760000000"
+    Private="false" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\Libraries\runtime\binary.lby"
+    LogicalPath="Libraries.runtime"
+    Type="Library"
+    LastWriteTime="132189491920000000" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\Libraries\runtime\runtime.fun"
+    LogicalPath="Libraries.runtime.runtime.fun"
+    Type="File"
+    LastWriteTime="132189491440000000"
+    Private="false" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\Libraries\runtime\runtime.typ"
+    LogicalPath="Libraries.runtime.runtime.typ"
+    Type="File"
+    LastWriteTime="132189491600000000"
+    Private="false" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\Libraries\runtime\runtime.var"
+    LogicalPath="Libraries.runtime.runtime.var"
+    Type="File"
+    LastWriteTime="132189491760000000"
+    Private="false" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\Libraries\astime\binary.lby"
+    LogicalPath="Libraries.astime"
+    Type="Library"
+    LastWriteTime="132189491880000000" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\Libraries\astime\astime.fun"
+    LogicalPath="Libraries.astime.astime.fun"
+    Type="File"
+    LastWriteTime="132189491400000000"
+    Private="false" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\Libraries\astime\astime.typ"
+    LogicalPath="Libraries.astime.astime.typ"
+    Type="File"
+    LastWriteTime="132189491560000000"
+    Private="false" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\Libraries\astime\astime.var"
+    LogicalPath="Libraries.astime.astime.var"
+    Type="File"
+    LastWriteTime="132189491720000000"
+    Private="false" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\Libraries\AsIecCon\binary.lby"
+    LogicalPath="Libraries.AsIecCon"
+    Type="Library"
+    LastWriteTime="132189491820000000" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\Libraries\AsIecCon\AsIecCon.fun"
+    LogicalPath="Libraries.AsIecCon.AsIecCon.fun"
+    Type="File"
+    LastWriteTime="132189491360000000"
+    Private="false" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\Libraries\AsIecCon\AsIecCon.typ"
+    LogicalPath="Libraries.AsIecCon.AsIecCon.typ"
+    Type="File"
+    LastWriteTime="132189491500000000"
+    Private="false" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\Libraries\AsIecCon\AsIecCon.var"
+    LogicalPath="Libraries.AsIecCon.AsIecCon.var"
+    Type="File"
+    LastWriteTime="132189491660000000"
+    Private="false" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\Libraries\standard\binary.lby"
+    LogicalPath="Libraries.standard"
+    Type="Library"
+    LastWriteTime="132189491920000000" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\Libraries\standard\standard.fun"
+    LogicalPath="Libraries.standard.standard.fun"
+    Type="File"
+    LastWriteTime="132189491440000000"
+    Private="false" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\Libraries\standard\standard.typ"
+    LogicalPath="Libraries.standard.standard.typ"
+    Type="File"
+    LastWriteTime="132189491600000000"
+    Private="false" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\Libraries\standard\standard.var"
+    LogicalPath="Libraries.standard.standard.var"
+    Type="File"
+    LastWriteTime="132189491760000000"
+    Private="false" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\Libraries\brsystem\Binary.lby"
+    LogicalPath="Libraries.brsystem"
+    Type="Library"
+    LastWriteTime="132189491880000000" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\Libraries\brsystem\brsystem.fun"
+    LogicalPath="Libraries.brsystem.brsystem.fun"
+    Type="File"
+    LastWriteTime="132189491420000000"
+    Private="false" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\Libraries\brsystem\brsystem.typ"
+    LogicalPath="Libraries.brsystem.brsystem.typ"
+    Type="File"
+    LastWriteTime="132189491580000000"
+    Private="false" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\Libraries\brsystem\brsystem.var"
+    LogicalPath="Libraries.brsystem.brsystem.var"
+    Type="File"
+    LastWriteTime="132189491740000000"
+    Private="false" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\Libraries\sys_lib\Binary.lby"
+    LogicalPath="Libraries.sys_lib"
+    Type="Library"
+    LastWriteTime="132189491920000000" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\Libraries\sys_lib\sys_lib.fun"
+    LogicalPath="Libraries.sys_lib.sys_lib.fun"
+    Type="File"
+    LastWriteTime="132189491440000000"
+    Private="false" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\Libraries\sys_lib\sys_lib.typ"
+    LogicalPath="Libraries.sys_lib.sys_lib.typ"
+    Type="File"
+    LastWriteTime="132189491600000000"
+    Private="false" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\Libraries\sys_lib\sys_lib.var"
+    LogicalPath="Libraries.sys_lib.sys_lib.var"
+    Type="File"
+    LastWriteTime="132189491760000000"
+    Private="false" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\Libraries\Constants\IEC.lby"
+    LogicalPath="Libraries.Constants"
+    Type="Library"
+    LastWriteTime="133401610300000000" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\Libraries\Constants\Constants.var"
+    LogicalPath="Libraries.Constants.Constants.var"
+    Type="File"
+    LastWriteTime="133848912456287902"
+    Private="false" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\Libraries\Constants\AlarmNames.var"
+    LogicalPath="Libraries.Constants.AlarmNames.var"
+    Type="File"
+    LastWriteTime="133401610300000000"
+    Private="false" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\Libraries\Vacuum\IEC.lby"
+    LogicalPath="Libraries.Vacuum"
+    Type="Library"
+    LastWriteTime="133401610300000000" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\Libraries\Vacuum\Types.typ"
+    LogicalPath="Libraries.Vacuum.Types.typ"
+    Type="File"
+    LastWriteTime="133401610300000000"
+    Private="false" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\Libraries\Vacuum\Constants.var"
+    LogicalPath="Libraries.Vacuum.Constants.var"
+    Type="File"
+    LastWriteTime="133401610300000000"
+    Private="false" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\Libraries\Vacuum\Vacuum.fun"
+    LogicalPath="Libraries.Vacuum.Vacuum.fun"
+    Type="File"
+    LastWriteTime="133401610300000000"
+    Private="false" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\Libraries\Vacuum\VenturiControl.st"
+    LogicalPath="Libraries.Vacuum.VenturiControl.st"
+    Type="File"
+    LastWriteTime="133401610300000000"
+    Private="false" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\Libraries\FoldPush\IEC.lby"
+    LogicalPath="Libraries.FoldPush"
+    Type="Library"
+    LastWriteTime="133401610300000000" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\Libraries\FoldPush\Types.typ"
+    LogicalPath="Libraries.FoldPush.Types.typ"
+    Type="File"
+    LastWriteTime="133401610300000000"
+    Private="false" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\Libraries\FoldPush\Constants.var"
+    LogicalPath="Libraries.FoldPush.Constants.var"
+    Type="File"
+    LastWriteTime="133401610300000000"
+    Private="false" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\Libraries\FoldPush\FoldPush.fun"
+    LogicalPath="Libraries.FoldPush.FoldPush.fun"
+    Type="File"
+    LastWriteTime="133401610300000000"
+    Private="false" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\Libraries\FoldPush\FoldPushControl.st"
+    LogicalPath="Libraries.FoldPush.FoldPushControl.st"
+    Type="File"
+    LastWriteTime="133401610300000000"
+    Private="false" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\Libraries\GluePatt\IEC.lby"
+    LogicalPath="Libraries.GluePatt"
+    Type="Library"
+    LastWriteTime="133401610300000000" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\Libraries\GluePatt\Types.typ"
+    LogicalPath="Libraries.GluePatt.Types.typ"
+    Type="File"
+    LastWriteTime="133401610300000000"
+    Private="false" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\Libraries\GluePatt\Constants.var"
+    LogicalPath="Libraries.GluePatt.Constants.var"
+    Type="File"
+    LastWriteTime="133401610300000000"
+    Private="false" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\Libraries\GluePatt\GluePatt.fun"
+    LogicalPath="Libraries.GluePatt.GluePatt.fun"
+    Type="File"
+    LastWriteTime="133401610300000000"
+    Private="false" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\Libraries\GluePatt\GluePatternControl.st"
+    LogicalPath="Libraries.GluePatt.GluePatternControl.st"
+    Type="File"
+    LastWriteTime="133401610300000000"
+    Private="false" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\Libraries\GluePatt\SetPatternSDPs.st"
+    LogicalPath="Libraries.GluePatt.SetPatternSDPs.st"
+    Type="File"
+    LastWriteTime="133401610300000000"
+    Private="false" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\Libraries\SetRamPars\IEC.lby"
+    LogicalPath="Libraries.SetRamPars"
+    Type="Library"
+    LastWriteTime="133401610300000000" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\Libraries\SetRamPars\Types.typ"
+    LogicalPath="Libraries.SetRamPars.Types.typ"
+    Type="File"
+    LastWriteTime="133401610300000000"
+    Private="false" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\Libraries\SetRamPars\Constants.var"
+    LogicalPath="Libraries.SetRamPars.Constants.var"
+    Type="File"
+    LastWriteTime="133401610300000000"
+    Private="false" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\Libraries\SetRamPars\SetRamPars.fun"
+    LogicalPath="Libraries.SetRamPars.SetRamPars.fun"
+    Type="File"
+    LastWriteTime="133401610300000000"
+    Private="false" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\Libraries\SetRamPars\SetRamPars.st"
+    LogicalPath="Libraries.SetRamPars.SetRamPars.st"
+    Type="File"
+    LastWriteTime="133401610300000000"
+    Private="false" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\Libraries\SetRamPars\ComputeMoveDistance.st"
+    LogicalPath="Libraries.SetRamPars.ComputeMoveDistance.st"
+    Type="File"
+    LastWriteTime="133401610300000000"
+    Private="false" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\Libraries\SetRamPars\ComputeDistanceMoved.st"
+    LogicalPath="Libraries.SetRamPars.ComputeDistanceMoved.st"
+    Type="File"
+    LastWriteTime="133506252920000000"
+    Private="false" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\Libraries\GrayToBin\ANSIC.lby"
+    LogicalPath="Libraries.GrayToBin"
+    Type="Library"
+    LastWriteTime="133401610300000000" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\Libraries\GrayToBin\Types.typ"
+    LogicalPath="Libraries.GrayToBin.Types.typ"
+    Type="File"
+    LastWriteTime="133401610300000000"
+    Private="false" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\Libraries\GrayToBin\Constants.var"
+    LogicalPath="Libraries.GrayToBin.Constants.var"
+    Type="File"
+    LastWriteTime="133401610300000000"
+    Private="false" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\Libraries\GrayToBin\GrayToBin.fun"
+    LogicalPath="Libraries.GrayToBin.GrayToBin.fun"
+    Type="File"
+    LastWriteTime="133401610300000000"
+    Private="false" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\Libraries\GrayToBin\GrayToBinary.c"
+    LogicalPath="Libraries.GrayToBin.GrayToBinary.c"
+    Type="File"
+    LastWriteTime="133401610300000000"
+    Private="false" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\Libraries\GrayToBin\grayCodeBitPacker.c"
+    LogicalPath="Libraries.GrayToBin.grayCodeBitPacker.c"
+    Type="File"
+    LastWriteTime="133401610300000000"
+    Private="false" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\Libraries\AsBrStr\binary.lby"
+    LogicalPath="Libraries.AsBrStr"
+    Type="Library"
+    LastWriteTime="132189491800000000" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\Libraries\AsBrStr\AsBrStr.fun"
+    LogicalPath="Libraries.AsBrStr.AsBrStr.fun"
+    Type="File"
+    LastWriteTime="132189491340000000"
+    Private="false" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\Libraries\AsBrStr\AsBrStr.typ"
+    LogicalPath="Libraries.AsBrStr.AsBrStr.typ"
+    Type="File"
+    LastWriteTime="132189491480000000"
+    Private="false" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\Libraries\AsBrStr\AsBrStr.var"
+    LogicalPath="Libraries.AsBrStr.AsBrStr.var"
+    Type="File"
+    LastWriteTime="132189491640000000"
+    Private="false" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\Libraries\InvErrTxt\IEC.lby"
+    LogicalPath="Libraries.InvErrTxt"
+    Type="Library"
+    LastWriteTime="133401610300000000" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\Libraries\InvErrTxt\InvErrTxt.typ"
+    LogicalPath="Libraries.InvErrTxt.InvErrTxt.typ"
+    Type="File"
+    LastWriteTime="133401610300000000"
+    Private="false" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\Libraries\InvErrTxt\InvErrTxt.var"
+    LogicalPath="Libraries.InvErrTxt.InvErrTxt.var"
+    Type="File"
+    LastWriteTime="133401610300000000"
+    Private="false" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\Libraries\InvErrTxt\InvErrTxt.fun"
+    LogicalPath="Libraries.InvErrTxt.InvErrTxt.fun"
+    Type="File"
+    LastWriteTime="133401610300000000"
+    Private="false" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\Libraries\InvErrTxt\InverterFaultText.st"
+    LogicalPath="Libraries.InvErrTxt.InverterFaultText.st"
+    Type="File"
+    LastWriteTime="133401610300000000"
+    Private="false" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\Libraries\DistCalc\ANSIC.lby"
+    LogicalPath="Libraries.DistCalc"
+    Type="Library"
+    LastWriteTime="133401610300000000" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\Libraries\DistCalc\Types.typ"
+    LogicalPath="Libraries.DistCalc.Types.typ"
+    Type="File"
+    LastWriteTime="133401610300000000"
+    Private="false" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\Libraries\DistCalc\Constants.var"
+    LogicalPath="Libraries.DistCalc.Constants.var"
+    Type="File"
+    LastWriteTime="133401610300000000"
+    Private="false" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\Libraries\DistCalc\DistCalc.fun"
+    LogicalPath="Libraries.DistCalc.DistCalc.fun"
+    Type="File"
+    LastWriteTime="133401610300000000"
+    Private="false" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\Libraries\DistCalc\DetermineDistanceToStopPos.c"
+    LogicalPath="Libraries.DistCalc.DetermineDistanceToStopPos.c"
+    Type="File"
+    LastWriteTime="133401610300000000"
+    Private="false" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\Libraries\AsSafety\Binary.lby"
+    LogicalPath="Libraries.AsSafety"
+    Type="Library"
+    LastWriteTime="132189491860000000" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\Libraries\AsSafety\AsSafety.fun"
+    LogicalPath="Libraries.AsSafety.AsSafety.fun"
+    Type="File"
+    LastWriteTime="132189491400000000"
+    Private="false" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\Libraries\AsSafety\AsSafety.typ"
+    LogicalPath="Libraries.AsSafety.AsSafety.typ"
+    Type="File"
+    LastWriteTime="132189491560000000"
+    Private="false" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\Libraries\AsSafety\AsSafety.var"
+    LogicalPath="Libraries.AsSafety.AsSafety.var"
+    Type="File"
+    LastWriteTime="132189491720000000"
+    Private="false" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\Libraries\FileIO\Binary.lby"
+    LogicalPath="Libraries.FileIO"
+    Type="Library"
+    LastWriteTime="132189491900000000" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\Libraries\FileIO\FileIO.fun"
+    LogicalPath="Libraries.FileIO.FileIO.fun"
+    Type="File"
+    LastWriteTime="132189491440000000"
+    Private="false" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\Libraries\FileIO\FileIO.typ"
+    LogicalPath="Libraries.FileIO.FileIO.typ"
+    Type="File"
+    LastWriteTime="132189491600000000"
+    Private="false" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\Libraries\FileIO\FileIO.var"
+    LogicalPath="Libraries.FileIO.FileIO.var"
+    Type="File"
+    LastWriteTime="132189491760000000"
+    Private="false" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\Libraries\AsXml\Binary.lby"
+    LogicalPath="Libraries.AsXml"
+    Type="Library"
+    LastWriteTime="132189491880000000" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\Libraries\AsXml\AsXml.fun"
+    LogicalPath="Libraries.AsXml.AsXml.fun"
+    Type="File"
+    LastWriteTime="132189491420000000"
+    Private="false" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\Libraries\AsXml\AsXml.typ"
+    LogicalPath="Libraries.AsXml.AsXml.typ"
+    Type="File"
+    LastWriteTime="132189491580000000"
+    Private="false" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\Libraries\AsXml\AsXml.var"
+    LogicalPath="Libraries.AsXml.AsXml.var"
+    Type="File"
+    LastWriteTime="132189491740000000"
+    Private="false" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\Libraries\AsMbTcp\binary.lby"
+    LogicalPath="Libraries.AsMbTcp"
+    Type="Library"
+    LastWriteTime="132189491840000000" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\Libraries\AsMbTcp\AsMbTCP.fun"
+    LogicalPath="Libraries.AsMbTcp.AsMbTCP.fun"
+    Type="File"
+    LastWriteTime="132189491380000000"
+    Private="false" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\Libraries\AsMbTcp\AsMbTCP.typ"
+    LogicalPath="Libraries.AsMbTcp.AsMbTCP.typ"
+    Type="File"
+    LastWriteTime="132189491520000000"
+    Private="false" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\Libraries\AsMbTcp\AsMbTCP.var"
+    LogicalPath="Libraries.AsMbTcp.AsMbTCP.var"
+    Type="File"
+    LastWriteTime="132189491680000000"
+    Private="false" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\Libraries\asstring\Binary.lby"
+    LogicalPath="Libraries.asstring"
+    Type="Library"
+    LastWriteTime="132189491880000000" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\Libraries\asstring\asstring.fun"
+    LogicalPath="Libraries.asstring.asstring.fun"
+    Type="File"
+    LastWriteTime="132189491400000000"
+    Private="false" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\Libraries\asstring\asstring.typ"
+    LogicalPath="Libraries.asstring.asstring.typ"
+    Type="File"
+    LastWriteTime="132189491560000000"
+    Private="false" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\Libraries\asstring\asstring.var"
+    LogicalPath="Libraries.asstring.asstring.var"
+    Type="File"
+    LastWriteTime="132189491720000000"
+    Private="false" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\Libraries\AsIOAcc\Binary.lby"
+    LogicalPath="Libraries.AsIOAcc"
+    Type="Library"
+    LastWriteTime="132189491820000000" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\Libraries\AsIOAcc\AsIOAcc.fun"
+    LogicalPath="Libraries.AsIOAcc.AsIOAcc.fun"
+    Type="File"
+    LastWriteTime="132189491360000000"
+    Private="false" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\Libraries\AsIOAcc\AsIOAcc.typ"
+    LogicalPath="Libraries.AsIOAcc.AsIOAcc.typ"
+    Type="File"
+    LastWriteTime="132189491500000000"
+    Private="false" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\Libraries\AsIOAcc\AsIOAcc.var"
+    LogicalPath="Libraries.AsIOAcc.AsIOAcc.var"
+    Type="File"
+    LastWriteTime="132189491660000000"
+    Private="false" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\Libraries\AsBrMath\Binary.lby"
+    LogicalPath="Libraries.AsBrMath"
+    Type="Library"
+    LastWriteTime="132189491800000000" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\Libraries\AsBrMath\AsBrMath.fun"
+    LogicalPath="Libraries.AsBrMath.AsBrMath.fun"
+    Type="File"
+    LastWriteTime="132189491340000000"
+    Private="false" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\Libraries\AsBrMath\AsBrMath.typ"
+    LogicalPath="Libraries.AsBrMath.AsBrMath.typ"
+    Type="File"
+    LastWriteTime="132189491480000000"
+    Private="false" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\Libraries\AsBrMath\AsBrMath.var"
+    LogicalPath="Libraries.AsBrMath.AsBrMath.var"
+    Type="File"
+    LastWriteTime="132189491640000000"
+    Private="false" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\Libraries\AsEPL\binary.lby"
+    LogicalPath="Libraries.AsEPL"
+    Type="Library"
+    LastWriteTime="132189491800000000" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\Libraries\AsEPL\AsEPL.fun"
+    LogicalPath="Libraries.AsEPL.AsEPL.fun"
+    Type="File"
+    LastWriteTime="132189491340000000"
+    Private="false" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\Libraries\AsEPL\AsEPL.typ"
+    LogicalPath="Libraries.AsEPL.AsEPL.typ"
+    Type="File"
+    LastWriteTime="132189491480000000"
+    Private="false" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\Libraries\AsEPL\AsEPL.var"
+    LogicalPath="Libraries.AsEPL.AsEPL.var"
+    Type="File"
+    LastWriteTime="132189491640000000"
+    Private="false" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\Libraries\DataObj\Binary.lby"
+    LogicalPath="Libraries.DataObj"
+    Type="Library"
+    LastWriteTime="132189491900000000" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\Libraries\DataObj\DataObj.fun"
+    LogicalPath="Libraries.DataObj.DataObj.fun"
+    Type="File"
+    LastWriteTime="132189491420000000"
+    Private="false" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\Libraries\DataObj\DataObj.typ"
+    LogicalPath="Libraries.DataObj.DataObj.typ"
+    Type="File"
+    LastWriteTime="132189491580000000"
+    Private="false" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\Libraries\DataObj\DataObj.var"
+    LogicalPath="Libraries.DataObj.DataObj.var"
+    Type="File"
+    LastWriteTime="132189491740000000"
+    Private="false" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\Libraries\AsIODiag\Binary.lby"
+    LogicalPath="Libraries.AsIODiag"
+    Type="Library"
+    LastWriteTime="132189491820000000" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\Libraries\AsIODiag\AsIODiag.fun"
+    LogicalPath="Libraries.AsIODiag.AsIODiag.fun"
+    Type="File"
+    LastWriteTime="132189491360000000"
+    Private="false" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\Libraries\AsIODiag\AsIODiag.typ"
+    LogicalPath="Libraries.AsIODiag.AsIODiag.typ"
+    Type="File"
+    LastWriteTime="132189491500000000"
+    Private="false" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\Libraries\AsIODiag\AsIODiag.var"
+    LogicalPath="Libraries.AsIODiag.AsIODiag.var"
+    Type="File"
+    LastWriteTime="132189491660000000"
+    Private="false" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\Libraries\Acp10man\Binary.lby"
+    LogicalPath="Libraries.Acp10man"
+    Type="Library"
+    LastWriteTime="133401610300000000" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\Libraries\Acp10man\Acp10man.typ"
+    LogicalPath="Libraries.Acp10man.Acp10man.typ"
+    Type="File"
+    LastWriteTime="133401610300000000"
+    Private="false" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\Libraries\Acp10par\Binary.lby"
+    LogicalPath="Libraries.Acp10par"
+    Type="Library"
+    LastWriteTime="133401610300000000" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\Libraries\Acp10par\Acp10par.var"
+    LogicalPath="Libraries.Acp10par.Acp10par.var"
+    Type="File"
+    LastWriteTime="133401610300000000"
+    Private="false" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\Libraries\NcGlobal\Binary.lby"
+    LogicalPath="Libraries.NcGlobal"
+    Type="Library"
+    LastWriteTime="133401610300000000" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\Libraries\NcGlobal\NcGlobal.fun"
+    LogicalPath="Libraries.NcGlobal.NcGlobal.fun"
+    Type="File"
+    LastWriteTime="133401610300000000"
+    Private="false" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\Libraries\NcGlobal\NcGlobal.typ"
+    LogicalPath="Libraries.NcGlobal.NcGlobal.typ"
+    Type="File"
+    LastWriteTime="133401610300000000"
+    Private="false" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\Libraries\NcGlobal\NcGlobal.var"
+    LogicalPath="Libraries.NcGlobal.NcGlobal.var"
+    Type="File"
+    LastWriteTime="133401610300000000"
+    Private="false" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\Libraries\Acp10sdc\binary.lby"
+    LogicalPath="Libraries.Acp10sdc"
+    Type="Library"
+    LastWriteTime="133401610300000000" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\Libraries\Acp10sdc\acp10sdc.var"
+    LogicalPath="Libraries.Acp10sdc.acp10sdc.var"
+    Type="File"
+    LastWriteTime="133401610300000000"
+    Private="false" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\Libraries\Acp10sdc\acp10sdc.typ"
+    LogicalPath="Libraries.Acp10sdc.acp10sdc.typ"
+    Type="File"
+    LastWriteTime="133401610300000000"
+    Private="false" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\Libraries\Acp10sim\binary.lby"
+    LogicalPath="Libraries.Acp10sim"
+    Type="Library"
+    LastWriteTime="133401610300000000" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\Libraries\Acp10sim\acp10sim.var"
+    LogicalPath="Libraries.Acp10sim.acp10sim.var"
+    Type="File"
+    LastWriteTime="133401610300000000"
+    Private="false" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\Libraries\Acp10sim\acp10sim.typ"
+    LogicalPath="Libraries.Acp10sim.acp10sim.typ"
+    Type="File"
+    LastWriteTime="133401610300000000"
+    Private="false" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\Libraries\Acp10_MC\binary.lby"
+    LogicalPath="Libraries.Acp10_MC"
+    Type="Library"
+    LastWriteTime="133401610300000000" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\Libraries\Acp10_MC\acp10_mc.fun"
+    LogicalPath="Libraries.Acp10_MC.acp10_mc.fun"
+    Type="File"
+    LastWriteTime="133401610300000000"
+    Private="false" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\Libraries\Acp10_MC\acp10_mc.typ"
+    LogicalPath="Libraries.Acp10_MC.acp10_mc.typ"
+    Type="File"
+    LastWriteTime="133401610300000000"
+    Private="false" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\Libraries\Acp10_MC\acp10_mc.var"
+    LogicalPath="Libraries.Acp10_MC.acp10_mc.var"
+    Type="File"
+    LastWriteTime="133401610300000000"
+    Private="false" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\Libraries\MpAxis\Binary.lby"
+    LogicalPath="Libraries.MpAxis"
+    Type="Library"
+    LastWriteTime="133401610300000000" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\Libraries\MpAxis\MpAxis.typ"
+    LogicalPath="Libraries.MpAxis.MpAxis.typ"
+    Type="File"
+    LastWriteTime="133401610300000000"
+    Private="false" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\Libraries\MpAxis\MpAxisError.typ"
+    LogicalPath="Libraries.MpAxis.MpAxisError.typ"
+    Type="File"
+    LastWriteTime="133401610300000000"
+    Private="false" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\Libraries\MpAxis\MpAxisAlarm.typ"
+    LogicalPath="Libraries.MpAxis.MpAxisAlarm.typ"
+    Type="File"
+    LastWriteTime="133401610300000000"
+    Private="false" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\Libraries\MpAxis\MpAxis.fun"
+    LogicalPath="Libraries.MpAxis.MpAxis.fun"
+    Type="File"
+    LastWriteTime="133401610300000000"
+    Private="false" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\Libraries\MpBase\Binary.lby"
+    LogicalPath="Libraries.MpBase"
+    Type="Library"
+    LastWriteTime="133401610300000000" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\Libraries\MpBase\MpBase.typ"
+    LogicalPath="Libraries.MpBase.MpBase.typ"
+    Type="File"
+    LastWriteTime="133401610300000000"
+    Private="false" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\Libraries\MpBase\MpBase.var"
+    LogicalPath="Libraries.MpBase.MpBase.var"
+    Type="File"
+    LastWriteTime="133401610300000000"
+    Private="false" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\Libraries\MpBase\MpBase.fun"
+    LogicalPath="Libraries.MpBase.MpBase.fun"
+    Type="File"
+    LastWriteTime="133401610300000000"
+    Private="false" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\Libraries\MpBase\Common_EventLog.tmx"
+    LogicalPath="Libraries.MpBase.Common_EventLog.tmx"
+    Type="File"
+    LastWriteTime="133401610300000000"
+    Private="false" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\Libraries\MpAlarmX\Binary.lby"
+    LogicalPath="Libraries.MpAlarmX"
+    Type="Library"
+    LastWriteTime="133401610300000000" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\Libraries\MpAlarmX\MpAlarmX.typ"
+    LogicalPath="Libraries.MpAlarmX.MpAlarmX.typ"
+    Type="File"
+    LastWriteTime="133401610300000000"
+    Private="false" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\Libraries\MpAlarmX\MpAlarmXError.typ"
+    LogicalPath="Libraries.MpAlarmX.MpAlarmXError.typ"
+    Type="File"
+    LastWriteTime="133401610300000000"
+    Private="false" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\Libraries\MpAlarmX\MpAlarmX.fun"
+    LogicalPath="Libraries.MpAlarmX.MpAlarmX.fun"
+    Type="File"
+    LastWriteTime="133401610300000000"
+    Private="false" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\Libraries\MpCom\Binary.lby"
+    LogicalPath="Libraries.MpCom"
+    Type="Library"
+    LastWriteTime="133401610300000000" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\Libraries\MpCom\MpCom.var"
+    LogicalPath="Libraries.MpCom.MpCom.var"
+    Type="File"
+    LastWriteTime="133401610300000000"
+    Private="false" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\Libraries\MpCom\MpCom.typ"
+    LogicalPath="Libraries.MpCom.MpCom.typ"
+    Type="File"
+    LastWriteTime="133401610300000000"
+    Private="false" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\Libraries\MpCom\MpComError.typ"
+    LogicalPath="Libraries.MpCom.MpComError.typ"
+    Type="File"
+    LastWriteTime="133401610300000000"
+    Private="false" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\Libraries\MpCom\MpCom.fun"
+    LogicalPath="Libraries.MpCom.MpCom.fun"
+    Type="File"
+    LastWriteTime="133401610300000000"
+    Private="false" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\Libraries\MpRecipe\Binary.lby"
+    LogicalPath="Libraries.MpRecipe"
+    Type="Library"
+    LastWriteTime="133401610300000000" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\Libraries\MpRecipe\MpRecipe.typ"
+    LogicalPath="Libraries.MpRecipe.MpRecipe.typ"
+    Type="File"
+    LastWriteTime="133401610300000000"
+    Private="false" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\Libraries\MpRecipe\MpRecipeAlarm.typ"
+    LogicalPath="Libraries.MpRecipe.MpRecipeAlarm.typ"
+    Type="File"
+    LastWriteTime="133401610300000000"
+    Private="false" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\Libraries\MpRecipe\MpRecipeError.typ"
+    LogicalPath="Libraries.MpRecipe.MpRecipeError.typ"
+    Type="File"
+    LastWriteTime="133401610300000000"
+    Private="false" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\Libraries\MpRecipe\MpRecipe.fun"
+    LogicalPath="Libraries.MpRecipe.MpRecipe.fun"
+    Type="File"
+    LastWriteTime="133401610300000000"
+    Private="false" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\Libraries\MappCall\IEC.lby"
+    LogicalPath="Libraries.MappCall"
+    Type="Library"
+    LastWriteTime="133510375000000000" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\Libraries\MappCall\Types.typ"
+    LogicalPath="Libraries.MappCall.Types.typ"
+    Type="File"
+    LastWriteTime="133401610300000000"
+    Private="false" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\Libraries\MappCall\Constants.var"
+    LogicalPath="Libraries.MappCall.Constants.var"
+    Type="File"
+    LastWriteTime="133401610300000000"
+    Private="false" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\Libraries\MappCall\MappCall.fun"
+    LogicalPath="Libraries.MappCall.MappCall.fun"
+    Type="File"
+    LastWriteTime="133510392120000000"
+    Private="false" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\Libraries\MappCall\AxisBasic.ld"
+    LogicalPath="Libraries.MappCall.AxisBasic.ld"
+    Type="File"
+    LastWriteTime="133510375000000000"
+    Private="false" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\Libraries\MappCall\StatusID_Decoder.st"
+    LogicalPath="Libraries.MappCall.StatusID_Decoder.st"
+    Type="File"
+    LastWriteTime="133510389080000000"
+    Private="false" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\Libraries\MappCall\Severity_Decoder.st"
+    LogicalPath="Libraries.MappCall.Severity_Decoder.st"
+    Type="File"
+    LastWriteTime="133510384060000000"
+    Private="false" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\Libraries\MappCall\Facility_Decoder.st"
+    LogicalPath="Libraries.MappCall.Facility_Decoder.st"
+    Type="File"
+    LastWriteTime="133510391060000000"
+    Private="false" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\Libraries\Types\IEC.lby"
+    LogicalPath="Libraries.Types"
+    Type="Library"
+    LastWriteTime="133401610300000000" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\Libraries\Types\Types.typ"
+    LogicalPath="Libraries.Types.Types.typ"
+    Type="File"
+    LastWriteTime="133848933799479829"
+    Private="false" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\Libraries\AxisFUBs\ANSIC.lby"
+    LogicalPath="Libraries.AxisFUBs"
+    Type="Library"
+    LastWriteTime="133401610300000000" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\Libraries\AxisFUBs\Types.typ"
+    LogicalPath="Libraries.AxisFUBs.Types.typ"
+    Type="File"
+    LastWriteTime="133401610300000000"
+    Private="false" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\Libraries\AxisFUBs\Constants.var"
+    LogicalPath="Libraries.AxisFUBs.Constants.var"
+    Type="File"
+    LastWriteTime="133401610300000000"
+    Private="false" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\Libraries\AxisFUBs\AxisFUBs.fun"
+    LogicalPath="Libraries.AxisFUBs.AxisFUBs.fun"
+    Type="File"
+    LastWriteTime="133402504500000000"
+    Private="false" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\Libraries\AxisFUBs\AxisHandler.c"
+    LogicalPath="Libraries.AxisFUBs.AxisHandler.c"
+    Type="File"
+    LastWriteTime="133747876105215395"
+    Private="false" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\Libraries\Lib_PBFlx\IEC.lby"
+    LogicalPath="Libraries.Lib_PBFlx"
+    Type="Library"
+    LastWriteTime="133401610300000000" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\Libraries\Lib_PBFlx\FB_NDSN_MB_PBFlex_CtrlSts.st"
+    LogicalPath="Libraries.Lib_PBFlx.FB_NDSN_MB_PBFlex_CtrlSts.st"
+    Type="File"
+    LastWriteTime="133401610300000000"
+    Private="false" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\Libraries\Lib_PBFlx\FB_NDSN_MB_PBFlex_Process.st"
+    LogicalPath="Libraries.Lib_PBFlx.FB_NDSN_MB_PBFlex_Process.st"
+    Type="File"
+    LastWriteTime="133401610300000000"
+    Private="false" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\Libraries\Lib_PBFlx\Types.typ"
+    LogicalPath="Libraries.Lib_PBFlx.Types.typ"
+    Type="File"
+    LastWriteTime="133401610300000000"
+    Private="false" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\Libraries\Lib_PBFlx\Constants.var"
+    LogicalPath="Libraries.Lib_PBFlx.Constants.var"
+    Type="File"
+    LastWriteTime="133401610300000000"
+    Private="false" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\Libraries\Lib_PBFlx\Lib_PBFlx.fun"
+    LogicalPath="Libraries.Lib_PBFlx.Lib_PBFlx.fun"
+    Type="File"
+    LastWriteTime="133401610300000000"
+    Private="false" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\Simulation\Package.pkg"
+    LogicalPath="Simulation"
+    Type="Package"
+    LastWriteTime="133401610300000000" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\Simulation\Simulation\IEC.prg"
+    LogicalPath="Simulation.Simulation"
+    Type="Program"
+    LastWriteTime="133401610300000000" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\Simulation\Simulation\Main.st"
+    LogicalPath="Simulation.Simulation.Main.st"
+    Type="File"
+    LastWriteTime="133401610300000000"
+    Private="false" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\Simulation\Simulation\Types.typ"
+    LogicalPath="Simulation.Simulation.Types.typ"
+    Type="File"
+    LastWriteTime="133401610300000000"
+    Private="true" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\Simulation\Simulation\Variables.var"
+    LogicalPath="Simulation.Simulation.Variables.var"
+    Type="File"
+    LastWriteTime="133401610300000000"
+    Private="true" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\ModeControl\Package.pkg"
+    LogicalPath="ModeControl"
+    Type="Package"
+    LastWriteTime="133401610300000000" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\ModeControl\ModeControl\IEC.prg"
+    LogicalPath="ModeControl.ModeControl"
+    Type="Program"
+    LastWriteTime="133401610300000000" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\ModeControl\ModeControl\Cyclic.ld"
+    LogicalPath="ModeControl.ModeControl.Cyclic.ld"
+    Type="File"
+    LastWriteTime="133401610300000000"
+    Private="false" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\ModeControl\ModeControl\Init.st"
+    LogicalPath="ModeControl.ModeControl.Init.st"
+    Type="File"
+    LastWriteTime="133852242654317895"
+    Private="false" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\ModeControl\ModeControl\Types.typ"
+    LogicalPath="ModeControl.ModeControl.Types.typ"
+    Type="File"
+    LastWriteTime="133401610300000000"
+    Private="true" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\ModeControl\ModeControl\Variables.var"
+    LogicalPath="ModeControl.ModeControl.Variables.var"
+    Type="File"
+    LastWriteTime="133401610300000000"
+    Private="true" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\ModeControl\ModeControl\LocalFunctions.fun"
+    LogicalPath="ModeControl.ModeControl.LocalFunctions.fun"
+    Type="File"
+    LastWriteTime="133401610300000000"
+    Private="true" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\ModeControl\ModeControl_ST\IEC.prg"
+    LogicalPath="ModeControl.ModeControl_ST"
+    Type="Program"
+    LastWriteTime="133401610300000000" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\ModeControl\ModeControl_ST\Cyclic1.st"
+    LogicalPath="ModeControl.ModeControl_ST.Cyclic1.st"
+    Type="File"
+    LastWriteTime="133848933183529971"
+    Private="false" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\ModeControl\ModeControl_ST\Init.st"
+    LogicalPath="ModeControl.ModeControl_ST.Init.st"
+    Type="File"
+    LastWriteTime="133851551742529093"
+    Private="false" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\ModeControl\ModeControl_ST\Types.typ"
+    LogicalPath="ModeControl.ModeControl_ST.Types.typ"
+    Type="File"
+    LastWriteTime="133401610300000000"
+    Private="true" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\ModeControl\ModeControl_ST\Variables.var"
+    LogicalPath="ModeControl.ModeControl_ST.Variables.var"
+    Type="File"
+    LastWriteTime="133848929871770277"
+    Private="true" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\ModeControl\ModeControl_ST\LocalFunctions.fun"
+    LogicalPath="ModeControl.ModeControl_ST.LocalFunctions.fun"
+    Type="File"
+    LastWriteTime="133401610300000000"
+    Private="true" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\Actuators\Package.pkg"
+    LogicalPath="Actuators"
+    Type="Package"
+    LastWriteTime="133401610300000000" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\Actuators\AdhesiveControl\IEC.prg"
+    LogicalPath="Actuators.AdhesiveControl"
+    Type="Program"
+    LastWriteTime="133401610300000000" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\Actuators\AdhesiveControl\Cyclic.ld"
+    LogicalPath="Actuators.AdhesiveControl.Cyclic.ld"
+    Type="File"
+    LastWriteTime="133506252920000000"
+    Private="false" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\Actuators\AdhesiveControl\Init.st"
+    LogicalPath="Actuators.AdhesiveControl.Init.st"
+    Type="File"
+    LastWriteTime="133897222576370735"
+    Private="false" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\Actuators\AdhesiveControl\Types.typ"
+    LogicalPath="Actuators.AdhesiveControl.Types.typ"
+    Type="File"
+    LastWriteTime="133401610300000000"
+    Private="true" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\Actuators\AdhesiveControl\Variables.var"
+    LogicalPath="Actuators.AdhesiveControl.Variables.var"
+    Type="File"
+    LastWriteTime="133401610300000000"
+    Private="true" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\Actuators\FoldPushControl\IEC.prg"
+    LogicalPath="Actuators.FoldPushControl"
+    Type="Program"
+    LastWriteTime="133401610300000000" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\Actuators\FoldPushControl\Cyclic.ld"
+    LogicalPath="Actuators.FoldPushControl.Cyclic.ld"
+    Type="File"
+    LastWriteTime="133401610300000000"
+    Private="false" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\Actuators\FoldPushControl\Init.ld"
+    LogicalPath="Actuators.FoldPushControl.Init.ld"
+    Type="File"
+    LastWriteTime="133401610300000000"
+    Private="false" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\Actuators\FoldPushControl\Types.typ"
+    LogicalPath="Actuators.FoldPushControl.Types.typ"
+    Type="File"
+    LastWriteTime="133401610300000000"
+    Private="true" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\Actuators\FoldPushControl\Variables.var"
+    LogicalPath="Actuators.FoldPushControl.Variables.var"
+    Type="File"
+    LastWriteTime="133401610300000000"
+    Private="true" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\Actuators\VacuumControl\IEC.prg"
+    LogicalPath="Actuators.VacuumControl"
+    Type="Program"
+    LastWriteTime="133401610300000000" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\Actuators\VacuumControl\Cyclic.ld"
+    LogicalPath="Actuators.VacuumControl.Cyclic.ld"
+    Type="File"
+    LastWriteTime="133401610300000000"
+    Private="false" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\Actuators\VacuumControl\Init.st"
+    LogicalPath="Actuators.VacuumControl.Init.st"
+    Type="File"
+    LastWriteTime="133401610300000000"
+    Private="false" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\Actuators\VacuumControl\Types.typ"
+    LogicalPath="Actuators.VacuumControl.Types.typ"
+    Type="File"
+    LastWriteTime="133401610300000000"
+    Private="true" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\Actuators\VacuumControl\Variables.var"
+    LogicalPath="Actuators.VacuumControl.Variables.var"
+    Type="File"
+    LastWriteTime="133401610300000000"
+    Private="true" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\Actuators\NordsonComm\Package.pkg"
+    LogicalPath="Actuators.NordsonComm"
+    Type="Package"
+    LastWriteTime="133401610300000000" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\Actuators\NordsonComm\NordsonMBComm\IEC.prg"
+    LogicalPath="Actuators.NordsonComm.NordsonMBComm"
+    Type="Program"
+    LastWriteTime="133401610300000000" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\Actuators\NordsonComm\NordsonMBComm\MbApp.st"
+    LogicalPath="Actuators.NordsonComm.NordsonMBComm.MbApp.st"
+    Type="File"
+    LastWriteTime="133848939809661262"
+    Private="false" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\Actuators\NordsonComm\NordsonMBComm\MbApp.typ"
+    LogicalPath="Actuators.NordsonComm.NordsonMBComm.MbApp.typ"
+    Type="File"
+    LastWriteTime="133848902693861325"
+    Private="true" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\Actuators\NordsonComm\NordsonMBComm\MbApp.var"
+    LogicalPath="Actuators.NordsonComm.NordsonMBComm.MbApp.var"
+    Type="File"
+    LastWriteTime="133848872633400400"
+    Private="true" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\Actuators\NordsonComm\NordsonMBComm\Action.st"
+    LogicalPath="Actuators.NordsonComm.NordsonMBComm.Action.st"
+    Type="File"
+    LastWriteTime="133401610300000000"
+    Private="false" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\Actuators\NordsonComm\NordsonExtendedComm\IEC.prg"
+    LogicalPath="Actuators.NordsonComm.NordsonExtendedComm"
+    Type="Program"
+    LastWriteTime="133401610300000000" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\Actuators\NordsonComm\NordsonExtendedComm\MbPressure.st"
+    LogicalPath="Actuators.NordsonComm.NordsonExtendedComm.MbPressure.st"
+    Type="File"
+    LastWriteTime="133401610300000000"
+    Private="false" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\Actuators\NordsonComm\NordsonExtendedComm\Types.typ"
+    LogicalPath="Actuators.NordsonComm.NordsonExtendedComm.Types.typ"
+    Type="File"
+    LastWriteTime="133401610300000000"
+    Private="true" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\Actuators\NordsonComm\NordsonExtendedComm\Variables.var"
+    LogicalPath="Actuators.NordsonComm.NordsonExtendedComm.Variables.var"
+    Type="File"
+    LastWriteTime="133401610300000000"
+    Private="true" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\Actuators\FlexTest\IEC.prg"
+    LogicalPath="Actuators.FlexTest"
+    Type="Program"
+    LastWriteTime="133401610300000000" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\Actuators\FlexTest\Main.st"
+    LogicalPath="Actuators.FlexTest.Main.st"
+    Type="File"
+    LastWriteTime="133401610300000000"
+    Private="false" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\Actuators\FlexTest\Types.typ"
+    LogicalPath="Actuators.FlexTest.Types.typ"
+    Type="File"
+    LastWriteTime="133401610300000000"
+    Private="true" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\Actuators\FlexTest\Variables.var"
+    LogicalPath="Actuators.FlexTest.Variables.var"
+    Type="File"
+    LastWriteTime="133401610300000000"
+    Private="true" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\Recipes\Package.pkg"
+    LogicalPath="Recipes"
+    Type="Package"
+    LastWriteTime="133401610300000000" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\Recipes\Recipes\IEC.prg"
+    LogicalPath="Recipes.Recipes"
+    Type="Program"
+    LastWriteTime="133401610300000000" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\Recipes\Recipes\Cyclic.ld"
+    LogicalPath="Recipes.Recipes.Cyclic.ld"
+    Type="File"
+    LastWriteTime="133851590903272303"
+    Private="false" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\Recipes\Recipes\Init.st"
+    LogicalPath="Recipes.Recipes.Init.st"
+    Type="File"
+    LastWriteTime="133401610300000000"
+    Private="false" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\Recipes\Recipes\Types.typ"
+    LogicalPath="Recipes.Recipes.Types.typ"
+    Type="File"
+    LastWriteTime="133401610300000000"
+    Private="true" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\Recipes\Recipes\Variables.var"
+    LogicalPath="Recipes.Recipes.Variables.var"
+    Type="File"
+    LastWriteTime="133401610300000000"
+    Private="true" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\Recipes\GluePattCtrl\IEC.prg"
+    LogicalPath="Recipes.GluePattCtrl"
+    Type="Program"
+    LastWriteTime="133401610300000000" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\Recipes\GluePattCtrl\Cyclic.st"
+    LogicalPath="Recipes.GluePattCtrl.Cyclic.st"
+    Type="File"
+    LastWriteTime="133401610300000000"
+    Private="false" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\Recipes\GluePattCtrl\Variables.var"
+    LogicalPath="Recipes.GluePattCtrl.Variables.var"
+    Type="File"
+    LastWriteTime="133401610300000000"
+    Private="true" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\AlarmControl\Package.pkg"
+    LogicalPath="AlarmControl"
+    Type="Package"
+    LastWriteTime="133401610300000000" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\AlarmControl\AlarmHandling\IEC.prg"
+    LogicalPath="AlarmControl.AlarmHandling"
+    Type="Program"
+    LastWriteTime="133401610300000000" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\AlarmControl\AlarmHandling\Cyclic.ld"
+    LogicalPath="AlarmControl.AlarmHandling.Cyclic.ld"
+    Type="File"
+    LastWriteTime="133510336500000000"
+    Private="false" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\AlarmControl\AlarmHandling\Init.st"
+    LogicalPath="AlarmControl.AlarmHandling.Init.st"
+    Type="File"
+    LastWriteTime="133401610300000000"
+    Private="false" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\AlarmControl\AlarmHandling\Types.typ"
+    LogicalPath="AlarmControl.AlarmHandling.Types.typ"
+    Type="File"
+    LastWriteTime="133401610300000000"
+    Private="true" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\AlarmControl\AlarmHandling\Variables.var"
+    LogicalPath="AlarmControl.AlarmHandling.Variables.var"
+    Type="File"
+    LastWriteTime="133401610300000000"
+    Private="true" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\AlarmControl\AlarmHandling\LocalFunctions.fun"
+    LogicalPath="AlarmControl.AlarmHandling.LocalFunctions.fun"
+    Type="File"
+    LastWriteTime="133401610300000000"
+    Private="true" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\AlarmControl\AlarmHandling\AlarmInfoAdapter.st"
+    LogicalPath="AlarmControl.AlarmHandling.AlarmInfoAdapter.st"
+    Type="File"
+    LastWriteTime="133401610300000000"
+    Private="false" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\AlarmControl\AlarmHandling\CheckIOModules.st"
+    LogicalPath="AlarmControl.AlarmHandling.CheckIOModules.st"
+    Type="File"
+    LastWriteTime="133401610300000000"
+    Private="false" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\AlarmControl\AlarmHandling\Action.st"
+    LogicalPath="AlarmControl.AlarmHandling.Action.st"
+    Type="File"
+    LastWriteTime="133401610300000000"
+    Private="false" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\HMI\Package.pkg"
+    LogicalPath="HMI"
+    Type="Package"
+    LastWriteTime="133403424520000000" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\HMI\HMIControl\IEC.prg"
+    LogicalPath="HMI.HMIControl"
+    Type="Program"
+    LastWriteTime="133401610300000000" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\HMI\HMIControl\Cyclic.ld"
+    LogicalPath="HMI.HMIControl.Cyclic.ld"
+    Type="File"
+    LastWriteTime="133747115230729581"
+    Private="false" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\HMI\HMIControl\Init.st"
+    LogicalPath="HMI.HMIControl.Init.st"
+    Type="File"
+    LastWriteTime="133401610300000000"
+    Private="false" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\HMI\HMIControl\Types.typ"
+    LogicalPath="HMI.HMIControl.Types.typ"
+    Type="File"
+    LastWriteTime="133401610300000000"
+    Private="true" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\HMI\HMIControl\Variables.var"
+    LogicalPath="HMI.HMIControl.Variables.var"
+    Type="File"
+    LastWriteTime="133401610300000000"
+    Private="true" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\HMI\Visu\Vc.dob"
+    LogicalPath="HMI.Visu"
+    Type="DataObject"
+    LastWriteTime="133403424520000000" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\HMI\Visu\VCObject.vc"
+    LogicalPath="HMI.Visu.VCObject.vc"
+    Type="File"
+    LastWriteTime="133403424520000000"
+    Private="false" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\Project.language"
+    LogicalPath="Project.language"
+    Type="File"
+    LastWriteTime="133401610300000000"
+    Private="false" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\AlarmTexts.tmx"
+    LogicalPath="AlarmTexts.tmx"
+    Type="File"
+    LastWriteTime="133524845602970110"
+    Private="false" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\ncsdcctrl\IEC.prg"
+    LogicalPath="ncsdcctrl"
+    Type="Program"
+    LastWriteTime="133401610320000000" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\ncsdcctrl\ncsdcctrlCyclic.st"
+    LogicalPath="ncsdcctrl.ncsdcctrlCyclic.st"
+    Type="File"
+    LastWriteTime="133401610320000000"
+    Private="false" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\ncsdcctrl\ncsdcctrlInit.st"
+    LogicalPath="ncsdcctrl.ncsdcctrlInit.st"
+    Type="File"
+    LastWriteTime="133401610320000000"
+    Private="false" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\ncsdcctrl\ncsdcctrl.typ"
+    LogicalPath="ncsdcctrl.ncsdcctrl.typ"
+    Type="File"
+    LastWriteTime="133401610320000000"
+    Private="true" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\ncsdcctrl\ncsdcctrl.var"
+    LogicalPath="ncsdcctrl.ncsdcctrl.var"
+    Type="File"
+    LastWriteTime="133401610320000000"
+    Private="true" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\gAxis01obj\Package.pkg"
+    LogicalPath="gAxis01obj"
+    Type="Package"
+    LastWriteTime="133401610320000000" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\EncoderDecoding\ANSIC.prg"
+    LogicalPath="EncoderDecoding"
+    Type="Program"
+    LastWriteTime="133401610300000000" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\EncoderDecoding\Cyclic.c"
+    LogicalPath="EncoderDecoding.Cyclic.c"
+    Type="File"
+    LastWriteTime="133401610300000000"
+    Private="false" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\EncoderDecoding\Init.c"
+    LogicalPath="EncoderDecoding.Init.c"
+    Type="File"
+    LastWriteTime="133401610300000000"
+    Private="false" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\EncoderDecoding\Exit.c"
+    LogicalPath="EncoderDecoding.Exit.c"
+    Type="File"
+    LastWriteTime="133401610300000000"
+    Private="false" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\EncoderDecoding\Types.typ"
+    LogicalPath="EncoderDecoding.Types.typ"
+    Type="File"
+    LastWriteTime="133401610300000000"
+    Private="true" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\EncoderDecoding\Variables.var"
+    LogicalPath="EncoderDecoding.Variables.var"
+    Type="File"
+    LastWriteTime="133401610300000000"
+    Private="true" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\Stacklight\Package.pkg"
+    LogicalPath="Stacklight"
+    Type="Package"
+    LastWriteTime="133401610300000000" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\Stacklight\PatliteComm\IEC.prg"
+    LogicalPath="Stacklight.PatliteComm"
+    Type="Program"
+    LastWriteTime="133401610300000000" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\Stacklight\PatliteComm\Patelite.st"
+    LogicalPath="Stacklight.PatliteComm.Patelite.st"
+    Type="File"
+    LastWriteTime="133401610300000000"
+    Private="false" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\Stacklight\PatliteComm\Patelite.typ"
+    LogicalPath="Stacklight.PatliteComm.Patelite.typ"
+    Type="File"
+    LastWriteTime="133401610300000000"
+    Private="true" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\Stacklight\PatliteComm\Patelite.var"
+    LogicalPath="Stacklight.PatliteComm.Patelite.var"
+    Type="File"
+    LastWriteTime="133401610300000000"
+    Private="true" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\AsSafetySolution\Package.pkg"
+    LogicalPath="AsSafetySolution"
+    Type="Package"
+    LastWriteTime="133401610300000000" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\AsSafetySolution\SafetySample\IEC.prg"
+    LogicalPath="AsSafetySolution.SafetySample"
+    Type="Program"
+    LastWriteTime="133401610300000000" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\AsSafetySolution\SafetySample\SafetySample.st"
+    LogicalPath="AsSafetySolution.SafetySample.SafetySample.st"
+    Type="File"
+    LastWriteTime="133401619720000000"
+    Private="false" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\AsSafetySolution\SafetySample\SafetySample.typ"
+    LogicalPath="AsSafetySolution.SafetySample.SafetySample.typ"
+    Type="File"
+    LastWriteTime="133401610300000000"
+    Private="true" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\AsSafetySolution\SafetySample\SafetySample.var"
+    LogicalPath="AsSafetySolution.SafetySample.SafetySample.var"
+    Type="File"
+    LastWriteTime="133401610300000000"
+    Private="true" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\AsSafetySolution\SafetySample\SafetySample.fun"
+    LogicalPath="AsSafetySolution.SafetySample.SafetySample.fun"
+    Type="File"
+    LastWriteTime="133401610300000000"
+    Private="true" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\AsSafetySolution\SafetySample\itoahex.st"
+    LogicalPath="AsSafetySolution.SafetySample.itoahex.st"
+    Type="File"
+    LastWriteTime="133401610300000000"
+    Private="false" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\AsSafetySolution\Panel\Vc.dob"
+    LogicalPath="AsSafetySolution.Panel"
+    Type="DataObject"
+    LastWriteTime="133401610300000000" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\AsSafetySolution\Panel\VCObject.vc"
+    LogicalPath="AsSafetySolution.Panel.VCObject.vc"
+    Type="File"
+    LastWriteTime="133401610300000000"
+    Private="false" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\ServoMotion\Package.pkg"
+    LogicalPath="ServoMotion"
+    Type="Package"
+    LastWriteTime="133506252920000000" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\ServoMotion\ServoMotionPackGlobal.var"
+    LogicalPath="ServoMotion.ServoMotionPackGlobal.var"
+    Type="File"
+    LastWriteTime="133506252920000000"
+    Private="true" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\ServoMotion\ServoRamHandler\IEC.prg"
+    LogicalPath="ServoMotion.ServoRamHandler"
+    Type="Program"
+    LastWriteTime="133401610300000000" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\ServoMotion\ServoRamHandler\Main.st"
+    LogicalPath="ServoMotion.ServoRamHandler.Main.st"
+    Type="File"
+    LastWriteTime="133855990942229102"
+    Private="false" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\ServoMotion\ServoRamHandler\Types.typ"
+    LogicalPath="ServoMotion.ServoRamHandler.Types.typ"
+    Type="File"
+    LastWriteTime="133506252920000000"
+    Private="true" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\ServoMotion\ServoRamHandler\Variables.var"
+    LogicalPath="ServoMotion.ServoRamHandler.Variables.var"
+    Type="File"
+    LastWriteTime="133506252920000000"
+    Private="true" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\ServoMotion\ServoPnPHandler\IEC.prg"
+    LogicalPath="ServoMotion.ServoPnPHandler"
+    Type="Program"
+    LastWriteTime="133401610300000000" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\ServoMotion\ServoPnPHandler\Main.st"
+    LogicalPath="ServoMotion.ServoPnPHandler.Main.st"
+    Type="File"
+    LastWriteTime="133816264180234151"
+    Private="false" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\ServoMotion\ServoPnPHandler\Types.typ"
+    LogicalPath="ServoMotion.ServoPnPHandler.Types.typ"
+    Type="File"
+    LastWriteTime="133506252920000000"
+    Private="true" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\ServoMotion\ServoPnPHandler\Variables.var"
+    LogicalPath="ServoMotion.ServoPnPHandler.Variables.var"
+    Type="File"
+    LastWriteTime="133506252920000000"
+    Private="true" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\ServoMotion\ServoFeedHandler\IEC.prg"
+    LogicalPath="ServoMotion.ServoFeedHandler"
+    Type="Program"
+    LastWriteTime="133401610300000000" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\ServoMotion\ServoFeedHandler\Main.st"
+    LogicalPath="ServoMotion.ServoFeedHandler.Main.st"
+    Type="File"
+    LastWriteTime="133403413620000000"
+    Private="false" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\ServoMotion\ServoFeedHandler\Types.typ"
+    LogicalPath="ServoMotion.ServoFeedHandler.Types.typ"
+    Type="File"
+    LastWriteTime="133401610300000000"
+    Private="true" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\ServoMotion\ServoFeedHandler\Variables.var"
+    LogicalPath="ServoMotion.ServoFeedHandler.Variables.var"
+    Type="File"
+    LastWriteTime="133401610300000000"
+    Private="true" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\ServoMotion\BodyHopperHandler\IEC.prg"
+    LogicalPath="ServoMotion.BodyHopperHandler"
+    Type="Program"
+    LastWriteTime="133401610300000000" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\ServoMotion\BodyHopperHandler\Main.st"
+    LogicalPath="ServoMotion.BodyHopperHandler.Main.st"
+    Type="File"
+    LastWriteTime="133506252920000000"
+    Private="false" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\ServoMotion\BodyHopperHandler\Types.typ"
+    LogicalPath="ServoMotion.BodyHopperHandler.Types.typ"
+    Type="File"
+    LastWriteTime="133401610300000000"
+    Private="true" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\ServoMotion\BodyHopperHandler\Variables.var"
+    LogicalPath="ServoMotion.BodyHopperHandler.Variables.var"
+    Type="File"
+    LastWriteTime="133401610300000000"
+    Private="true" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\ServoMotion\LeftHopperHandler\IEC.prg"
+    LogicalPath="ServoMotion.LeftHopperHandler"
+    Type="Program"
+    LastWriteTime="133401610300000000" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\ServoMotion\LeftHopperHandler\Main.st"
+    LogicalPath="ServoMotion.LeftHopperHandler.Main.st"
+    Type="File"
+    LastWriteTime="133897220412767690"
+    Private="false" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\ServoMotion\LeftHopperHandler\Types.typ"
+    LogicalPath="ServoMotion.LeftHopperHandler.Types.typ"
+    Type="File"
+    LastWriteTime="133401610300000000"
+    Private="true" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\ServoMotion\LeftHopperHandler\Variables.var"
+    LogicalPath="ServoMotion.LeftHopperHandler.Variables.var"
+    Type="File"
+    LastWriteTime="133401610300000000"
+    Private="true" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\ServoMotion\RightHopperHandler\IEC.prg"
+    LogicalPath="ServoMotion.RightHopperHandler"
+    Type="Program"
+    LastWriteTime="133401610300000000" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\ServoMotion\RightHopperHandler\Main.st"
+    LogicalPath="ServoMotion.RightHopperHandler.Main.st"
+    Type="File"
+    LastWriteTime="133897220406242402"
+    Private="false" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\ServoMotion\RightHopperHandler\Types.typ"
+    LogicalPath="ServoMotion.RightHopperHandler.Types.typ"
+    Type="File"
+    LastWriteTime="133401610300000000"
+    Private="true" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\ServoMotion\RightHopperHandler\Variables.var"
+    LogicalPath="ServoMotion.RightHopperHandler.Variables.var"
+    Type="File"
+    LastWriteTime="133401610300000000"
+    Private="true" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\ServoMotion\acp10etxen\Ett.dob"
+    LogicalPath="ServoMotion.acp10etxen"
+    Type="DataObject"
+    LastWriteTime="133401610300000000" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\ServoMotion\acp10etxen\acp10etxen.ett"
+    LogicalPath="ServoMotion.acp10etxen.acp10etxen.ett"
+    Type="File"
+    LastWriteTime="133401610300000000"
+    Private="false" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\ServoMotion\MappCalls\IEC.prg"
+    LogicalPath="ServoMotion.MappCalls"
+    Type="Program"
+    LastWriteTime="133401785160000000" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\ServoMotion\MappCalls\Cyclic.ld"
+    LogicalPath="ServoMotion.MappCalls.Cyclic.ld"
+    Type="File"
+    LastWriteTime="133403375140000000"
+    Private="false" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\ServoMotion\MappCalls\Init.st"
+    LogicalPath="ServoMotion.MappCalls.Init.st"
+    Type="File"
+    LastWriteTime="133401785140000000"
+    Private="false" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\ServoMotion\MappCalls\Exit.ld"
+    LogicalPath="ServoMotion.MappCalls.Exit.ld"
+    Type="File"
+    LastWriteTime="133401610300000000"
+    Private="false" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\ServoMotion\MappCalls\Types.typ"
+    LogicalPath="ServoMotion.MappCalls.Types.typ"
+    Type="File"
+    LastWriteTime="133401610300000000"
+    Private="true" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\ServoMotion\MappCalls\Variables.var"
+    LogicalPath="ServoMotion.MappCalls.Variables.var"
+    Type="File"
+    LastWriteTime="133401610300000000"
+    Private="true" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\ServoMotion\MotionHandler\ANSIC.prg"
+    LogicalPath="ServoMotion.MotionHandler"
+    Type="Program"
+    LastWriteTime="133401686680000000" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\ServoMotion\MotionHandler\Main.c"
+    LogicalPath="ServoMotion.MotionHandler.Main.c"
+    Type="File"
+    LastWriteTime="133897239085074715"
+    Private="false" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\ServoMotion\MotionHandler\Types.typ"
+    LogicalPath="ServoMotion.MotionHandler.Types.typ"
+    Type="File"
+    LastWriteTime="133401686660000000"
+    Private="true" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\ServoMotion\MotionHandler\Variables.var"
+    LogicalPath="ServoMotion.MotionHandler.Variables.var"
+    Type="File"
+    LastWriteTime="133747799282667788"
+    Private="true" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\Upgrades\Package.pkg"
+    LogicalPath="Upgrades"
+    Type="Package"
+    LastWriteTime="133401610300000000" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\Upgrades\NUMATICS-580-20150428-145500.xdd"
+    LogicalPath="Upgrades.NUMATICS-580-20150428-145500.xdd"
+    Type="File"
+    LastWriteTime="133401610300000000"
+    Private="false" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\gFeedobj\Package.pkg"
+    LogicalPath="gFeedobj"
+    Type="Package"
+    LastWriteTime="133813659397423630" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\gFeedobj\gBHop\Apt.dob"
+    LogicalPath="gFeedobj.gBHop"
+    Type="DataObject"
+    LastWriteTime="133813659397423630" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\gFeedobj\gBHop\gBHop.apt"
+    LogicalPath="gFeedobj.gBHop.gBHop.apt"
+    Type="File"
+    LastWriteTime="133813659397423630"
+    Private="false" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\gFeedobj\gFeedi\Ax.dob"
+    LogicalPath="gFeedobj.gFeedi"
+    Type="DataObject"
+    LastWriteTime="133401610320000000" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\gFeedobj\gFeedi\gFeedi.ax"
+    LogicalPath="gFeedobj.gFeedi.gFeedi.ax"
+    Type="File"
+    LastWriteTime="133855993622475737"
+    Private="false" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\gFeedobj\brake\Apt.dob"
+    LogicalPath="gFeedobj.brake"
+    Type="DataObject"
+    LastWriteTime="133402345800000000" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\gFeedobj\brake\AcpParTab.apt"
+    LogicalPath="gFeedobj.brake.AcpParTab.apt"
+    Type="File"
+    LastWriteTime="133510288360000000"
+    Private="false" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\gFeedobj\disablebrakecheck\Apt.dob"
+    LogicalPath="gFeedobj.disablebrakecheck"
+    Type="DataObject"
+    LastWriteTime="133510296960000000" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\gFeedobj\disablebrakecheck\disablebrakecheck.apt"
+    LogicalPath="gFeedobj.disablebrakecheck.disablebrakecheck.apt"
+    Type="File"
+    LastWriteTime="133510297100000000"
+    Private="false" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\Program\IEC.prg"
+    LogicalPath="Program"
+    Type="Program"
+    LastWriteTime="133401610300000000" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\Program\Main.st"
+    LogicalPath="Program.Main.st"
+    Type="File"
+    LastWriteTime="133401610300000000"
+    Private="false" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\Program\Types.typ"
+    LogicalPath="Program.Types.typ"
+    Type="File"
+    LastWriteTime="133401610300000000"
+    Private="true" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Logical\Program\Variables.var"
+    LogicalPath="Program.Variables.var"
+    Type="File"
+    LastWriteTime="133401610300000000"
+    Private="true" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Physical\MasterConfiguration_ServoRam\Config.pkg"
+    LogicalPath="MasterConfiguration_ServoRam"
+    Type="Configuration.ParentUnknown"
+    LastWriteTime="133401610320000000" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Physical\MasterConfiguration_ServoRam\Hardware.hw"
+    LogicalPath="MasterConfiguration_ServoRam.Hardware.hw"
+    Type="File"
+    LastWriteTime="133851542675438231"
+    Private="false" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Physical\MasterConfiguration_ServoRam\Hardware.hwl"
+    LogicalPath="MasterConfiguration_ServoRam.Hardware.hwl"
+    Type="File"
+    LastWriteTime="133745970738075441"
+    Private="false" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Physical\MasterConfiguration_ServoRam\X20CP0484\Cpu.pkg"
+    LogicalPath="MasterConfiguration_ServoRam.X20CP0484"
+    Type="Cpu"
+    LastWriteTime="133855927109003925" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Physical\MasterConfiguration_ServoRam\X20CP0484\Cpu.sw"
+    LogicalPath="MasterConfiguration_ServoRam.X20CP0484.Cpu.sw"
+    Type="File"
+    LastWriteTime="133510340400000000"
+    Private="false" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Physical\MasterConfiguration_ServoRam\X20CP0484\Cpu.per"
+    LogicalPath="MasterConfiguration_ServoRam.X20CP0484.Cpu.per"
+    Type="File"
+    LastWriteTime="133402227440000000"
+    Private="false" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Physical\MasterConfiguration_ServoRam\X20CP0484\IoMap.iom"
+    LogicalPath="MasterConfiguration_ServoRam.X20CP0484.IoMap.iom"
+    Type="File"
+    LastWriteTime="133747690917781281"
+    Private="false" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Physical\MasterConfiguration_ServoRam\X20CP0484\PvMap.vvm"
+    LogicalPath="MasterConfiguration_ServoRam.X20CP0484.PvMap.vvm"
+    Type="File"
+    LastWriteTime="133401610320000000"
+    Private="false" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Physical\MasterConfiguration_ServoRam\X20CP0484\mapp\Package.pkg"
+    LogicalPath="MasterConfiguration_ServoRam.X20CP0484.mapp"
+    Type="Package"
+    LastWriteTime="133401610320000000" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Physical\MasterConfiguration_ServoRam\X20CP0484\mapp\RcpCfg.mprecipexml"
+    LogicalPath="MasterConfiguration_ServoRam.X20CP0484.mapp.RcpCfg.mprecipexml"
+    Type="File"
+    LastWriteTime="133401610320000000"
+    Private="false" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Physical\MasterConfiguration_ServoRam\X20CP0484\mapp\AlrmHstCfg.mpalarmxhistory"
+    LogicalPath="MasterConfiguration_ServoRam.X20CP0484.mapp.AlrmHstCfg.mpalarmxhistory"
+    Type="File"
+    LastWriteTime="133401610320000000"
+    Private="false" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Physical\MasterConfiguration_ServoRam\X20CP0484\mapp\AlarmCfg.mpalarmxcore"
+    LogicalPath="MasterConfiguration_ServoRam.X20CP0484.mapp.AlarmCfg.mpalarmxcore"
+    Type="File"
+    LastWriteTime="133524832388128003"
+    Private="false" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Physical\MasterConfiguration_ServoRam\X20CP0484\mappView\Package.pkg"
+    LogicalPath="MasterConfiguration_ServoRam.X20CP0484.mappView"
+    Type="Package"
+    LastWriteTime="133401610320000000" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Physical\MasterConfiguration_ServoRam\X20CP0484\Connectivity\Package.pkg"
+    LogicalPath="MasterConfiguration_ServoRam.X20CP0484.Connectivity"
+    Type="Package"
+    LastWriteTime="133401610320000000" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Physical\MasterConfiguration_ServoRam\X20CP0484\Connectivity\OpcUA\Package.pkg"
+    LogicalPath="MasterConfiguration_ServoRam.X20CP0484.Connectivity.OpcUA"
+    Type="Package"
+    LastWriteTime="133401610320000000" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Physical\MasterConfiguration_ServoRam\X20CP0484\TextSystem\Package.pkg"
+    LogicalPath="MasterConfiguration_ServoRam.X20CP0484.TextSystem"
+    Type="Package"
+    LastWriteTime="133401610320000000" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Physical\MasterConfiguration_ServoRam\X20CP0484\TextSystem\TC.textconfig"
+    LogicalPath="MasterConfiguration_ServoRam.X20CP0484.TextSystem.TC.textconfig"
+    Type="File"
+    LastWriteTime="133401610320000000"
+    Private="false" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Physical\MasterConfiguration_ServoRam\X20CP0484\AccessAndSecurity\Package.pkg"
+    LogicalPath="MasterConfiguration_ServoRam.X20CP0484.AccessAndSecurity"
+    Type="Package"
+    LastWriteTime="133401610320000000" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Physical\MasterConfiguration_ServoRam\X20CP0484\AccessAndSecurity\UserRoleSystem\Package.pkg"
+    LogicalPath="MasterConfiguration_ServoRam.X20CP0484.AccessAndSecurity.UserRoleSystem"
+    Type="Package"
+    LastWriteTime="133401610320000000" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Physical\MasterConfiguration_ServoRam\X20CP0484\AccessAndSecurity\UserRoleSystem\Role.role"
+    LogicalPath="MasterConfiguration_ServoRam.X20CP0484.AccessAndSecurity.UserRoleSystem.Role.role"
+    Type="File"
+    LastWriteTime="133401610320000000"
+    Private="false" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Physical\MasterConfiguration_ServoRam\X20CP0484\AccessAndSecurity\UserRoleSystem\User.user"
+    LogicalPath="MasterConfiguration_ServoRam.X20CP0484.AccessAndSecurity.UserRoleSystem.User.user"
+    Type="File"
+    LastWriteTime="133401610320000000"
+    Private="false" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Physical\MasterConfiguration_ServoRam\X20CP0484\AccessAndSecurity\CertificateStore\Package.pkg"
+    LogicalPath="MasterConfiguration_ServoRam.X20CP0484.AccessAndSecurity.CertificateStore"
+    Type="Package"
+    LastWriteTime="133401610320000000" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Physical\MasterConfiguration_ServoRam\X20CP0484\AccessAndSecurity\CertificateStore\OwnCertificates\Package.pkg"
+    LogicalPath="MasterConfiguration_ServoRam.X20CP0484.AccessAndSecurity.CertificateStore.OwnCertificates"
+    Type="Package"
+    LastWriteTime="133401610320000000" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Physical\MasterConfiguration_ServoRam\X20CP0484\AccessAndSecurity\CertificateStore\OwnCertificates\Certificates\Package.pkg"
+    LogicalPath="MasterConfiguration_ServoRam.X20CP0484.AccessAndSecurity.CertificateStore.OwnCertificates.Certificates"
+    Type="Package"
+    LastWriteTime="133401610320000000" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Physical\MasterConfiguration_ServoRam\X20CP0484\AccessAndSecurity\CertificateStore\OwnCertificates\PrivateKeys\Package.pkg"
+    LogicalPath="MasterConfiguration_ServoRam.X20CP0484.AccessAndSecurity.CertificateStore.OwnCertificates.PrivateKeys"
+    Type="Package"
+    LastWriteTime="133401610320000000" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Physical\MasterConfiguration_ServoRam\X20CP0484\AccessAndSecurity\CertificateStore\ThirdPartyCertificates\Package.pkg"
+    LogicalPath="MasterConfiguration_ServoRam.X20CP0484.AccessAndSecurity.CertificateStore.ThirdPartyCertificates"
+    Type="Package"
+    LastWriteTime="133401610320000000" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Physical\MasterConfiguration_ServoRam\X20CP0484\AccessAndSecurity\CertificateStore\ThirdPartyCertificates\SoftwareCertificates\Package.pkg"
+    LogicalPath="MasterConfiguration_ServoRam.X20CP0484.AccessAndSecurity.CertificateStore.ThirdPartyCertificates.SoftwareCertificates"
+    Type="Package"
+    LastWriteTime="133401610320000000" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Physical\MasterConfiguration_ServoRam\X20CP0484\AccessAndSecurity\CertificateStore\CertificateRevocationLists\Package.pkg"
+    LogicalPath="MasterConfiguration_ServoRam.X20CP0484.AccessAndSecurity.CertificateStore.CertificateRevocationLists"
+    Type="Package"
+    LastWriteTime="133401610320000000" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Physical\MasterConfiguration_ServoRam\X20CP0484\AccessAndSecurity\CertificateStore\CertificateSigningRequests\Package.pkg"
+    LogicalPath="MasterConfiguration_ServoRam.X20CP0484.AccessAndSecurity.CertificateStore.CertificateSigningRequests"
+    Type="Package"
+    LastWriteTime="133401610320000000" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Physical\MasterConfiguration_ServoRam\X20CP0484\AccessAndSecurity\TransportLayerSecurity\Package.pkg"
+    LogicalPath="MasterConfiguration_ServoRam.X20CP0484.AccessAndSecurity.TransportLayerSecurity"
+    Type="Package"
+    LastWriteTime="133401610320000000" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Physical\MasterConfiguration_ServoRam\X20CP0484\VC\Package.pkg"
+    LogicalPath="MasterConfiguration_ServoRam.X20CP0484.VC"
+    Type="Package"
+    LastWriteTime="133401610320000000" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Physical\MasterConfiguration_ServoRam\X20CP0484\VC\PS2-Keyboard.dis"
+    LogicalPath="MasterConfiguration_ServoRam.X20CP0484.VC.PS2-Keyboard.dis"
+    Type="File"
+    LastWriteTime="133401610320000000"
+    Private="false" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Physical\MasterConfiguration_ServoRam\X20CP0484\VC\4PPC70_101G_20B.dis"
+    LogicalPath="MasterConfiguration_ServoRam.X20CP0484.VC.4PPC70_101G_20B.dis"
+    Type="File"
+    LastWriteTime="133401610320000000"
+    Private="false" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Physical\MasterConfiguration_ServoRam\X20CP0484\VC\PS2-Keyboard1.dis"
+    LogicalPath="MasterConfiguration_ServoRam.X20CP0484.VC.PS2-Keyboard1.dis"
+    Type="File"
+    LastWriteTime="133401610320000000"
+    Private="false" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Physical\MasterConfiguration_ServoRam\X20CP0484\VC\PS2-Keyboard2.dis"
+    LogicalPath="MasterConfiguration_ServoRam.X20CP0484.VC.PS2-Keyboard2.dis"
+    Type="File"
+    LastWriteTime="133401610320000000"
+    Private="false" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Physical\MasterConfiguration_ServoRam\X20CP0484\VC\PS2-Keyboard3.dis"
+    LogicalPath="MasterConfiguration_ServoRam.X20CP0484.VC.PS2-Keyboard3.dis"
+    Type="File"
+    LastWriteTime="133401610320000000"
+    Private="false" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Physical\MasterConfiguration_ServoRam\X20CP0484\VC\6PPT30.101G-20B.dis"
+    LogicalPath="MasterConfiguration_ServoRam.X20CP0484.VC.6PPT30.101G-20B.dis"
+    Type="File"
+    LastWriteTime="133401610320000000"
+    Private="false" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Physical\MasterConfiguration_ServoRam\X20CP0484\Motion\Package.pkg"
+    LogicalPath="MasterConfiguration_ServoRam.X20CP0484.Motion"
+    Type="Package"
+    LastWriteTime="133401610320000000" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Physical\MasterConfiguration_ServoRam\X20CP0484\Motion\Acp10cfg.ncc"
+    LogicalPath="MasterConfiguration_ServoRam.X20CP0484.Motion.Acp10cfg.ncc"
+    Type="File"
+    LastWriteTime="133401610320000000"
+    Private="false" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Physical\MasterConfiguration_ServoRam\X20CP0484\Motion\Acp10map.ncm"
+    LogicalPath="MasterConfiguration_ServoRam.X20CP0484.Motion.Acp10map.ncm"
+    Type="File"
+    LastWriteTime="133510297200000000"
+    Private="false" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Physical\MasterConfiguration_ServoRam\X20CP0484\Motion\Acp10sys.br"
+    LogicalPath="MasterConfiguration_ServoRam.X20CP0484.Motion.Acp10sys.br"
+    Type="File"
+    LastWriteTime="133401610320000000"
+    Private="false" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Physical\MasterConfiguration_ServoRam\X20CP0484\Motion\ServoRam.mpaxisbasic"
+    LogicalPath="MasterConfiguration_ServoRam.X20CP0484.Motion.ServoRam.mpaxisbasic"
+    Type="File"
+    LastWriteTime="133401610320000000"
+    Private="false" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Physical\MasterConfiguration_ServoRam\X20CP0484\Motion\ServoPnP.mpaxisbasic"
+    LogicalPath="MasterConfiguration_ServoRam.X20CP0484.Motion.ServoPnP.mpaxisbasic"
+    Type="File"
+    LastWriteTime="133403374880000000"
+    Private="false" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Physical\MasterConfiguration_ServoRam\X20CP0484\Motion\ServoFeed.mpaxisbasic"
+    LogicalPath="MasterConfiguration_ServoRam.X20CP0484.Motion.ServoFeed.mpaxisbasic"
+    Type="File"
+    LastWriteTime="133401610320000000"
+    Private="false" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Physical\MasterConfiguration_ServoRam\X20CP0484\Motion\BodyHop.mpaxisbasic"
+    LogicalPath="MasterConfiguration_ServoRam.X20CP0484.Motion.BodyHop.mpaxisbasic"
+    Type="File"
+    LastWriteTime="133401610320000000"
+    Private="false" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Physical\MasterConfiguration_ServoRam\X20CP0484\Motion\LeftHop.mpaxisbasic"
+    LogicalPath="MasterConfiguration_ServoRam.X20CP0484.Motion.LeftHop.mpaxisbasic"
+    Type="File"
+    LastWriteTime="133401610320000000"
+    Private="false" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Physical\MasterConfiguration_ServoRam\X20CP0484\Motion\RightHop.mpaxisbasic"
+    LogicalPath="MasterConfiguration_ServoRam.X20CP0484.Motion.RightHop.mpaxisbasic"
+    Type="File"
+    LastWriteTime="133401610320000000"
+    Private="false" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Physical\MasterConfiguration_ServoRam\X20CP0484\ExternalHardware\Package.pkg"
+    LogicalPath="MasterConfiguration_ServoRam.X20CP0484.ExternalHardware"
+    Type="Package"
+    LastWriteTime="133401610320000000" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Physical\MasterConfiguration_ServoRam\X20CP0484\ExternalHardware\01C6T22B.ext"
+    LogicalPath="MasterConfiguration_ServoRam.X20CP0484.ExternalHardware.01C6T22B.ext"
+    Type="File"
+    LastWriteTime="133401610320000000"
+    Private="false" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Physical\MasterConfiguration_ServoRam\X20CP0484\ExternalHardware\ExternalHardwareDevices.xml"
+    LogicalPath="MasterConfiguration_ServoRam.X20CP0484.ExternalHardware.ExternalHardwareDevices.xml"
+    Type="File"
+    LastWriteTime="133401610320000000"
+    Private="false" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Physical\MasterConfiguration_ServoRam\X20CP0484\SafeLOGIC-1.swt"
+    LogicalPath="MasterConfiguration_ServoRam.X20CP0484.SafeLOGIC-1.swt"
+    Type="File"
+    LastWriteTime="133506252920000000"
+    Private="false" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Physical\MasterConfiguration_ServoRam\X20CP0484\SafeLOGIC-2.swt"
+    LogicalPath="MasterConfiguration_ServoRam.X20CP0484.SafeLOGIC-2.swt"
+    Type="File"
+    LastWriteTime="133401612260000000"
+    Private="false" />
+  <Object
+    Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Physical\MasterConfiguration_ServoRam\Hardware.jpg"
+    LogicalPath="MasterConfiguration_ServoRam.Hardware.jpg"
+    Type="File"
+    LastWriteTime="133745970738334901"
+    Private="false" />
+</Objects>

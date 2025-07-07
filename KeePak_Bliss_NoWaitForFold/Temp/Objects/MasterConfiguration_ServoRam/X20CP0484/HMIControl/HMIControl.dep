@@ -1,0 +1,11 @@
+$(AS_PROJECT_PATH)/Logical/Libraries/GluePatt/GluePatt.fun
+$(AS_PROJECT_PATH)/Logical/Libraries/standard/standard.fun
+$(AS_PROJECT_PATH)/Logical/Libraries/AsBrStr/AsBrStr.fun
+$(AS_PROJECT_PATH)/Logical/Libraries/runtime/runtime.fun
+$(AS_PROJECT_PATH)/Logical/Libraries/Constants/Constants.var
+$(AS_PROJECT_PATH)/Logical/HMI/HMIControl/Variables.var
+$(AS_PROJECT_PATH)/Logical/Global.var
+$(AS_PROJECT_PATH)/Logical/Libraries/Types/Types.typ
+$(AS_PROJECT_PATH)/Logical/Libraries/MpAxis/MpAxis.typ
+$(AS_PROJECT_PATH)/Logical/Libraries/MpAxis/MpAxisError.typ
+$(AS_PROJECT_PATH)/Logical/Libraries/MpBase/MpBase.typ

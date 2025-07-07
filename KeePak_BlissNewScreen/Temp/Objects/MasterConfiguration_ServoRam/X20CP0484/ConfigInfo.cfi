@@ -1,0 +1,308 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?AutomationStudio Version="4.7.5.60 SP"?>
+<ConfigInfo xmlns="http://br-automation.co.at/AS/BuildInfo">
+  <TaskClass
+    Name="Cyclic#1">
+    <Task
+      Name="ModeContro"
+      Disable="false"
+      Source="ModeControl.ModeControl_ST"
+      Language="IEC">
+      <InternalFile
+        Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_BlissNewScreen\Temp\Objects\MasterConfiguration_ServoRam\X20CP0484\ModeContro\Cyclic1.st.var" />
+      <InternalFile
+        Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_BlissNewScreen\Temp\Objects\MasterConfiguration_ServoRam\X20CP0484\ModeContro\Init.st.var" />
+      <File
+        Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_BlissNewScreen\Logical\ModeControl\ModeControl_ST\Types.typ" />
+      <File
+        Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_BlissNewScreen\Logical\ModeControl\ModeControl_ST\Variables.var" />
+      <File
+        Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_BlissNewScreen\Logical\ModeControl\ModeControl_ST\LocalFunctions.fun" />
+    </Task>
+    <Task
+      Name="GluePattCt"
+      Disable="false"
+      Source="Recipes.GluePattCtrl"
+      Language="IEC">
+      <InternalFile
+        Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_BlissNewScreen\Temp\Objects\MasterConfiguration_ServoRam\X20CP0484\GluePattCt\Cyclic.st.var" />
+      <File
+        Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_BlissNewScreen\Logical\Recipes\GluePattCtrl\Variables.var" />
+    </Task>
+  </TaskClass>
+  <TaskClass
+    Name="Cyclic#2">
+    <Task
+      Name="AdhesiveCo"
+      Disable="false"
+      Source="Actuators.AdhesiveControl"
+      Language="IEC">
+      <InternalFile
+        Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_BlissNewScreen\Temp\Objects\MasterConfiguration_ServoRam\X20CP0484\AdhesiveCo\Cyclic.ld.var" />
+      <InternalFile
+        Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_BlissNewScreen\Temp\Objects\MasterConfiguration_ServoRam\X20CP0484\AdhesiveCo\Init.st.var" />
+      <File
+        Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_BlissNewScreen\Logical\Actuators\AdhesiveControl\Types.typ" />
+      <File
+        Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_BlissNewScreen\Logical\Actuators\AdhesiveControl\Variables.var" />
+    </Task>
+    <Task
+      Name="FoldPushCo"
+      Disable="false"
+      Source="Actuators.FoldPushControl"
+      Language="IEC">
+      <InternalFile
+        Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_BlissNewScreen\Temp\Objects\MasterConfiguration_ServoRam\X20CP0484\FoldPushCo\Cyclic.ld.var" />
+      <InternalFile
+        Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_BlissNewScreen\Temp\Objects\MasterConfiguration_ServoRam\X20CP0484\FoldPushCo\Init.ld.var" />
+      <File
+        Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_BlissNewScreen\Logical\Actuators\FoldPushControl\Types.typ" />
+      <File
+        Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_BlissNewScreen\Logical\Actuators\FoldPushControl\Variables.var" />
+    </Task>
+    <Task
+      Name="VacuumCont"
+      Disable="true"
+      Source="Actuators.VacuumControl"
+      Language="IEC">
+      <InternalFile
+        Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_BlissNewScreen\Temp\Objects\MasterConfiguration_ServoRam\X20CP0484\VacuumCont\Cyclic.ld.var" />
+      <InternalFile
+        Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_BlissNewScreen\Temp\Objects\MasterConfiguration_ServoRam\X20CP0484\VacuumCont\Init.st.var" />
+      <File
+        Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_BlissNewScreen\Logical\Actuators\VacuumControl\Types.typ" />
+      <File
+        Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_BlissNewScreen\Logical\Actuators\VacuumControl\Variables.var" />
+    </Task>
+    <Task
+      Name="ServoRamHa"
+      Disable="false"
+      Source="ServoMotion.ServoRamHandler"
+      Language="IEC">
+      <InternalFile
+        Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_BlissNewScreen\Temp\Objects\MasterConfiguration_ServoRam\X20CP0484\ServoRamHa\Main.st.var" />
+      <File
+        Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_BlissNewScreen\Logical\ServoMotion\ServoRamHandler\Types.typ" />
+      <File
+        Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_BlissNewScreen\Logical\ServoMotion\ServoRamHandler\Variables.var" />
+    </Task>
+    <Task
+      Name="ServoFeedH"
+      Disable="false"
+      Source="ServoMotion.ServoFeedHandler"
+      Language="IEC">
+      <InternalFile
+        Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_BlissNewScreen\Temp\Objects\MasterConfiguration_ServoRam\X20CP0484\ServoFeedH\Main.st.var" />
+      <File
+        Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_BlissNewScreen\Logical\ServoMotion\ServoFeedHandler\Types.typ" />
+      <File
+        Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_BlissNewScreen\Logical\ServoMotion\ServoFeedHandler\Variables.var" />
+    </Task>
+    <Task
+      Name="MotionHand"
+      Disable="false"
+      Source="ServoMotion.MotionHandler"
+      Language="ANSIC">
+      <File
+        Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_BlissNewScreen\Logical\ServoMotion\MotionHandler\Types.typ" />
+      <File
+        Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_BlissNewScreen\Logical\ServoMotion\MotionHandler\Variables.var" />
+    </Task>
+    <Task
+      Name="MappCalls"
+      Disable="false"
+      Source="ServoMotion.MappCalls"
+      Language="IEC">
+      <InternalFile
+        Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_BlissNewScreen\Temp\Objects\MasterConfiguration_ServoRam\X20CP0484\MappCalls\Cyclic.ld.var" />
+      <InternalFile
+        Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_BlissNewScreen\Temp\Objects\MasterConfiguration_ServoRam\X20CP0484\MappCalls\Init.st.var" />
+      <InternalFile
+        Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_BlissNewScreen\Temp\Objects\MasterConfiguration_ServoRam\X20CP0484\MappCalls\Exit.ld.var" />
+      <File
+        Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_BlissNewScreen\Logical\ServoMotion\MappCalls\Types.typ" />
+      <File
+        Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_BlissNewScreen\Logical\ServoMotion\MappCalls\Variables.var" />
+    </Task>
+    <Task
+      Name="ServoPnPHa"
+      Disable="false"
+      Source="ServoMotion.ServoPnPHandler"
+      Language="IEC">
+      <InternalFile
+        Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_BlissNewScreen\Temp\Objects\MasterConfiguration_ServoRam\X20CP0484\ServoPnPHa\Main.st.var" />
+      <File
+        Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_BlissNewScreen\Logical\ServoMotion\ServoPnPHandler\Types.typ" />
+      <File
+        Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_BlissNewScreen\Logical\ServoMotion\ServoPnPHandler\Variables.var" />
+    </Task>
+    <Task
+      Name="BodyHopper"
+      Disable="false"
+      Source="ServoMotion.BodyHopperHandler"
+      Language="IEC">
+      <InternalFile
+        Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_BlissNewScreen\Temp\Objects\MasterConfiguration_ServoRam\X20CP0484\BodyHopper\Main.st.var" />
+      <File
+        Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_BlissNewScreen\Logical\ServoMotion\BodyHopperHandler\Types.typ" />
+      <File
+        Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_BlissNewScreen\Logical\ServoMotion\BodyHopperHandler\Variables.var" />
+    </Task>
+    <Task
+      Name="LeftHopper"
+      Disable="false"
+      Source="ServoMotion.LeftHopperHandler"
+      Language="IEC">
+      <InternalFile
+        Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_BlissNewScreen\Temp\Objects\MasterConfiguration_ServoRam\X20CP0484\LeftHopper\Main.st.var" />
+      <File
+        Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_BlissNewScreen\Logical\ServoMotion\LeftHopperHandler\Types.typ" />
+      <File
+        Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_BlissNewScreen\Logical\ServoMotion\LeftHopperHandler\Variables.var" />
+    </Task>
+    <Task
+      Name="RightHoppe"
+      Disable="false"
+      Source="ServoMotion.RightHopperHandler"
+      Language="IEC">
+      <InternalFile
+        Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_BlissNewScreen\Temp\Objects\MasterConfiguration_ServoRam\X20CP0484\RightHoppe\Main.st.var" />
+      <File
+        Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_BlissNewScreen\Logical\ServoMotion\RightHopperHandler\Types.typ" />
+      <File
+        Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_BlissNewScreen\Logical\ServoMotion\RightHopperHandler\Variables.var" />
+    </Task>
+  </TaskClass>
+  <TaskClass
+    Name="Cyclic#3">
+    <Task
+      Name="SafetySamp"
+      Disable="false"
+      Source="AsSafetySolution.SafetySample"
+      Language="IEC">
+      <InternalFile
+        Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_BlissNewScreen\Temp\Objects\MasterConfiguration_ServoRam\X20CP0484\SafetySamp\SafetySample.st.var" />
+      <File
+        Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_BlissNewScreen\Logical\AsSafetySolution\SafetySample\SafetySample.typ" />
+      <File
+        Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_BlissNewScreen\Logical\AsSafetySolution\SafetySample\SafetySample.var" />
+      <File
+        Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_BlissNewScreen\Logical\AsSafetySolution\SafetySample\SafetySample.fun" />
+      <InternalFile
+        Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_BlissNewScreen\Temp\Objects\MasterConfiguration_ServoRam\X20CP0484\SafetySamp\itoahex.st.var" />
+    </Task>
+  </TaskClass>
+  <TaskClass
+    Name="Cyclic#4">
+    <Task
+      Name="FlexTest1"
+      Disable="false"
+      Source="Actuators.FlexTest"
+      Language="IEC">
+      <InternalFile
+        Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_BlissNewScreen\Temp\Objects\MasterConfiguration_ServoRam\X20CP0484\FlexTest1\Main.st.var" />
+      <File
+        Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_BlissNewScreen\Logical\Actuators\FlexTest\Types.typ" />
+      <File
+        Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_BlissNewScreen\Logical\Actuators\FlexTest\Variables.var" />
+    </Task>
+  </TaskClass>
+  <TaskClass
+    Name="Cyclic#5" />
+  <TaskClass
+    Name="Cyclic#6" />
+  <TaskClass
+    Name="Cyclic#7">
+    <Task
+      Name="AlarmHandl"
+      Disable="false"
+      Source="AlarmControl.AlarmHandling"
+      Language="IEC">
+      <InternalFile
+        Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_BlissNewScreen\Temp\Objects\MasterConfiguration_ServoRam\X20CP0484\AlarmHandl\Cyclic.ld.var" />
+      <InternalFile
+        Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_BlissNewScreen\Temp\Objects\MasterConfiguration_ServoRam\X20CP0484\AlarmHandl\Init.st.var" />
+      <File
+        Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_BlissNewScreen\Logical\AlarmControl\AlarmHandling\Types.typ" />
+      <File
+        Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_BlissNewScreen\Logical\AlarmControl\AlarmHandling\Variables.var" />
+      <File
+        Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_BlissNewScreen\Logical\AlarmControl\AlarmHandling\LocalFunctions.fun" />
+      <InternalFile
+        Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_BlissNewScreen\Temp\Objects\MasterConfiguration_ServoRam\X20CP0484\AlarmHandl\AlarmInfoAdapter.st.var" />
+      <InternalFile
+        Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_BlissNewScreen\Temp\Objects\MasterConfiguration_ServoRam\X20CP0484\AlarmHandl\CheckIOModules.st.var" />
+      <InternalFile
+        Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_BlissNewScreen\Temp\Objects\MasterConfiguration_ServoRam\X20CP0484\AlarmHandl\Action.st.var" />
+    </Task>
+  </TaskClass>
+  <TaskClass
+    Name="Cyclic#8">
+    <Task
+      Name="Recipes"
+      Disable="false"
+      Source="Recipes.Recipes"
+      Language="IEC">
+      <InternalFile
+        Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_BlissNewScreen\Temp\Objects\MasterConfiguration_ServoRam\X20CP0484\Recipes\Cyclic.ld.var" />
+      <InternalFile
+        Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_BlissNewScreen\Temp\Objects\MasterConfiguration_ServoRam\X20CP0484\Recipes\Init.st.var" />
+      <File
+        Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_BlissNewScreen\Logical\Recipes\Recipes\Types.typ" />
+      <File
+        Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_BlissNewScreen\Logical\Recipes\Recipes\Variables.var" />
+    </Task>
+    <Task
+      Name="HMIControl"
+      Disable="false"
+      Source="HMI.HMIControl"
+      Language="IEC">
+      <InternalFile
+        Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_BlissNewScreen\Temp\Objects\MasterConfiguration_ServoRam\X20CP0484\HMIControl\Cyclic.ld.var" />
+      <InternalFile
+        Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_BlissNewScreen\Temp\Objects\MasterConfiguration_ServoRam\X20CP0484\HMIControl\Init.st.var" />
+      <File
+        Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_BlissNewScreen\Logical\HMI\HMIControl\Types.typ" />
+      <File
+        Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_BlissNewScreen\Logical\HMI\HMIControl\Variables.var" />
+    </Task>
+    <Task
+      Name="FlexTest"
+      Disable="false"
+      Source="Actuators.NordsonComm.NordsonMBComm"
+      Language="IEC">
+      <InternalFile
+        Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_BlissNewScreen\Temp\Objects\MasterConfiguration_ServoRam\X20CP0484\FlexTest\MbApp.st.var" />
+      <File
+        Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_BlissNewScreen\Logical\Actuators\NordsonComm\NordsonMBComm\MbApp.typ" />
+      <File
+        Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_BlissNewScreen\Logical\Actuators\NordsonComm\NordsonMBComm\MbApp.var" />
+      <InternalFile
+        Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_BlissNewScreen\Temp\Objects\MasterConfiguration_ServoRam\X20CP0484\FlexTest\Action.st.var" />
+    </Task>
+    <Task
+      Name="NordsonExt"
+      Disable="false"
+      Source="Actuators.NordsonComm.NordsonExtendedComm"
+      Language="IEC">
+      <InternalFile
+        Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_BlissNewScreen\Temp\Objects\MasterConfiguration_ServoRam\X20CP0484\NordsonExt\MbPressure.st.var" />
+      <File
+        Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_BlissNewScreen\Logical\Actuators\NordsonComm\NordsonExtendedComm\Types.typ" />
+      <File
+        Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_BlissNewScreen\Logical\Actuators\NordsonComm\NordsonExtendedComm\Variables.var" />
+    </Task>
+    <Task
+      Name="PatliteCom"
+      Disable="false"
+      Source="Stacklight.PatliteComm"
+      Language="IEC">
+      <InternalFile
+        Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_BlissNewScreen\Temp\Objects\MasterConfiguration_ServoRam\X20CP0484\PatliteCom\Patelite.st.var" />
+      <File
+        Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_BlissNewScreen\Logical\Stacklight\PatliteComm\Patelite.typ" />
+      <File
+        Path="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_BlissNewScreen\Logical\Stacklight\PatliteComm\Patelite.var" />
+    </Task>
+  </TaskClass>
+</ConfigInfo>

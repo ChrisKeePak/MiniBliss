@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?AutomationStudio Version="4.7.5.60 SP"?>
+<ProjectOptions
+  IecNamingConventions="true"
+  IecKeywordsAsStructureMembers="false"
+  IecExtendedConstants="true"
+  LogicalDirectory="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_NoWaitForFold\Logical\"
+  TempDirectory="C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_NoWaitForFold\Temp\"
+  AutomationStudioVersion="4.7.5.60 SP"
+  AutomationStudioEdition="Standard"
+  BuildCrossReference="false"
+  ActiveConfiguration="MasterConfiguration_ServoRam"
+  CreateAnsiCDeclarations="false" />

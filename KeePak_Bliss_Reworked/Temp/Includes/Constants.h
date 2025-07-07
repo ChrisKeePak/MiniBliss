@@ -1,0 +1,172 @@
+/* Automation Studio generated header file */
+/* Do not edit ! */
+/* Constants  */
+
+#ifndef _CONSTANTS_
+#define _CONSTANTS_
+#ifdef __cplusplus
+extern "C" 
+{
+#endif
+
+#include <bur/plctypes.h>
+
+#ifndef _BUR_PUBLIC
+#define _BUR_PUBLIC
+#endif
+/* Constants */
+#ifdef _REPLACE_CONST
+ #define ALARM_BODY_CHECK "BodyPanelCheck"
+ #define ALARM_PHOTOEYE_CHECK "PhotoEyeCheck"
+ #define ALARM_NORDSON_STANDBY "AdhesiveNordsonInStandby"
+ #define ALARM_ATS_OVERLIMIT "ATSOverLimit"
+ #define ALARM_ATS_UNDERLIMIT "ATSUnderLimit"
+ #define ALARM_NOT_HOMED "AxisNotHomed"
+ #define ALARM_PATLITE_COMMS "PatLiteComms"
+ #define ALARM_SAFETY_GUARD_DOOR "SafetyGuardDoor"
+ #define ALARM_SAFETY_REAR_ESTOP "SafetyBackEStop"
+ #define ALARM_SAFETY_FRONT_ESTOP "SafetyFrontEStop"
+ #define ALARM_NORDSON_COMMS "NordsonComms"
+ #define ALARM_VENTURI_LOW "VenturiLow"
+ #define ALARM_TEST_ALARM "TestAlarm"
+ #define ALARM_TEST_ALARM2 "TestAlarm2"
+ #define ALARM_VFD_OVER_CURRENT "VFDOverCurrent"
+ #define ALARM_ADHESIVE_USEAGE_LOW "AdhesiveUseageLow"
+ #define ALARM_IO_MODULE_NOT_OK "IOModuleNotOK"
+ #define ALARM_VFD "VFDAlarm"
+ #define ALARM_SAFETY_NOTOK "SafetyNotOK"
+ #define ALARM_AIR_PRESSURE_LOW "AirPressureLow"
+ #define ALARM_VACUUM_PRESSURE_LOW "VacuumPressureLow"
+ #define ALARM_VACUUM_OVER_TEMP "VacuumOverTemp"
+ #define ALARM_ADHESIVE_NOT_READY "AdhesiveUnitNotReady"
+ #define ALARM_ADHESIVE_LOW "AdhesiveUnitLevelLow"
+ #define ALARM_ADHESIVE_FAULT "AdhesiveUnitFault"
+ #define COUNTS_PER_ENCODER_REV 23040U
+ #define DEFAULT_RECIPE_NAME "settings.xml"
+ #define HIDE 1U
+ #define LOCK 2U
+ #define MAX_NUM_GLUE_CHANNELS 4U
+ #define MAX_NUM_GLUE_CHANNELS_M1 3U
+ #define MAX_NUM_ONOFF_PATTERNS 4U
+ #define MAX_NUM_ONOFF_PATTERNS_M1 3U
+ #define NOTOK 0U
+ #define OK 1U
+ #define PPM_TO_DEG_PER_S 6.0f
+ #define UNHIDE 0U
+ #define UNLOCK 0U
+ #define ALARM_INACTIVE 0U
+ #define ALARM_ACTIVE 1U
+ #define PAGE_ALARM 100U
+ #define PUMPS_OFF 0U
+ #define PUMPS_ON 2U
+ #define MELTER_OFF 0U
+ #define MELTER_ON 1U
+ #define STANDBY_ON 64U
+ #define WRITE_COMMAND 6U
+ #define READ_COMMAND 3U
+ #define TEMP_UNIT_IDX 110U
+ #define TEMP_UNIT_START_CHANNEL 0U
+ #define IDX_SET_TEMP 115U
+ #define CHANNEL_SET_TEMP_START 1U
+ #define IDX_MELTER_STATUS 10U
+ #define IDX_ATS_ALARMS 229U
+ #define IDX_ACT_TEMP 120U
+ #define CHANNEL_ACT_TEMP_START 1U
+ #define IDX_ADHESIVE_HOUR 225U
+ #define CHANNEL_ADHESIVE_HOUR 0U
+ #define MAX_NUM_TEMP_CHANNELS 5U
+ #define MAX_NUM_TEMP_CHANNELS_M1 4U
+ #define MACHINE_TYPE_BLISS 3U
+ #define MACHINE_TYPE_CLASSICPAK 1U
+ #define MACHINE_TYPE_TRAY 2U
+ #define NUM_NORDSON_TEMP_ZONES 10U
+ #define NUM_NORDSON_TEMP_ZONES_M1 9U
+ #define TYPE1_RECIPE_NAME "settings1.xml"
+ #define TYPE2_RECIPE_NAME "settings2.xml"
+ #define NUM_PNP_TRIES 3U
+ #define NUM_SIDE_TRIES 3U
+ #define NUM_FOLD_TRIES 3U
+#else
+ _GLOBAL_CONST plcstring ALARM_BODY_CHECK[256];
+ _GLOBAL_CONST plcstring ALARM_PHOTOEYE_CHECK[256];
+ _GLOBAL_CONST plcstring ALARM_NORDSON_STANDBY[256];
+ _GLOBAL_CONST plcstring ALARM_ATS_OVERLIMIT[256];
+ _GLOBAL_CONST plcstring ALARM_ATS_UNDERLIMIT[256];
+ _GLOBAL_CONST plcstring ALARM_NOT_HOMED[256];
+ _GLOBAL_CONST plcstring ALARM_PATLITE_COMMS[256];
+ _GLOBAL_CONST plcstring ALARM_SAFETY_GUARD_DOOR[256];
+ _GLOBAL_CONST plcstring ALARM_SAFETY_REAR_ESTOP[256];
+ _GLOBAL_CONST plcstring ALARM_SAFETY_FRONT_ESTOP[256];
+ _GLOBAL_CONST plcstring ALARM_NORDSON_COMMS[256];
+ _GLOBAL_CONST plcstring ALARM_VENTURI_LOW[256];
+ _GLOBAL_CONST plcstring ALARM_TEST_ALARM[256];
+ _GLOBAL_CONST plcstring ALARM_TEST_ALARM2[256];
+ _GLOBAL_CONST plcstring ALARM_VFD_OVER_CURRENT[256];
+ _GLOBAL_CONST plcstring ALARM_ADHESIVE_USEAGE_LOW[256];
+ _GLOBAL_CONST plcstring ALARM_IO_MODULE_NOT_OK[256];
+ _GLOBAL_CONST plcstring ALARM_VFD[256];
+ _GLOBAL_CONST plcstring ALARM_SAFETY_NOTOK[256];
+ _GLOBAL_CONST plcstring ALARM_AIR_PRESSURE_LOW[256];
+ _GLOBAL_CONST plcstring ALARM_VACUUM_PRESSURE_LOW[256];
+ _GLOBAL_CONST plcstring ALARM_VACUUM_OVER_TEMP[256];
+ _GLOBAL_CONST plcstring ALARM_ADHESIVE_NOT_READY[256];
+ _GLOBAL_CONST plcstring ALARM_ADHESIVE_LOW[256];
+ _GLOBAL_CONST plcstring ALARM_ADHESIVE_FAULT[256];
+ _GLOBAL_CONST unsigned short COUNTS_PER_ENCODER_REV;
+ _GLOBAL_CONST plcstring DEFAULT_RECIPE_NAME[256];
+ _GLOBAL_CONST unsigned char HIDE;
+ _GLOBAL_CONST unsigned char LOCK;
+ _GLOBAL_CONST unsigned char MAX_NUM_GLUE_CHANNELS;
+ _GLOBAL_CONST unsigned char MAX_NUM_GLUE_CHANNELS_M1;
+ _GLOBAL_CONST unsigned char MAX_NUM_ONOFF_PATTERNS;
+ _GLOBAL_CONST unsigned char MAX_NUM_ONOFF_PATTERNS_M1;
+ _GLOBAL_CONST unsigned char NOTOK;
+ _GLOBAL_CONST unsigned char OK;
+ _GLOBAL_CONST float PPM_TO_DEG_PER_S;
+ _GLOBAL_CONST unsigned char UNHIDE;
+ _GLOBAL_CONST unsigned char UNLOCK;
+ _GLOBAL_CONST unsigned char ALARM_INACTIVE;
+ _GLOBAL_CONST unsigned char ALARM_ACTIVE;
+ _GLOBAL_CONST unsigned char PAGE_ALARM;
+ _GLOBAL_CONST unsigned char PUMPS_OFF;
+ _GLOBAL_CONST unsigned char PUMPS_ON;
+ _GLOBAL_CONST unsigned char MELTER_OFF;
+ _GLOBAL_CONST unsigned char MELTER_ON;
+ _GLOBAL_CONST unsigned char STANDBY_ON;
+ _GLOBAL_CONST unsigned char WRITE_COMMAND;
+ _GLOBAL_CONST unsigned char READ_COMMAND;
+ _GLOBAL_CONST unsigned char TEMP_UNIT_IDX;
+ _GLOBAL_CONST unsigned char TEMP_UNIT_START_CHANNEL;
+ _GLOBAL_CONST unsigned char IDX_SET_TEMP;
+ _GLOBAL_CONST unsigned char CHANNEL_SET_TEMP_START;
+ _GLOBAL_CONST unsigned char IDX_MELTER_STATUS;
+ _GLOBAL_CONST unsigned char IDX_ATS_ALARMS;
+ _GLOBAL_CONST unsigned char IDX_ACT_TEMP;
+ _GLOBAL_CONST unsigned char CHANNEL_ACT_TEMP_START;
+ _GLOBAL_CONST unsigned char IDX_ADHESIVE_HOUR;
+ _GLOBAL_CONST unsigned char CHANNEL_ADHESIVE_HOUR;
+ _GLOBAL_CONST unsigned char MAX_NUM_TEMP_CHANNELS;
+ _GLOBAL_CONST unsigned char MAX_NUM_TEMP_CHANNELS_M1;
+ _GLOBAL_CONST unsigned char MACHINE_TYPE_BLISS;
+ _GLOBAL_CONST unsigned char MACHINE_TYPE_CLASSICPAK;
+ _GLOBAL_CONST unsigned char MACHINE_TYPE_TRAY;
+ _GLOBAL_CONST unsigned char NUM_NORDSON_TEMP_ZONES;
+ _GLOBAL_CONST unsigned char NUM_NORDSON_TEMP_ZONES_M1;
+ _GLOBAL_CONST plcstring TYPE1_RECIPE_NAME[81];
+ _GLOBAL_CONST plcstring TYPE2_RECIPE_NAME[81];
+ _GLOBAL_CONST unsigned char NUM_PNP_TRIES;
+ _GLOBAL_CONST unsigned char NUM_SIDE_TRIES;
+ _GLOBAL_CONST unsigned char NUM_FOLD_TRIES;
+#endif
+
+
+
+
+
+
+
+#ifdef __cplusplus
+};
+#endif
+#endif /* _CONSTANTS_ */
+

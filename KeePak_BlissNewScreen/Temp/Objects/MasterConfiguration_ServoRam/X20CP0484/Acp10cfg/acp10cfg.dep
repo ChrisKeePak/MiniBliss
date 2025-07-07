@@ -1,0 +1,3 @@
+$(AS_PROJECT_PATH)/\physical\masterconfiguration_servoram\x20cp0484\motion\acp10cfg.ncc
+$(AS_PROJECT_PATH)/\physical\masterconfiguration_servoram\hardware.hw
+$(AS_PROJECT_PATH)/\physical\masterconfiguration_servoram\x20cp0484\motion\acp10map.ncm

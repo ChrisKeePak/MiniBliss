@@ -1,0 +1,9 @@
+_BUR_LOCAL plcbit Valve0OnBliss;
+_BUR_LOCAL plcbit Valve2OnBliss;
+_BUR_LOCAL plcbit Valve4OnBliss;
+_BUR_LOCAL plcbit Valve6OnBliss;
+_BUR_LOCAL plcbit Valve0OnNotBliss;
+_BUR_LOCAL plcbit Valve2OnNotBliss;
+_BUR_LOCAL plcbit Valve4OnNotBliss;
+_BUR_LOCAL plcbit Valve6OnNotBliss;
+_BUR_LOCAL float DataSource;

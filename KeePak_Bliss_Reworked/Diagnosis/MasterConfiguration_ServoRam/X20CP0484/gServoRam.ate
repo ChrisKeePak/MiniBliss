@@ -1,0 +1,3 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?AutomationStudio Version="4.7.5.60 SP"?>
+<Diagnosis ConnectionString="NCMGR=&quot;Acp10&quot;;NCVER=&quot;5082&quot;;IFTYP=&quot;&quot;;NCOBJNAM=&quot;gServoRam&quot;;OBJTYP=&quot;ncAXIS&quot;;CHL=&quot;1&quot;;ADDR=&quot;&quot;;IP_MOD=&quot;gFeedi&quot;;DIAG_FILE_PATH=&quot;C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Diagnosis\MasterConfiguration_ServoRam\X20CP0484\gServoRam.ate&quot;;" />

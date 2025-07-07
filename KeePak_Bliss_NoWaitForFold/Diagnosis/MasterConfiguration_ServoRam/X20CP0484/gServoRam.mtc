@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<?AutomationStudio Version="4.7.5.60 SP"?>
+<Trace>
+  <Configuration Type="PARID" Active="true">
+    <Sampling SamplingTime="0.022" TracingTime="60" CalculateSamplingTime="True" CalculateTracingTime="False">
+      <Trigger Delay="-5" Threshold="0" Window="10" Condition="ncOUT_WINDOW+ncENTRY" NetTriggerDelay="0" NcObject="gServoRam" ID="214" Description="CTRL Current controller: Actual stator current quadrature component" />
+    </Sampling>
+    <Channels>
+      <Channel Traced="True" NcObject="gServoRam" ID="214" Description="CTRL Current controller: Actual stator current quadrature component" />
+      <Channel Traced="True" NcObject="gServoRam" ID="298" Description="CTRL DC bus: Voltage" />
+      <Channel Traced="True" NcObject="gServoRam" ID="381" Description="Motor temperature sensor: Temperature" />
+    </Channels>
+  </Configuration>
+</Trace>

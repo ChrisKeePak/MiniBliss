@@ -1,0 +1,13 @@
+$(AS_PROJECT_PATH)/Logical/Libraries/AsIOAcc/AsIOAcc.fun
+$(AS_PROJECT_PATH)/Logical/Libraries/AsIOAcc/AsIOAcc.typ
+$(AS_PROJECT_PATH)/Logical/Libraries/AsEPL/AsEPL.fun
+$(AS_PROJECT_PATH)/Logical/Libraries/AsEPL/AsEPL.typ
+$(AS_PROJECT_PATH)/Logical/Libraries/runtime/runtime.fun
+$(AS_PROJECT_PATH)/Logical/Libraries/AsBrMath/AsBrMath.fun
+$(AS_PROJECT_PATH)/Logical/Libraries/AsBrStr/AsBrStr.fun
+$(AS_PROJECT_PATH)/Logical/AsSafetySolution/SafetySample/SafetySample.fun
+$(AS_PROJECT_PATH)/Logical/Libraries/AsSafety/AsSafety.fun
+$(AS_PROJECT_PATH)/Logical/Libraries/AsSafety/AsSafety.typ
+$(AS_PROJECT_PATH)/Logical/Libraries/AsIecCon/AsIecCon.fun
+$(AS_PROJECT_PATH)/Logical/AsSafetySolution/SafetySample/SafetySample.var
+$(AS_PROJECT_PATH)/Logical/Libraries/AsSafety/AsSafety.var

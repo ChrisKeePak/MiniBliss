@@ -1,0 +1,6 @@
+$(AS_PROJECT_PATH)/Logical/Libraries/Lib_PBFlx/Lib_PBFlx.fun
+$(AS_PROJECT_PATH)/Logical/Libraries/Lib_PBFlx/Types.typ
+$(AS_PROJECT_PATH)/Logical/Libraries/standard/standard.fun
+$(AS_PROJECT_PATH)/Logical/Libraries/AsMbTcp/AsMbTCP.fun
+$(AS_PROJECT_PATH)/Logical/Actuators/FlexTest/Variables.var
+$(AS_PROJECT_PATH)/Logical/Global.var

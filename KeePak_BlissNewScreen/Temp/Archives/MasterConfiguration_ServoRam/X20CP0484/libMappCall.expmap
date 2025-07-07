@@ -1,0 +1,9 @@
+{
+  global:
+    AxisBasic;
+    StatusID_Decoder;
+    Severity_Decoder;
+    Facility_Decoder;
+  local:
+    *;
+ };

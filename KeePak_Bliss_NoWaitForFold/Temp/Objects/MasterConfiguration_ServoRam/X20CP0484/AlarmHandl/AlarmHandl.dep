@@ -1,0 +1,17 @@
+$(AS_PROJECT_PATH)/Logical/AlarmControl/AlarmHandling/LocalFunctions.fun
+$(AS_PROJECT_PATH)/Logical/Libraries/MpAlarmX/MpAlarmX.fun
+$(AS_PROJECT_PATH)/Logical/Libraries/MpBase/MpBase.typ
+$(AS_PROJECT_PATH)/Logical/Libraries/MpAlarmX/MpAlarmXError.typ
+$(AS_PROJECT_PATH)/Logical/Libraries/MpAlarmX/MpAlarmX.typ
+$(AS_PROJECT_PATH)/Logical/Libraries/runtime/runtime.fun
+$(AS_PROJECT_PATH)/Logical/Libraries/AsBrStr/AsBrStr.fun
+$(AS_PROJECT_PATH)/Logical/Libraries/asstring/asstring.fun
+$(AS_PROJECT_PATH)/Logical/Global.var
+$(AS_PROJECT_PATH)/Logical/AlarmControl/AlarmHandling/Variables.var
+$(AS_PROJECT_PATH)/Logical/Libraries/Types/Types.typ
+$(AS_PROJECT_PATH)/Logical/Libraries/Constants/AlarmNames.var
+$(AS_PROJECT_PATH)/Logical/Libraries/Constants/Constants.var
+$(AS_PROJECT_PATH)/Physical/MasterConfiguration_ServoRam/X20CP0484/mapp/AlarmCfg.mpalarmxcore
+$(AS_PROJECT_PATH)/Physical/MasterConfiguration_ServoRam/X20CP0484/mapp/AlrmHstCfg.mpalarmxhistory
+$(AS_PROJECT_PATH)/Logical/Libraries/MpAxis/MpAxis.typ
+$(AS_PROJECT_PATH)/Logical/Libraries/MpAxis/MpAxisError.typ

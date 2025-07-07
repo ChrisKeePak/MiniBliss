@@ -1,0 +1,10 @@
+$(AS_PROJECT_PATH)/Logical/Libraries/MpRecipe/MpRecipe.fun
+$(AS_PROJECT_PATH)/Logical/Libraries/MpBase/MpBase.typ
+$(AS_PROJECT_PATH)/Logical/Libraries/MpRecipe/MpRecipeError.typ
+$(AS_PROJECT_PATH)/Logical/Libraries/MpRecipe/MpRecipe.typ
+$(AS_PROJECT_PATH)/Logical/Libraries/runtime/runtime.fun
+$(AS_PROJECT_PATH)/Logical/Recipes/Recipes/Variables.var
+$(AS_PROJECT_PATH)/Logical/Libraries/Constants/Constants.var
+$(AS_PROJECT_PATH)/Logical/Global.var
+$(AS_PROJECT_PATH)/Logical/Libraries/Types/Types.typ
+$(AS_PROJECT_PATH)/Physical/MasterConfiguration_ServoRam/X20CP0484/mapp/RcpCfg.mprecipexml

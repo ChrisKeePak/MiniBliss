@@ -1,0 +1,5 @@
+$(AS_PROJECT_PATH)/Logical/Libraries/AsMbTcp/AsMbTCP.fun
+$(AS_PROJECT_PATH)/Logical/Actuators/NordsonComm/NordsonExtendedComm/Variables.var
+$(AS_PROJECT_PATH)/Logical/Libraries/Types/Types.typ
+$(AS_PROJECT_PATH)/Logical/Actuators/NordsonComm/NordsonExtendedComm/Types.typ
+$(AS_PROJECT_PATH)/Logical/Libraries/runtime/runtime.var

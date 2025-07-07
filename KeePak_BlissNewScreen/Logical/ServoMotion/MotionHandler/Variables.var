@@ -1,0 +1,14 @@
+VAR
+	ServoFeedHandler : AxisHandler;
+	ServoPnPHandler : AxisHandler;
+	BodyHopperHandler : AxisHandler;
+	LeftHopperHandler : AxisHandler;
+	RightHopperHandler : AxisHandler;
+	ServoRamHandler : AxisHandler;
+	OldTorqueLimitBodyHopper : REAL;
+	OldTorqueLimitLeftHopper : REAL;
+	OldTorqueLimitRightHopper : REAL;
+	OldTorqueLimitFeed : REAL;
+	OldTorqueLimitRam : REAL;
+	SetHardwareInputs : MC_BR_SetHardwareInputs;
+END_VAR

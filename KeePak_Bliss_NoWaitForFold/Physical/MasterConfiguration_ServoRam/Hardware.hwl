@@ -1,0 +1,117 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<BR.AS.HardwareTopology Version="0.0.0.1">
+  <TimeStamps>
+    <TimeStamp LogicalPath="MasterConfiguration_ServoRam.Hardware.hw" LastWriteTime="10/28/2024 08:51:05" />
+  </TimeStamps>
+  <Modules>
+    <Module Name="0AC808.9" Type="0AC808.9" X="531" Y="345" />
+    <Module Name="NordsonMelter" Type="ModbusTcp_any" X="740" Y="207" />
+    <Module Name="PatLite_LightStack" Type="ModbusTcp_any" X="617" Y="207" />
+    <Module Name="8EI2X2HWT10.xxxx-1" Type="8EI2X2HWT10.xxxx-1" X="858" Y="169" />
+    <Module Name="X20BB52" Type="X20BB52" X="288" Y="169" />
+    <Module Name="X20BM15" Type="X20BM15" X="326" Y="169" />
+    <Module Name="X20DI9371" Type="X20DI9371" X="326" Y="169" />
+    <Module Name="X20TB12" Type="X20TB12" X="326" Y="196" />
+    <Module Name="X20BM11a" Type="X20BM11" X="339" Y="169" />
+    <Module Name="X20DI9371a" Type="X20DI9371" X="339" Y="169" />
+    <Module Name="X20TB12a" Type="X20TB12" X="339" Y="196" />
+    <Module Name="X20BM11d" Type="X20BM11" X="352" Y="169" />
+    <Module Name="X20DO9322" Type="X20DO9322" X="352" Y="169" />
+    <Module Name="X20TB12d" Type="X20TB12" X="352" Y="196" />
+    <Module Name="X20BM11b" Type="X20BM11" X="365" Y="169" />
+    <Module Name="X20DO9322a" Type="X20DO9322" X="365" Y="169" />
+    <Module Name="X20TB12b" Type="X20TB12" X="365" Y="196" />
+    <Module Name="X20BM11" Type="X20BM11" X="378" Y="169" />
+    <Module Name="X20DO8332" Type="X20DO8332" X="378" Y="169" />
+    <Module Name="X20TB12e" Type="X20TB12" X="378" Y="196" />
+    <Module Name="X20BM36" Type="X20BM36" X="391" Y="169" />
+    <Module Name="X20SLX806" Type="X20SLX806" X="391" Y="169" />
+    <Module Name="X20TB52a" Type="X20TB52" X="404" Y="195" />
+    <Module Name="X20TB52" Type="X20TB52" X="391" Y="195" />
+    <Module Name="X20PS9600" Type="X20PS9600" X="313" Y="169" />
+    <Module Name="X20TB12f" Type="X20TB12" X="313" Y="196" />
+    <Module Name="X20CP0484" Type="X20CP0484" X="288" Y="169" />
+    <Module Name="Numatics_580" Type="FBE.NUMATICS-580-20150428-145500" X="1002" Y="325" />
+    <Module Name="8EI2X2HWT10.xxxx-1a" Type="8EI2X2HWT10.xxxx-1" X="465" Y="169" />
+    <Module Name="6PPT50.101E-16B" Type="6PPT50.101E-16B" X="255" Y="302" />
+  </Modules>
+  <Links>
+    <Link From="0AC808.9" To="NordsonMelter" FromPort="ETH2" ToPort="ETH1" IsRoutedByUser="False">
+      <Point X="570" Y="356" />
+      <Point X="570" Y="356" />
+      <Point X="570" Y="344" />
+      <Point X="570" Y="335" />
+      <Point X="774" Y="335" />
+      <Point X="774" Y="258" />
+      <Point X="774" Y="251" />
+      <Point X="774" Y="251" />
+    </Link>
+    <Link From="0AC808.9" To="PatLite_LightStack" FromPort="ETH3" ToPort="ETH1" IsRoutedByUser="False">
+      <Point X="583" Y="356" />
+      <Point X="583" Y="356" />
+      <Point X="583" Y="344" />
+      <Point X="583" Y="321" />
+      <Point X="658" Y="321" />
+      <Point X="658" Y="324.999969" />
+      <Point X="651" Y="324.999969" />
+      <Point X="651" Y="258" />
+      <Point X="651" Y="251" />
+      <Point X="651" Y="251" />
+    </Link>
+    <Link From="8EI2X2HWT10.xxxx-1" To="8EI2X2HWT10.xxxx-1a" FromPort="PLK2" ToPort="PLK1" IsRoutedByUser="False">
+      <Point X="874.1" Y="179.5" />
+      <Point X="874.1" Y="187.375" />
+      <Point X="857.1" Y="187.375" />
+      <Point X="845" Y="187.375" />
+      <Point X="845" Y="155" />
+      <Point X="455" Y="155" />
+      <Point X="455" Y="179.5" />
+      <Point X="464.7" Y="179.5" />
+      <Point X="472.7" Y="179.5" />
+      <Point X="472.7" Y="179.5" />
+    </Link>
+    <Link From="8EI2X2HWT10.xxxx-1a" To="X20CP0484" FromPort="PLK2" ToPort="IF3" IsRoutedByUser="False">
+      <Point X="481.1" Y="179.5" />
+      <Point X="481.1" Y="187.375" />
+      <Point X="464.1" Y="187.375" />
+      <Point X="448" Y="187.375" />
+      <Point X="448" Y="155" />
+      <Point X="275" Y="155" />
+      <Point X="275" Y="242" />
+      <Point X="287" Y="242" />
+      <Point X="302" Y="242" />
+      <Point X="302" Y="242" />
+    </Link>
+    <Link From="0AC808.9" To="6PPT50.101E-16B" FromPort="ETH1" ToPort="ETH1" IsRoutedByUser="False">
+      <Point X="557" Y="356" />
+      <Point X="557" Y="356" />
+      <Point X="557" Y="344" />
+      <Point X="557" Y="335" />
+      <Point X="525" Y="335" />
+      <Point X="525" Y="455" />
+      <Point X="344.2" Y="455" />
+      <Point X="344.2" Y="444" />
+      <Point X="344.2" Y="439" />
+      <Point X="344.2" Y="439" />
+    </Link>
+    <Link From="6PPT50.101E-16B" To="X20CP0484" FromPort="ETH2" ToPort="IF2" IsRoutedByUser="False">
+      <Point X="356.2" Y="439" />
+      <Point X="356.2" Y="439" />
+      <Point X="356.2" Y="444" />
+      <Point X="356.2" Y="462" />
+      <Point X="245" Y="462" />
+      <Point X="245" Y="295" />
+      <Point X="302" Y="295" />
+      <Point X="302" Y="269" />
+      <Point X="302" Y="259" />
+      <Point X="302" Y="259" />
+    </Link>
+  </Links>
+  <InfoElements>
+    <InfoElementText Id="Textbox_1" X="1002" Y="268" Width="186" Height="22">
+      <Text Color="Black" FontName="Arial" FontSize="12" FontStyle="Regular" AlignmentHorizontal="Left">Pneumatics 580</Text>
+      <Background Color="White" Transparent="False" />
+      <Border Color="Black" Transparent="False" DashStyle="Solid" Width="1" />
+    </InfoElementText>
+  </InfoElements>
+</BR.AS.HardwareTopology>

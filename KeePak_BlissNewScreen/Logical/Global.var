@@ -1,0 +1,125 @@
+VAR
+	GuideCylinder : BOOL;
+	gForceBodyKicker : BOOL;
+END_VAR
+VAR RETAIN
+	BodyHopperFirstHomeExecuted : BOOL;
+	BodyHopper_EPD : MC_ENDLESS_POSITION;
+END_VAR
+VAR
+	b_ModuleStatus : BOOL;
+END_VAR
+VAR RETAIN
+	CycleCount : UDINT;
+END_VAR
+VAR
+	DistanceAfterLatch : REAL;
+	FeedInCycle : BOOL;
+	FeedPosFinal : LREAL;
+	FeedPositionCapture : LREAL;
+	FeedServoBusy : BOOL;
+	gActivePage : USINT;
+	gAdhesiveCtrlInterface : AdhesiveCtrlInterface_typ;
+	gAirPressureAlarmActive : BOOL;
+	gAlarmActive : BOOL;
+	gAlarmSystemActive : BOOL;
+	gAutoTune : BOOL;
+	gBodyHopper : ACP10AXIS_typ;
+	gBodyHopperInterface : Axis_Interface_typ;
+	gBotLinAxis : ACP10AXIS_typ;
+	gBotLinAxis_1 : ACP10AXIS_typ;
+	gChangePage : USINT;
+	gCurrentLimitHit : BOOL;
+	gCyclesToFinish : SINT;
+	gDownstreamBlocked : BOOL;
+END_VAR
+VAR RETAIN
+	gEndlessPosBot : MC_ENDLESS_POSITION;
+	gEndlessPosTop : MC_ENDLESS_POSITION;
+END_VAR
+VAR
+	gFoldPushCtrlInterface : FoldPushCtrlInterface_typ := (Parameters:=(LinMotBotFolder:=(Parameter:=(MpBasicParameters:=(Home:=(Mode:=mpAXIS_HOME_MODE_RESTORE_POS,Position:=0,StartVelocity:=25,HomingVelocity:=5,Acceleration:=500,StartDirection:=mpAXIS_HOME_DIR_NEGATIVE,TorqueLimit:=0.5,BlockDetectionPositionError:=4,PositionErrorStopLimit:=10),Jog:=(Velocity:=2)))),LinMotTopFolder:=(Parameter:=(MpBasicParameters:=(Home:=(Mode:=mpAXIS_HOME_MODE_RESTORE_POS,Position:=0,StartVelocity:=25,HomingVelocity:=5,Acceleration:=500,StartDirection:=mpAXIS_HOME_DIR_NEGATIVE,TorqueLimit:=0.5,BlockDetectionPositionError:=4,PositionErrorStopLimit:=10),Jog:=(Velocity:=2))))));
+	gHighSeverityAlarmActive : BOOL;
+	gHMI : HMIControl_typ;
+	gHomingParameters : Home_Parameters_typ;
+	gIO : IO_typ;
+	gIsSimulated : BOOL;
+	gLeftHopper : ACP10AXIS_typ;
+	gLeftHopperInterface : Axis_Interface_typ;
+	gLowSeverityAlarmActive : BOOL;
+	gModeControlInterface : ModeCtrlInterface_typ;
+	gNumActiveAlarms : UDINT;
+	gNumAlarms : UDINT;
+	gOffDelayCompensation : REAL;
+	gOnDelayCompensation : REAL;
+	gPassword : ARRAY[0..2] OF STRING[80] := ['','1111','2147'];
+	gPnPAtStopPosition : BOOL;
+	gPusherOn : BOOL;
+	gRamAtStopPosition : BOOL;
+	gRamCtrlInterface : RamControlInterface_typ;
+	gRamWaitingOnBox : BOOL;
+END_VAR
+VAR RETAIN
+	gRecipeInterface : {REDUND_UNREPLICABLE} RecipeCtrlInterface_typ := (0);
+END_VAR
+VAR
+	gRightHopper : ACP10AXIS_typ;
+	gRightHopperInterface : Axis_Interface_typ;
+	gSafetyNotOKAlarmActive : BOOL;
+	gServoFeed : ACP10AXIS_typ;
+	gServoFeedInterface : Axis_Interface_typ;
+	gServoFeed_1 : ACP10AXIS_typ;
+	gServoPnP : ACP10AXIS_typ;
+	gServoPnPInterface : Axis_Interface_typ;
+	gServoRam : ACP10AXIS_typ;
+	gServoRamInterface : Axis_Interface_typ;
+	gServoRam_1 : ACP10AXIS_typ;
+	gSoftwareReset : BOOL;
+	gTopLinAxis : ACP10AXIS_typ;
+	gTopLinAxis_1 : ACP10AXIS_typ;
+	gUserLevel : USINT;
+	gVacCtrlInterface : VacCtrlInterface_typ;
+	HoperLowStop : BOOL;
+	HopperLowTime : TIME := T#7s;
+	InfeedBoxPresent : BOOL;
+END_VAR
+VAR RETAIN
+	LeftHopperFirstHomeExecuted : BOOL;
+	LeftHopper_EPD : MC_ENDLESS_POSITION;
+	LubeCount : UDINT;
+END_VAR
+VAR
+	LubricationOK : BOOL;
+	Melter : DUT_NDSN_Flex;
+	PhotoEyeSeen : BOOL;
+END_VAR
+VAR RETAIN
+	RightHopperFirstHomeExecuted : BOOL;
+	RightHopper_EPD : MC_ENDLESS_POSITION;
+	ServoFeedFirstHomeExecuted : BOOL;
+	ServoFeed_EPD : MC_ENDLESS_POSITION;
+END_VAR
+VAR
+	ServoPnPAutoHome : BOOL;
+END_VAR
+VAR RETAIN
+	ServoPnPFirstHomeExecuted : BOOL;
+	ServoPnP_EPD : MC_ENDLESS_POSITION;
+END_VAR
+VAR
+	ServoRamAutoHome : BOOL;
+	ServoRamBusy : BOOL;
+	ServoRamClear : BOOL;
+END_VAR
+VAR RETAIN
+	ServoRamFirstHomeExecuted : BOOL;
+END_VAR
+VAR
+	ServoRamTrigger : BOOL;
+END_VAR
+VAR RETAIN
+	ServoRam_EPD : MC_ENDLESS_POSITION;
+END_VAR
+VAR
+	StopFeed : BOOL;
+END_VAR

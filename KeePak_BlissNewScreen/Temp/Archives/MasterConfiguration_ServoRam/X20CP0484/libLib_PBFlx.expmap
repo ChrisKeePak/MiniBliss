@@ -1,0 +1,7 @@
+{
+  global:
+    FB_NDSN_MB_PBFlex_CtrlSts;
+    FB_NDSN_MB_PBFlex_Process;
+  local:
+    *;
+ };

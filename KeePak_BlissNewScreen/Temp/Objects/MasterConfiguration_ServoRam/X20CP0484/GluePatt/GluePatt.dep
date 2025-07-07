@@ -1,0 +1,6 @@
+$(AS_PROJECT_PATH)/Logical/Libraries/GluePatt/GluePatt.fun
+$(AS_PROJECT_PATH)/Logical/Libraries/Constants/Constants.var
+$(AS_PROJECT_PATH)/Logical/Libraries/Types/Types.typ
+$(AS_PROJECT_PATH)/Logical/Libraries/GluePatt/Constants.var
+$(AS_PROJECT_PATH)/Logical/Libraries/GluePatt/Types.typ
+$(AS_PROJECT_PATH)/Logical/Libraries/asstring/asstring.fun

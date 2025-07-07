@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?AutomationStudio Version="4.7.5.60 SP"?>
+<TextGroup xmlns="http://br-automation.co.at/AS/VC/Project" Name="InternalFacilities">
+  <Property Name="Description" Value=""/>
+  <Property Name="Index" Value="20"/>
+  <TextSnippets/>
+  <TextLayer LanguageId="en">
+    <Text ID="236105" Value="ARCORE"/>
+    <Text ID="236106" Value="SAFETY1"/>
+    <Text ID="236107" Value="SAFETY2"/>
+    <Text ID="236201" Value="GMC1"/>
+    <Text ID="236202" Value="GMC2"/>
+    <Text ID="236203" Value="GMCAXIS"/>
+    <Text ID="236204" Value="GMCAXESGROUP"/>
+    <Text ID="236217" Value="GMCARNCGROUP"/>
+    <Text ID="236219" Value="TRF"/>
+    <Text ID="236258" Value="MAPP_INTERNAL"/>
+    <Text ID="236259" Value="MAPP_CORE"/>
+    <Text ID="236260" Value="MAPP_INFRASTRUCTURE"/>
+    <Text ID="236261" Value="MAPP_MECHATRONICS"/>
+    <Text ID="236262" Value="MAPP_INDUSTRY"/>
+    <Text ID="236263" Value="UNDEFINED"/>
+  </TextLayer>
+  <TextLayer LanguageId="de">
+    <Text ID="236105" Value=""/>
+    <Text ID="236106" Value=""/>
+    <Text ID="236107" Value=""/>
+    <Text ID="236201" Value=""/>
+    <Text ID="236202" Value=""/>
+    <Text ID="236203" Value=""/>
+    <Text ID="236204" Value=""/>
+    <Text ID="236217" Value=""/>
+    <Text ID="236219" Value=""/>
+    <Text ID="236258" Value=""/>
+    <Text ID="236259" Value=""/>
+    <Text ID="236260" Value=""/>
+    <Text ID="236261" Value=""/>
+    <Text ID="236262" Value=""/>
+    <Text ID="236263" Value=""/>
+  </TextLayer>
+  <IndexMap>
+    <Index ID="236105" Value="0"/>
+    <Index ID="236106" Value="1"/>
+    <Index ID="236107" Value="2"/>
+    <Index ID="236201" Value="96"/>
+    <Index ID="236202" Value="97"/>
+    <Index ID="236203" Value="98"/>
+    <Index ID="236204" Value="99"/>
+    <Index ID="236217" Value="103"/>
+    <Index ID="236219" Value="105"/>
+    <Index ID="236258" Value="144"/>
+    <Index ID="236259" Value="145"/>
+    <Index ID="236260" Value="146"/>
+    <Index ID="236261" Value="147"/>
+    <Index ID="236262" Value="148"/>
+    <Index ID="236263" Value="1000"/>
+  </IndexMap>
+</TextGroup>

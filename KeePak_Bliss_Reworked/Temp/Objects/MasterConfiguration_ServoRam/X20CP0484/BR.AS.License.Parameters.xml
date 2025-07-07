@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Parameters>
+  <Connection>
+    <DeviceParameters>/IF=tcpip /LOPO=11159 /SA=1</DeviceParameters>
+    <ConnectionParameters>/COMT=2500 /AM=* /DAIP=192.168.0.100 /REPO=11159 /ANSL=1</ConnectionParameters>
+  </Connection>
+  <AsProject>
+    <ApjFullFileName>C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\KeePak_Bliss_Reworked.apj</ApjFullFileName>
+    <ProjectName>KeePak_Bliss_Reworked</ProjectName>
+    <ActiveConfigurationName>MasterConfiguration_ServoRam</ActiveConfigurationName>
+    <LicenseDataFolder>C:\Users\Crims\OneDrive\Documents\GitHub\MiniBliss\KeePak_Bliss_Reworked\Temp\Objects\MasterConfiguration_ServoRam\X20CP0484</LicenseDataFolder>
+  </AsProject>
+  <General>
+    <DeleteParameterFile>false</DeleteParameterFile>
+  </General>
+</Parameters>

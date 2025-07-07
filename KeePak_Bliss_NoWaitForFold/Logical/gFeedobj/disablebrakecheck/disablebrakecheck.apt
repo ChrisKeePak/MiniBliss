@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?AutomationStudio Version=4.7.2.98?>
+<AcoposParameterTable>
+  <Root Name="Parameters">
+    <Parameter Name="MOTOR_TEST_MODE" ID="866" Value="64" Description="Motor: Test mode" />
+  </Root>
+</AcoposParameterTable>
