@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<?AutomationStudio Version="4.7.2.98"?>
+<Trace>
+  <Configuration Type="PARID" Active="true">
+    <Sampling SamplingTime="0.002" TracingTime="1" CalculateSamplingTime="False" CalculateTracingTime="False">
+      <Trigger Delay="0" Threshold="0" Window="0.001" Condition="ncOUT_WINDOW+ncENTRY" NetTriggerDelay="0" NcObject="gServoFeed" ID="114" Description="Position loop controller: Set speed" />
+    </Sampling>
+    <Channels>
+      <Channel Traced="True" NcObject="gServoFeed" ID="112" Description="Position loop controller: Lag error" />
+      <Channel Traced="True" NcObject="gServoFeed" ID="114" Description="Position loop controller: Set speed" />
+    </Channels>
+  </Configuration>
+</Trace>

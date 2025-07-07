@@ -1,0 +1,30 @@
+WATCH Ver=2.00 PLCName=PLC1 CPUName=CPU TaskName=RightHoppe 
+Position X=0 Y=0 Width=0 Height=0 TabWidth Name=150 Type=0 Scope=0 Force=33 Index=17 ASCIIString=0
+                                    name                                     type force                                                            value level type len format place expand specs
+                                   state                                     DINT    0 "                                                             999"    0    4    1   10    1    0 e,0,SERV
+
+                   gRightHopperInterface                       Axis_Interface_typ    0 "                                                               *"    0   24    1    0    0    1         
+                                  Status                Axis_Interface_Status_typ    0 "                                                               *"    1   24    1    0    0    1         
+                            ActualTorque                                    LREAL    0 "                                                             0.0"    2   14    1   10    0    0         
+                         StartDwellTimer                                      TON    0 "                                                               *"    0   24    1    0    1    1         
+                                      IN                                     BOOL    0 "                                                           FALSE"    1    1    1    2    0    0         
+                                      PT                                     TIME    0 "                                                     T#01s_500ms"    1   12    1    1    0    0         
+                                       Q                                     BOOL    0 "                                                           FALSE"    1    1    1    2    0    0         
+                                      ET                                     TIME    0 "                                                           T#0ms"    1   12    1    1    0    0         
+                               StartTime                                     TIME    0 "                                             T#01h_06m_52s_990ms"    1   12    1    1    0    0         
+                                       M                                     BOOL    0 "                                                           FALSE"    1    1    1    2    0    0         
+                                 Restart                                    UDINT    0 "                                                              70"    1    7    1   10    0    0         
+                                    gHMI                           HMIControl_typ    0 "                                                               *"    0   24    1    0    0    1         
+                              Parameters                HMIControl_Parameters_typ    0 "                                                               *"    1   24    1    0    0    1         
+                   BodyHopperTorqueLimit                                     REAL    0 "                                                             1.5"    2    8    1   10    0    0         
+                   LeftHopperTorqueLimit                                     REAL    0 "                                                             1.1"    2    8    1   10    0    0         
+                  RightHopperTorqueLimit                                     REAL    0 "                                                             1.2"    2    8    1   10    0    0         
+                  RightHopperTimeoutTime                                    UDINT    0 "                                                          600000"    2    7    1   10    0    0         
+                       ResetTimeoutTimer                                      TON    0 "                                                               *"    0   24    1    0    1    1         
+                                      IN                                     BOOL    0 "                                                           FALSE"    1    1    1    2    0    0         
+                                      PT                                     TIME    0 "                                                           T#10m"    1   12    1    1    0    0         
+                                       Q                                     BOOL    0 "                                                           FALSE"    1    1    1    2    0    0         
+                                      ET                                     TIME    0 "                                                           T#0ms"    1   12    1    1    0    0         
+                               StartTime                                     TIME    0 "                                             T#01h_31m_41s_090ms"    1   12    1    1    0    0         
+                                       M                                     BOOL    0 "                                                           FALSE"    1    1    1    2    0    0         
+                                 Restart                                    UDINT    0 "                                                              70"    1    7    1   10    0    0         
