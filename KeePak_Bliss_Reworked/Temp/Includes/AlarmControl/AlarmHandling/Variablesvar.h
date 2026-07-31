@@ -1,8 +1,8 @@
 /* Automation Studio generated header file */
 /* Do not edit ! */
 
-#ifndef _BUR_1748096290_22_
-#define _BUR_1748096290_22_
+#ifndef _BUR_1753370115_22_
+#define _BUR_1753370115_22_
 
 #include <bur/plctypes.h>
 
@@ -47,5 +47,5 @@ __asm__(".ascii \"iecfile \\\"Logical/Libraries/MpAlarmX/MpAlarmX.fun\\\" scope 
 __asm__(".previous");
 
 
-#endif /* _BUR_1748096290_22_ */
+#endif /* _BUR_1753370115_22_ */
 

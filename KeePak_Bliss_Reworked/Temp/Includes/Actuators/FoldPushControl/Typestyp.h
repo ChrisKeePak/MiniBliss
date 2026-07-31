@@ -1,8 +1,8 @@
 /* Automation Studio generated header file */
 /* Do not edit ! */
 
-#ifndef _BUR_1748096289_10_
-#define _BUR_1748096289_10_
+#ifndef _BUR_1753370115_10_
+#define _BUR_1753370115_10_
 
 #include <bur/plctypes.h>
 
@@ -19,5 +19,5 @@ __asm__(".ascii \"iecfile \\\"Logical/Actuators/FoldPushControl/Types.typ\\\" sc
 __asm__(".previous");
 
 
-#endif /* _BUR_1748096289_10_ */
+#endif /* _BUR_1753370115_10_ */
 

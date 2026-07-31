@@ -1,8 +1,8 @@
 /* Automation Studio generated header file */
 /* Do not edit ! */
 
-#ifndef _BUR_1748096289_16_
-#define _BUR_1748096289_16_
+#ifndef _BUR_1753370115_16_
+#define _BUR_1753370115_16_
 
 #include <bur/plctypes.h>
 
@@ -19,5 +19,5 @@ __asm__(".ascii \"iecfile \\\"Logical/Actuators/FlexTest/Types.typ\\\" scope \\\
 __asm__(".previous");
 
 
-#endif /* _BUR_1748096289_16_ */
+#endif /* _BUR_1753370115_16_ */
 

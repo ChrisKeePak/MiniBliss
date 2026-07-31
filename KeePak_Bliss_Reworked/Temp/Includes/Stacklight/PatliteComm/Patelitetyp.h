@@ -1,8 +1,8 @@
 /* Automation Studio generated header file */
 /* Do not edit ! */
 
-#ifndef _BUR_1748096290_26_
-#define _BUR_1748096290_26_
+#ifndef _BUR_1753370115_26_
+#define _BUR_1753370115_26_
 
 #include <bur/plctypes.h>
 
@@ -36,5 +36,5 @@ __asm__(".ascii \"iecfile \\\"Logical/Stacklight/PatliteComm/Patelite.typ\\\" sc
 __asm__(".previous");
 
 
-#endif /* _BUR_1748096290_26_ */
+#endif /* _BUR_1753370115_26_ */
 

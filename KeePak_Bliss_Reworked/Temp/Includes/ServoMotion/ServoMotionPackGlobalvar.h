@@ -1,8 +1,8 @@
 /* Automation Studio generated header file */
 /* Do not edit ! */
 
-#ifndef _BUR_1748096289_4_
-#define _BUR_1748096289_4_
+#ifndef _BUR_1753370115_4_
+#define _BUR_1753370115_4_
 
 #include <bur/plctypes.h>
 
@@ -31,5 +31,5 @@ __asm__(".ascii \"iecfile \\\"Logical/ServoMotion/ServoMotionPackGlobal.var\\\" 
 __asm__(".previous");
 
 
-#endif /* _BUR_1748096289_4_ */
+#endif /* _BUR_1753370115_4_ */
 

@@ -1,8 +1,8 @@
 /* Automation Studio generated header file */
 /* Do not edit ! */
 
-#ifndef _BUR_1748096290_23_
-#define _BUR_1748096290_23_
+#ifndef _BUR_1753370115_23_
+#define _BUR_1753370115_23_
 
 #include <bur/plctypes.h>
 
@@ -28,5 +28,5 @@ __asm__(".ascii \"iecfile \\\"Logical/AlarmControl/AlarmHandling/LocalFunctions.
 __asm__(".previous");
 
 
-#endif /* _BUR_1748096290_23_ */
+#endif /* _BUR_1753370115_23_ */
 

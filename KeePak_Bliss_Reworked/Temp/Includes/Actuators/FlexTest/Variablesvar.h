@@ -1,8 +1,8 @@
 /* Automation Studio generated header file */
 /* Do not edit ! */
 
-#ifndef _BUR_1748096289_17_
-#define _BUR_1748096289_17_
+#ifndef _BUR_1753370115_17_
+#define _BUR_1753370115_17_
 
 #include <bur/plctypes.h>
 
@@ -32,5 +32,5 @@ __asm__(".ascii \"iecfile \\\"Logical/Libraries/Lib_PBFlx/Lib_PBFlx.fun\\\" scop
 __asm__(".previous");
 
 
-#endif /* _BUR_1748096289_17_ */
+#endif /* _BUR_1753370115_17_ */
 

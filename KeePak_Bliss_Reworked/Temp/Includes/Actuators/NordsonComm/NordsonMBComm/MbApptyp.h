@@ -1,8 +1,8 @@
 /* Automation Studio generated header file */
 /* Do not edit ! */
 
-#ifndef _BUR_1748096289_12_
-#define _BUR_1748096289_12_
+#ifndef _BUR_1753370115_12_
+#define _BUR_1753370115_12_
 
 #include <bur/plctypes.h>
 
@@ -48,5 +48,5 @@ __asm__(".ascii \"iecfile \\\"Logical/Actuators/NordsonComm/NordsonMBComm/MbApp.
 __asm__(".previous");
 
 
-#endif /* _BUR_1748096289_12_ */
+#endif /* _BUR_1753370115_12_ */
 

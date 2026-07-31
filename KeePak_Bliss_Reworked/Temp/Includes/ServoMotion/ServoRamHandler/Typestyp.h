@@ -1,8 +1,8 @@
 /* Automation Studio generated header file */
 /* Do not edit ! */
 
-#ifndef _BUR_1748096290_31_
-#define _BUR_1748096290_31_
+#ifndef _BUR_1753370115_31_
+#define _BUR_1753370115_31_
 
 #include <bur/plctypes.h>
 
@@ -46,5 +46,5 @@ __asm__(".ascii \"iecfile \\\"Logical/ServoMotion/ServoRamHandler/Types.typ\\\" 
 __asm__(".previous");
 
 
-#endif /* _BUR_1748096290_31_ */
+#endif /* _BUR_1753370115_31_ */
 

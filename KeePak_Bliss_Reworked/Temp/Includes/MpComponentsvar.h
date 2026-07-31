@@ -1,8 +1,8 @@
 /* Automation Studio generated header file */
 /* Do not edit ! */
 
-#ifndef _BUR_1748096289_3_
-#define _BUR_1748096289_3_
+#ifndef _BUR_1753370115_3_
+#define _BUR_1753370115_3_
 
 #include <bur/plctypes.h>
 
@@ -37,5 +37,5 @@ __asm__(".ascii \"iecfile \\\"Temp/Includes/AS_TempDecl/MasterConfiguration_Serv
 __asm__(".previous");
 
 
-#endif /* _BUR_1748096289_3_ */
+#endif /* _BUR_1753370115_3_ */
 

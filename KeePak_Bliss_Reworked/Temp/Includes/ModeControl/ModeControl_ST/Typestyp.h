@@ -1,8 +1,8 @@
 /* Automation Studio generated header file */
 /* Do not edit ! */
 
-#ifndef _BUR_1748096289_5_
-#define _BUR_1748096289_5_
+#ifndef _BUR_1753370115_5_
+#define _BUR_1753370115_5_
 
 #include <bur/plctypes.h>
 
@@ -38,5 +38,5 @@ __asm__(".ascii \"iecfile \\\"Logical/ModeControl/ModeControl_ST/Types.typ\\\" s
 __asm__(".previous");
 
 
-#endif /* _BUR_1748096289_5_ */
+#endif /* _BUR_1753370115_5_ */
 

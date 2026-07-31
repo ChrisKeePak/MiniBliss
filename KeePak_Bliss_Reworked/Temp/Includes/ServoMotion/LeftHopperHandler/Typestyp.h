@@ -1,8 +1,8 @@
 /* Automation Studio generated header file */
 /* Do not edit ! */
 
-#ifndef _BUR_1748096290_39_
-#define _BUR_1748096290_39_
+#ifndef _BUR_1753370115_39_
+#define _BUR_1753370115_39_
 
 #include <bur/plctypes.h>
 
@@ -34,5 +34,5 @@ __asm__(".ascii \"iecfile \\\"Logical/ServoMotion/LeftHopperHandler/Types.typ\\\
 __asm__(".previous");
 
 
-#endif /* _BUR_1748096290_39_ */
+#endif /* _BUR_1753370115_39_ */
 

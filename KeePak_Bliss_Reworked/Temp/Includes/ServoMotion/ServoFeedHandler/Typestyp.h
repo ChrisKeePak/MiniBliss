@@ -1,8 +1,8 @@
 /* Automation Studio generated header file */
 /* Do not edit ! */
 
-#ifndef _BUR_1748096290_35_
-#define _BUR_1748096290_35_
+#ifndef _BUR_1753370115_35_
+#define _BUR_1753370115_35_
 
 #include <bur/plctypes.h>
 
@@ -29,5 +29,5 @@ __asm__(".ascii \"iecfile \\\"Logical/ServoMotion/ServoFeedHandler/Types.typ\\\"
 __asm__(".previous");
 
 
-#endif /* _BUR_1748096290_35_ */
+#endif /* _BUR_1753370115_35_ */
 
